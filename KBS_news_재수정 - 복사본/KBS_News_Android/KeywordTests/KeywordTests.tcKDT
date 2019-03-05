@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9576DAFD-0ADD-41A8-9897-C72F150AF6BB}" version="14.0">
+	<children>
+		<child name="D01_Android_Front" key="{5F988E5B-A362-4F04-B1F7-5FC14FA285FC}" path="D01_Android_Front.tcKDTest" />
+		<child name="D02_Android_FOOTER_menu" key="{8E9E0063-6CD7-473A-B915-44CD9DF3FF2A}" path="D02_Android_FOOTER_menu.tcKDTest" />
+		<child name="D03_Android_Expand_menu" key="{0215772A-E774-40E2-A5B1-C76BFE95C0DD}" path="D03_Android_Expand_menu.tcKDTest" />
+		<child name="D04_Android_News_DetailView" key="{172F2FB4-90CD-43A1-98A2-67751D42DD37}" path="D04_Android_News_DetailView.tcKDTest" />
+		<child name="Scenario_test" key="{CEDF4CAC-87C6-4196-A75F-02C48678C9E9}" path="Scenario_test.tcKDTest" />
+		<child name="GoToPage" key="{37ED8788-5AB2-4C65-A217-B87830713EA7}" path="GoToPage.tcKDTest" />
+		<child name="Test1" key="{8B226622-210F-41D8-AB0C-E8CF75810B90}" path="Test1.tcKDTest" />
+	</children>
+</Root>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9576DAFD-0ADD-41A8-9897-C72F150AF6BB}" version="14.0">
+	<children>
+		<child name="C01_MyPage" key="{0916DC76-9207-4A1B-B14F-20AC89F0F4AE}" path="C01_MyPage.tcKDTest" />
+		<child name="C02_Comment" key="{7439BB64-524E-4E6A-A5BC-7DDC818B7C8B}" path="C02_Comment.tcKDTest" />
+		<child name="Scenario_Test" key="{97306962-CEE9-4794-9371-AD90ABAF9CB9}" path="Scenario_Test.tcKDTest" />
+		<child name="C02_Comment_Chrome" key="{4D8C0642-BD03-4930-A4AF-9664F1CC738A}" path="C02_Comment_Chrome.tcKDTest" />
+		<child name="C02_Commnet_IE" key="{CA5D338C-C1CA-465F-8D22-D58171BB9CDD}" path="C02_Commnet_IE.tcKDTest" />
+		<child name="Test1" key="{AA72AE50-6BA3-4B56-AAAD-2CB8C621D93A}" path="Test1.tcKDTest" />
+	</children>
+</Root>

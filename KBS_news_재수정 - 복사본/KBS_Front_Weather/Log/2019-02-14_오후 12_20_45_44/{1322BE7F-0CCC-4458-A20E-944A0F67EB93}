@@ -1,0 +1,2561 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE Nodes [
+
+<!ENTITY % NameValue "CDATA">
+<!ENTITY % PropType "(I|S|D|L|H|B)">
+<!ENTITY % VersionValue "CDATA">
+
+<!ELEMENT Prp (#PCDATA)>
+<!ELEMENT Node (Node|Prp)*>
+<!ELEMENT Nodes (Node)+>
+
+<!ATTLIST Nodes version CDATA "1">
+
+<!ATTLIST Node name CDATA #REQUIRED>
+
+<!ATTLIST Prp name CDATA #REQUIRED>
+<!ATTLIST Prp type CDATA #REQUIRED>
+<!ATTLIST Prp value CDATA #REQUIRED>
+]>
+<Nodes version="1">
+	<Node name="root">
+		<Node name="message 45">
+			<Prp name="message" type="S" value="The property checkpoint passed: Name equals (case-sensitive) &quot;Link(2)&quot;."/>
+			<Prp name="as html" type="B" value="-1"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="43510.5156079167"/>
+			<Prp name="line no" type="I" value="93"/>
+			<Prp name="remarks" type="S" value="&lt;h3&gt;Result&lt;/h3&gt;&lt;span&gt;The property checkpoint &lt;b&gt;passed&lt;/b&gt;: Aliases.browser.pageNews...nel3.panel.panel2.link3.Name&lt;b&gt; equals (case-sensitive) &lt;/b&gt;&quot;Link(2)&quot;.&lt;/span&gt;&lt;h3&gt;Details&lt;/h3&gt;&lt;table style='width: 100%'&gt;&lt;tr&gt;&lt;th style='width: 10%'&gt;Object&lt;/th&gt;&lt;td&gt;&lt;a href='lnamemapping://{ABA92325-EF41-49FB-BB06-3B375F1538DE}.{7705BD92-2096-489B-B52D-A86EF0074969}'&gt;Aliases.browser.pageNewsKbsCoKrVodProgramDoBcd00.panelWrap.panelContainer.panelContent.panel3.panel.panel2.link3&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Property&lt;/th&gt;&lt;td&gt;Name&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Condition&lt;/th&gt;&lt;td&gt;equals (case-sensitive)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Actual value&lt;/th&gt;&lt;td&gt;&quot;Link(2)&quot;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Expected value&lt;/th&gt;&lt;td&gt;&quot;Link(2)&quot;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="picture" type="S" value="Picture13.png"/>
+			<Prp name="id" type="I" value="45"/>
+			<Prp name="type" type="I" value="7"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="link" type="S" value=""/>
+		</Node>
+		<Node name="item 11">
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="stacktext" type="S" value="B02_News_DetailView_2()"/>
+			<Prp name="line no" type="I" value="209"/>
+		</Node>
+		<Node name="message 27">
+			<Prp name="message" type="S" value="The property checkpoint passed: Name equals (case-sensitive) &quot;TextNode(0)&quot;."/>
+			<Prp name="as html" type="B" value="-1"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="43510.514935162"/>
+			<Prp name="line no" type="I" value="58"/>
+			<Prp name="remarks" type="S" value="&lt;h3&gt;Result&lt;/h3&gt;&lt;span&gt;The property checkpoint &lt;b&gt;passed&lt;/b&gt;: Aliases.browser.pageNews...el.panel.link6.textnode.Name&lt;b&gt; equals (case-sensitive) &lt;/b&gt;&quot;TextNode(0)&quot;.&lt;/span&gt;&lt;h3&gt;Details&lt;/h3&gt;&lt;table style='width: 100%'&gt;&lt;tr&gt;&lt;th style='width: 10%'&gt;Object&lt;/th&gt;&lt;td&gt;&lt;a href='lnamemapping://{ABA92325-EF41-49FB-BB06-3B375F1538DE}.{653A9728-4502-4A99-A780-1B0D5BF92BB4}'&gt;Aliases.browser.pageNewsKbsCoKrVodProgramDoBcd00.panelWrap.panelContainer.panelContent.panel3.panel.panel.link6.textnode&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Property&lt;/th&gt;&lt;td&gt;Name&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Condition&lt;/th&gt;&lt;td&gt;equals (case-sensitive)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Actual value&lt;/th&gt;&lt;td&gt;&quot;TextNode(0)&quot;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Expected value&lt;/th&gt;&lt;td&gt;&quot;TextNode(0)&quot;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="picture" type="S" value="Picture8.png"/>
+			<Prp name="id" type="I" value="27"/>
+			<Prp name="type" type="I" value="7"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="link" type="S" value=""/>
+		</Node>
+		<Node name="message 53">
+			<Prp name="message" type="S" value="The property checkpoint passed: Name equals (case-sensitive) &quot;Link(4)&quot;."/>
+			<Prp name="as html" type="B" value="-1"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="43510.5157514583"/>
+			<Prp name="line no" type="I" value="107"/>
+			<Prp name="remarks" type="S" value="&lt;h3&gt;Result&lt;/h3&gt;&lt;span&gt;The property checkpoint &lt;b&gt;passed&lt;/b&gt;: Aliases.browser.pageNews...nel3.panel.panel2.link2.Name&lt;b&gt; equals (case-sensitive) &lt;/b&gt;&quot;Link(4)&quot;.&lt;/span&gt;&lt;h3&gt;Details&lt;/h3&gt;&lt;table style='width: 100%'&gt;&lt;tr&gt;&lt;th style='width: 10%'&gt;Object&lt;/th&gt;&lt;td&gt;&lt;a href='lnamemapping://{ABA92325-EF41-49FB-BB06-3B375F1538DE}.{A7106E0D-6B82-41E0-9098-5AB73D17E8B6}'&gt;Aliases.browser.pageNewsKbsCoKrVodProgramDoBcd00.panelWrap.panelContainer.panelContent.panel3.panel.panel2.link2&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Property&lt;/th&gt;&lt;td&gt;Name&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Condition&lt;/th&gt;&lt;td&gt;equals (case-sensitive)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Actual value&lt;/th&gt;&lt;td&gt;&quot;Link(4)&quot;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Expected value&lt;/th&gt;&lt;td&gt;&quot;Link(4)&quot;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="picture" type="S" value="Picture15.png"/>
+			<Prp name="id" type="I" value="53"/>
+			<Prp name="type" type="I" value="7"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="link" type="S" value=""/>
+		</Node>
+		<Node name="stack"/>
+		<Node name="message 50">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point y" type="I" value="571"/>
+					<Prp name="object right" type="I" value="1552"/>
+					<Prp name="object left" type="I" value="1181"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="click point x" type="I" value="1366"/>
+					<Prp name="object name" type="S" value="Aliases.browser.pageNewsKbsCoKrVodProgramDoBcd00.panelWrap.panelContainer.panelContent.panel3.panel.panel2.link6"/>
+					<Prp name="line #" type="I" value="103"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="object top" type="I" value="528"/>
+					<Prp name="object bottom" type="I" value="614"/>
+					<Prp name="image file name" type="S" value="visImage12.png"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="datetime" type="D" value="43510.1406821759"/>
+				</Node>
+			</Node>
+			<Prp name="message" type="S" value="The window was clicked with the left mouse button."/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="43510.5156831019"/>
+			<Prp name="line no" type="I" value="103"/>
+			<Prp name="remarks" type="S" value="A click at point (185, 43) with no key pressed.&#xA;&#xA;Tested object:&#xA;Aliases.browser.pageNewsKbsCoKrVodProgramDoBcd00.panelWrap.panelContainer.panelContent.panel3.panel.panel2.link6&#xA;(Sys.Browser(&quot;chrome&quot;).Page(&quot;http://news.kbs.co.kr/common/main.html&quot;).Panel(&quot;wrap&quot;).Panel(&quot;container&quot;).Panel(&quot;content&quot;).Panel(5).Panel(0).Panel(1).Link(3))"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="id" type="I" value="50"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="link" type="S" value=""/>
+		</Node>
+		<Node name="message 14">
+			<Prp name="message" type="S" value="Navigating to the http://news.kbs.co.kr/ page."/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="43510.5146684375"/>
+			<Prp name="line no" type="I" value="29"/>
+			<Prp name="remarks" type="S" value="URL: http://news.kbs.co.kr/&#xA;&#xA;Aliases.browser"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="id" type="I" value="14"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="link" type="S" value=""/>
+		</Node>
+		<Node name="message 72">
+			<Prp name="message" type="S" value="The property value &quot;2년차 징크스는 없다…‘우익수’ 강백호 “목표는 30홈런!”&quot; does not equal &quot;동영상↴2년차 징크스는 없다…‘우익수’ 강백호 “목표는 30홈런!”&quot;."/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="43510.5159634375"/>
+			<Prp name="line no" type="I" value="142"/>
+			<Prp name="remarks" type="S" value=""/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="id" type="I" value="72"/>
+			<Prp name="type" type="I" value="2"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="link" type="S" value=""/>
+		</Node>
+		<Node name="message 106">
+			<Prp name="message" type="S" value="Unable to verify a value with the property checkpoint, because the target object does not exist."/>
+			<Prp name="stack end" type="I" value="4"/>
+			<Prp name="as html" type="B" value="-1"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="43510.5168243518"/>
+			<Prp name="stack beginning" type="I" value="4"/>
+			<Prp name="line no" type="I" value="201"/>
+			<Prp name="remarks" type="S" value="&lt;html&gt;&lt;style&gt;body {font-family : Segoe UI, Tahoma, Arial, Helvetica, sans-serif; font-size : 10pt; font-weight : normal; padding : 14px 8px 8px 14px; margin : 0 0 0 0;} p {margin : 4px 0 4px 0; padding : 0 0 0 0;} h4 {font-size: 10pt; font-weight : bold; margin : 12px 0 0 16px; padding : 0 0 0 0;} table {margin-left : 16px; border-top: 1px solid grey;} td {font-size : 10pt; font-weight : normal; padding-left : 8px;} &lt;/style&gt;&lt;style&gt;p, td, th{font-size: 10pt;} td, th {border-bottom: 1px solid #cdcdcd; padding: 2px 10px 2px 10px;} th {text-align: left; background: #cdcdcd; font-weight : normal;}  p {padding : 0; margin : 4 0 4 0px; line-height: 16pt;} table {border: 0px;}&lt;/style&gt;&lt;body&gt;&lt;p&gt;Unable to find the following object when executing the &lt;code&gt;Property Checkpoint&lt;/code&gt; command:&lt;/p&gt;&lt;p style=&quot;margin-left: 10px;&quot;&gt;&lt;code&gt;Aliases.&amp;#8203;browser.&amp;#8203;&lt;a href=&quot;lnamemapping://{ABA92325-EF41-49FB-BB06-3B375F1538DE}.Aliases.browser.pageNewsKbsCoKrVodProgramDoBcd00&quot; title=&quot;Missing object. Click to view and change its recognition settings.&quot;&gt;&lt;span style=&quot;color: red; font-weight: bold;&quot;&gt;pageNewsKbsCoKrVodProgramDoBcd00&lt;/span&gt;&lt;/a&gt;.&amp;#8203;panelWrap.&amp;#8203;panelContainer.&amp;#8203;panelContent.&amp;#8203;&lt;a href=&quot;lnamemapping://{ABA92325-EF41-49FB-BB06-3B375F1538DE}.Aliases.browser.pageNewsKbsCoKrVodProgramDoBcd00.panelWrap.panelContainer.panelContent.linkTab3&quot; title=&quot;Called object. Click to view and change its recognition settings.&quot;&gt;&lt;span style=&quot;color: blue; font-weight: bold;&quot;&gt;linkTab3&lt;/span&gt;&lt;/a&gt;&lt;/code&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;b style=&quot;color: #777;&quot;&gt;Reason&lt;/b&gt;&lt;/p&gt;&lt;p&gt;The parent object was not found:&lt;/p&gt;&lt;p style=&quot;margin-left: 10px;&quot;&gt;&lt;code&gt;Aliases.&amp;#8203;browser.&amp;#8203;&lt;a href=&quot;lnamemapping://{ABA92325-EF41-49FB-BB06-3B375F1538DE}.Aliases.browser.pageNewsKbsCoKrVodProgramDoBcd00&quot; title=&quot;Missing object. Click to view and change its recognition settings.&quot;&gt;&lt;span style=&quot;color: red; font-weight: bold;&quot;&gt;pageNewsKbsCoKrVodProgramDoBcd00&lt;/span&gt;&lt;/a&gt;&lt;/code&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;b style=&quot;color: #777;&quot;&gt;Tips&lt;/b&gt;&lt;/p&gt;&lt;ul style=&quot;margin-top: 10px&quot;&gt;&lt;li&gt;The &lt;span style=&quot;color: red;&quot;&gt;missing object&lt;/span&gt; could be absent during the test run. Check the screenshot on the &lt;a href=&quot;showpicture://pic&quot;&gt;Picture&lt;/a&gt; tab if the object existed.&lt;/li&gt;&lt;li&gt;If the object existed, &lt;a href=&quot;lnamemapping://{ABA92325-EF41-49FB-BB06-3B375F1538DE}.Aliases.browser.pageNewsKbsCoKrVodProgramDoBcd00&quot;&gt;view and change&lt;/a&gt; its recognition attributes.&lt;/li&gt;&lt;li&gt;If the object didn't exist, check if earlier test steps worked correctly.&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;aqa-help://2201&quot;&gt;Learn more&lt;/a&gt; about possible causes of the error.&lt;/li&gt;&lt;/ul&gt;&lt;/body&gt;&lt;/html&gt;"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="pictype" type="I" value="2"/>
+			<Prp name="picture" type="S" value="Picture33.png"/>
+			<Prp name="id" type="I" value="106"/>
+			<Prp name="type" type="I" value="3"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="link" type="S" value=""/>
+		</Node>
+		<Node name="message 57">
+			<Prp name="message" type="S" value="The property checkpoint passed: Name equals (case-sensitive) &quot;Link(5)&quot;."/>
+			<Prp name="as html" type="B" value="-1"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="43510.5158213657"/>
+			<Prp name="line no" type="I" value="114"/>
+			<Prp name="remarks" type="S" value="&lt;h3&gt;Result&lt;/h3&gt;&lt;span&gt;The property checkpoint &lt;b&gt;passed&lt;/b&gt;: Aliases.browser.pageNews...nel3.panel.panel2.link7.Name&lt;b&gt; equals (case-sensitive) &lt;/b&gt;&quot;Link(5)&quot;.&lt;/span&gt;&lt;h3&gt;Details&lt;/h3&gt;&lt;table style='width: 100%'&gt;&lt;tr&gt;&lt;th style='width: 10%'&gt;Object&lt;/th&gt;&lt;td&gt;&lt;a href='lnamemapping://{ABA92325-EF41-49FB-BB06-3B375F1538DE}.{400F0931-91BE-456F-9B6D-69CF37944052}'&gt;Aliases.browser.pageNewsKbsCoKrVodProgramDoBcd00.panelWrap.panelContainer.panelContent.panel3.panel.panel2.link7&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Property&lt;/th&gt;&lt;td&gt;Name&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Condition&lt;/th&gt;&lt;td&gt;equals (case-sensitive)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Actual value&lt;/th&gt;&lt;td&gt;&quot;Link(5)&quot;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Expected value&lt;/th&gt;&lt;td&gt;&quot;Link(5)&quot;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="picture" type="S" value="Picture16.png"/>
+			<Prp name="id" type="I" value="57"/>
+			<Prp name="type" type="I" value="7"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="link" type="S" value=""/>
+		</Node>
+		<Node name="item 8">
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="stacktext" type="S" value="B02_News_DetailView_2()"/>
+			<Prp name="line no" type="I" value="207"/>
+		</Node>
+		<Node name="message 28">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point y" type="I" value="571"/>
+					<Prp name="object right" type="I" value="837"/>
+					<Prp name="object left" type="I" value="352"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="click point x" type="I" value="594"/>
+					<Prp name="object name" type="S" value="Aliases.browser.pageNewsKbsCoKrVodProgramDoBcd00.panelWrap.panelContainer.panelContent.panel3.panel.panel.link6.textnode"/>
+					<Prp name="line #" type="I" value="61"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="object top" type="I" value="558"/>
+					<Prp name="object bottom" type="I" value="585"/>
+					<Prp name="image file name" type="S" value="visImage6.png"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="datetime" type="D" value="43510.1399372338"/>
+				</Node>
+			</Node>
+			<Prp name="message" type="S" value="The window was clicked with the left mouse button."/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="43510.5149380671"/>
+			<Prp name="line no" type="I" value="61"/>
+			<Prp name="remarks" type="S" value="A click at point (242, 13) with no key pressed.&#xA;&#xA;Tested object:&#xA;Aliases.browser.pageNewsKbsCoKrVodProgramDoBcd00.panelWrap.panelContainer.panelContent.panel3.panel.panel.link6.textnode&#xA;(Sys.Browser(&quot;chrome&quot;).Page(&quot;http://news.kbs.co.kr/common/main.html&quot;).Panel(&quot;wrap&quot;).Panel(&quot;container&quot;).Panel(&quot;content&quot;).Panel(5).Panel(0).Panel(0).Link(6).TextNode(0))"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="id" type="I" value="28"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="link" type="S" value=""/>
+		</Node>
+		<Node name="message 1">
+			<Prp name="message" type="S" value="Ambiguous recognition of the tested object."/>
+			<Prp name="as html" type="B" value="-1"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="43510.5144664236"/>
+			<Prp name="line no" type="I" value="3"/>
+			<Prp name="remarks" type="S" value="&lt;html&gt;&lt;style&gt;body {font-family : Segoe UI, Tahoma, Arial, Helvetica, sans-serif; font-size : 10pt; font-weight : normal; padding : 14px 8px 8px 14px; margin : 0 0 0 0;} p {margin : 4px 0 4px 0; padding : 0 0 0 0;} h4 {font-size: 10pt; font-weight : bold; margin : 12px 0 0 16px; padding : 0 0 0 0;} table {margin-left : 16px; border-top: 1px solid grey;} td {font-size : 10pt; font-weight : normal; padding-left : 8px;} &lt;/style&gt;&lt;body&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;There are several objects that match the identification attributes of the &quot;&lt;a href=&quot;namemapping://{ABA92325-EF41-49FB-BB06-3B375F1538DE}.{0423559F-60F0-4F2B-B419-7F1D4DB94EF0}&quot;&gt;panel3&lt;/a&gt;&quot; mapped object. This may result in slow search for objects.&lt;/p&gt;&lt;p style=&quot;margin-top: 12px;&quot;&gt;To solve the problem, you may need to modify the mapping settings of the &quot;&lt;a href=&quot;namemapping://{ABA92325-EF41-49FB-BB06-3B375F1538DE}.{0423559F-60F0-4F2B-B419-7F1D4DB94EF0}&quot;&gt;panel3&lt;/a&gt;&quot; object or one of its parent objects.&lt;/p&gt;&lt;p style=&quot;margin-top: 12px;&quot;&gt;&lt;a href=&quot;namemappinghideamb://{ABA92325-EF41-49FB-BB06-3B375F1538DE}.{0423559F-60F0-4F2B-B419-7F1D4DB94EF0}&quot;&gt;Disable this warning for the &quot;panel3&quot; mapped object.&lt;/a&gt;&lt;/p&gt;&lt;p style=&quot;margin-top: 12px;&quot;&gt;&lt;a href=&quot;aqa-help://2204&quot;&gt;See Help for more information&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="id" type="I" value="1"/>
+			<Prp name="type" type="I" value="2"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="link" type="S" value=""/>
+		</Node>
+		<Node name="item 2">
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="stacktext" type="S" value="B02_News_DetailView_2()"/>
+			<Prp name="line no" type="I" value="199"/>
+		</Node>
+		<Node name="message 10">
+			<Prp name="message" type="S" value="Navigating to the http://news.kbs.co.kr/ page."/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="43510.5145914583"/>
+			<Prp name="line no" type="I" value="20"/>
+			<Prp name="remarks" type="S" value="URL: http://news.kbs.co.kr/&#xA;&#xA;Aliases.browser"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="id" type="I" value="10"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="link" type="S" value=""/>
+		</Node>
+		<Node name="message 65">
+			<Prp name="message" type="S" value="Navigating to the http://news.kbs.co.kr/ page."/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="43510.5159003935"/>
+			<Prp name="line no" type="I" value="130"/>
+			<Prp name="remarks" type="S" value="URL: http://news.kbs.co.kr/&#xA;&#xA;Aliases.browser"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="id" type="I" value="65"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="link" type="S" value=""/>
+		</Node>
+		<Node name="item 1">
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="stacktext" type="S" value="B02_News_DetailView_2()"/>
+			<Prp name="line no" type="I" value="196"/>
+		</Node>
+		<Node name="message 67">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point y" type="I" value="572"/>
+					<Prp name="object right" type="I" value="1248"/>
+					<Prp name="object left" type="I" value="960"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="click point x" type="I" value="1104"/>
+					<Prp name="object name" type="S" value="Aliases.browser.pageNewsKbsCoKrVodProgramDoBcd00.panelWrap.panelContainer.panelContent.panel4.panel.link"/>
+					<Prp name="line #" type="I" value="134"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="object top" type="I" value="491"/>
+					<Prp name="object bottom" type="I" value="653"/>
+					<Prp name="image file name" type="S" value="visImage16.png"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="datetime" type="D" value="43510.1409116088"/>
+				</Node>
+			</Node>
+			<Prp name="message" type="S" value="The window was clicked with the left mouse button."/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="43510.5159125347"/>
+			<Prp name="line no" type="I" value="134"/>
+			<Prp name="remarks" type="S" value="A click at point (144, 81) with no key pressed.&#xA;&#xA;Tested object:&#xA;Aliases.browser.pageNewsKbsCoKrVodProgramDoBcd00.panelWrap.panelContainer.panelContent.panel4.panel.link&#xA;(Sys.Browser(&quot;chrome&quot;).Page(&quot;http://news.kbs.co.kr/common/main.html&quot;).Panel(&quot;wrap&quot;).Panel(&quot;container&quot;).Panel(&quot;content&quot;).Panel(6).Panel(0).Link(2))"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="id" type="I" value="67"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="link" type="S" value=""/>
+		</Node>
+		<Node name="message 111">
+			<Prp name="message" type="S" value="Unable to verify a value with the property checkpoint, because the target object does not exist."/>
+			<Prp name="stack end" type="I" value="9"/>
+			<Prp name="as html" type="B" value="-1"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="43510.5171437963"/>
+			<Prp name="stack beginning" type="I" value="9"/>
+			<Prp name="line no" type="I" value="208"/>
+			<Prp name="remarks" type="S" value="&lt;html&gt;&lt;style&gt;body {font-family : Segoe UI, Tahoma, Arial, Helvetica, sans-serif; font-size : 10pt; font-weight : normal; padding : 14px 8px 8px 14px; margin : 0 0 0 0;} p {margin : 4px 0 4px 0; padding : 0 0 0 0;} h4 {font-size: 10pt; font-weight : bold; margin : 12px 0 0 16px; padding : 0 0 0 0;} table {margin-left : 16px; border-top: 1px solid grey;} td {font-size : 10pt; font-weight : normal; padding-left : 8px;} &lt;/style&gt;&lt;style&gt;p, td, th{font-size: 10pt;} td, th {border-bottom: 1px solid #cdcdcd; padding: 2px 10px 2px 10px;} th {text-align: left; background: #cdcdcd; font-weight : normal;}  p {padding : 0; margin : 4 0 4 0px; line-height: 16pt;} table {border: 0px;}&lt;/style&gt;&lt;body&gt;&lt;p&gt;Unable to find the following object when executing the &lt;code&gt;Property Checkpoint&lt;/code&gt; command:&lt;/p&gt;&lt;p style=&quot;margin-left: 10px;&quot;&gt;&lt;code&gt;Aliases.&amp;#8203;browser.&amp;#8203;&lt;a href=&quot;lnamemapping://{ABA92325-EF41-49FB-BB06-3B375F1538DE}.Aliases.browser.pageNewsKbsCoKrVodProgramDoBcd00&quot; title=&quot;Missing object. Click to view and change its recognition settings.&quot;&gt;&lt;span style=&quot;color: red; font-weight: bold;&quot;&gt;pageNewsKbsCoKrVodProgramDoBcd00&lt;/span&gt;&lt;/a&gt;.&amp;#8203;panelWrap.&amp;#8203;panelContainer.&amp;#8203;panelContent.&amp;#8203;panel.&amp;#8203;panel.&amp;#8203;panel.&amp;#8203;&lt;a href=&quot;lnamemapping://{ABA92325-EF41-49FB-BB06-3B375F1538DE}.Aliases.browser.pageNewsKbsCoKrVodProgramDoBcd00.panelWrap.panelContainer.panelContent.panel.panel.panel.textnode2&quot; title=&quot;Called object. Click to view and change its recognition settings.&quot;&gt;&lt;span style=&quot;color: blue; font-weight: bold;&quot;&gt;textnode2&lt;/span&gt;&lt;/a&gt;&lt;/code&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;b style=&quot;color: #777;&quot;&gt;Reason&lt;/b&gt;&lt;/p&gt;&lt;p&gt;The parent object was not found:&lt;/p&gt;&lt;p style=&quot;margin-left: 10px;&quot;&gt;&lt;code&gt;Aliases.&amp;#8203;browser.&amp;#8203;&lt;a href=&quot;lnamemapping://{ABA92325-EF41-49FB-BB06-3B375F1538DE}.Aliases.browser.pageNewsKbsCoKrVodProgramDoBcd00&quot; title=&quot;Missing object. Click to view and change its recognition settings.&quot;&gt;&lt;span style=&quot;color: red; font-weight: bold;&quot;&gt;pageNewsKbsCoKrVodProgramDoBcd00&lt;/span&gt;&lt;/a&gt;&lt;/code&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;b style=&quot;color: #777;&quot;&gt;Tips&lt;/b&gt;&lt;/p&gt;&lt;ul style=&quot;margin-top: 10px&quot;&gt;&lt;li&gt;The &lt;span style=&quot;color: red;&quot;&gt;missing object&lt;/span&gt; could be absent during the test run. Check the screenshot on the &lt;a href=&quot;showpicture://pic&quot;&gt;Picture&lt;/a&gt; tab if the object existed.&lt;/li&gt;&lt;li&gt;If the object existed, &lt;a href=&quot;lnamemapping://{ABA92325-EF41-49FB-BB06-3B375F1538DE}.Aliases.browser.pageNewsKbsCoKrVodProgramDoBcd00&quot;&gt;view and change&lt;/a&gt; its recognition attributes.&lt;/li&gt;&lt;li&gt;If the object didn't exist, check if earlier test steps worked correctly.&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;aqa-help://2201&quot;&gt;Learn more&lt;/a&gt; about possible causes of the error.&lt;/li&gt;&lt;/ul&gt;&lt;/body&gt;&lt;/html&gt;"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="pictype" type="I" value="2"/>
+			<Prp name="picture" type="S" value="Picture38.png"/>
+			<Prp name="id" type="I" value="111"/>
+			<Prp name="type" type="I" value="3"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="link" type="S" value=""/>
+		</Node>
+		<Node name="message 78">
+			<Prp name="message" type="S" value="The property checkpoint passed: Name equals (case-sensitive) &quot;Link(5)&quot;."/>
+			<Prp name="as html" type="B" value="-1"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="43510.5160336806"/>
+			<Prp name="line no" type="I" value="152"/>
+			<Prp name="remarks" type="S" value="&lt;h3&gt;Result&lt;/h3&gt;&lt;span&gt;The property checkpoint &lt;b&gt;passed&lt;/b&gt;: Aliases.browser.pageNews...tent.panel4.panel.link4.Name&lt;b&gt; equals (case-sensitive) &lt;/b&gt;&quot;Link(5)&quot;.&lt;/span&gt;&lt;h3&gt;Details&lt;/h3&gt;&lt;table style='width: 100%'&gt;&lt;tr&gt;&lt;th style='width: 10%'&gt;Object&lt;/th&gt;&lt;td&gt;&lt;a href='lnamemapping://{ABA92325-EF41-49FB-BB06-3B375F1538DE}.{59852863-7DB7-4748-B2C7-B1E7EB70669C}'&gt;Aliases.browser.pageNewsKbsCoKrVodProgramDoBcd00.panelWrap.panelContainer.panelContent.panel4.panel.link4&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Property&lt;/th&gt;&lt;td&gt;Name&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Condition&lt;/th&gt;&lt;td&gt;equals (case-sensitive)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Actual value&lt;/th&gt;&lt;td&gt;&quot;Link(5)&quot;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Expected value&lt;/th&gt;&lt;td&gt;&quot;Link(5)&quot;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="picture" type="S" value="Picture22.png"/>
+			<Prp name="id" type="I" value="78"/>
+			<Prp name="type" type="I" value="7"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="link" type="S" value=""/>
+		</Node>
+		<Node name="message 19">
+			<Prp name="message" type="S" value="The property checkpoint passed: Name equals (case-sensitive) &quot;TextNode(0)&quot;."/>
+			<Prp name="as html" type="B" value="-1"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="43510.5147854167"/>
+			<Prp name="line no" type="I" value="40"/>
+			<Prp name="remarks" type="S" value="&lt;h3&gt;Result&lt;/h3&gt;&lt;span&gt;The property checkpoint &lt;b&gt;passed&lt;/b&gt;: Aliases.browser.pageNews...el.panel.link4.textnode.Name&lt;b&gt; equals (case-sensitive) &lt;/b&gt;&quot;TextNode(0)&quot;.&lt;/span&gt;&lt;h3&gt;Details&lt;/h3&gt;&lt;table style='width: 100%'&gt;&lt;tr&gt;&lt;th style='width: 10%'&gt;Object&lt;/th&gt;&lt;td&gt;&lt;a href='lnamemapping://{ABA92325-EF41-49FB-BB06-3B375F1538DE}.{7A470F4D-E84C-494A-9B86-8CCCA2B68025}'&gt;Aliases.browser.pageNewsKbsCoKrVodProgramDoBcd00.panelWrap.panelContainer.panelContent.panel3.panel.panel.link4.textnode&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Property&lt;/th&gt;&lt;td&gt;Name&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Condition&lt;/th&gt;&lt;td&gt;equals (case-sensitive)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Actual value&lt;/th&gt;&lt;td&gt;&quot;TextNode(0)&quot;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Expected value&lt;/th&gt;&lt;td&gt;&quot;TextNode(0)&quot;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="picture" type="S" value="Picture6.png"/>
+			<Prp name="id" type="I" value="19"/>
+			<Prp name="type" type="I" value="7"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="link" type="S" value=""/>
+		</Node>
+		<Node name="message 109">
+			<Prp name="message" type="S" value="Unable to verify a value with the property checkpoint, because the target object does not exist."/>
+			<Prp name="stack end" type="I" value="7"/>
+			<Prp name="as html" type="B" value="-1"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="43510.5170158912"/>
+			<Prp name="stack beginning" type="I" value="7"/>
+			<Prp name="line no" type="I" value="205"/>
+			<Prp name="remarks" type="S" value="&lt;!doctype html&gt; &lt;html&gt;&lt;style&gt;body {font-family : Segoe UI, Tahoma, Arial, Helvetica, sans-serif; font-size : 10pt; font-weight : normal; padding : 14px 8px 8px 14px; margin : 0 0 0 0;} p {margin : 4px 0 4px 0; padding : 0 0 0 0;} h4 {font-size: 10pt; font-weight : bold; margin : 12px 0 0 16px; padding : 0 0 0 0;} table {margin-left : 16px; border-top: 1px solid grey;} td {font-size : 10pt; font-weight : normal; padding-left : 8px;} &lt;/style&gt;&lt;style&gt;p, td, th{font-size: 10pt;} td, th {border-bottom: 1px solid #cdcdcd; padding: 2px 10px 2px 10px;} th {text-align: left; background: #cdcdcd; font-weight : normal;}  p {padding : 0; margin : 4 0 4 0px; line-height: 16pt;} table {border: 0px;}&lt;/style&gt;&lt;style&gt;.wide{width: 100%; margin: 0; padding:0; border:0;} .clsimg{width: 200px; margin: auto; border:0} td.row1{width: *;}  td.row2{width: 250px;}&lt;/style&gt;&lt;body&gt;&lt;div class=&quot;wide&quot;&gt;&lt;table class=&quot;wide&quot;&gt;&lt;thead&gt;&lt;tr&gt;&lt;td class=&quot;row1&quot;&gt;&lt;/td&gt;&lt;td class=&quot;row2&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;Unable to find the following object when executing the &lt;code&gt;Property Checkpoint&lt;/code&gt; command:&lt;/p&gt;&lt;p style=&quot;margin-left: 10px;&quot;&gt;&lt;code&gt;Aliases.&amp;#8203;browser.&amp;#8203;&lt;a href=&quot;lnamemapping://{ABA92325-EF41-49FB-BB06-3B375F1538DE}.Aliases.browser.pageNewsKbsCoKrVodProgramDoBcd00&quot; title=&quot;Missing object. Click to view and change its recognition settings.&quot;&gt;&lt;span style=&quot;color: red; font-weight: bold;&quot;&gt;pageNewsKbsCoKrVodProgramDoBcd00&lt;/span&gt;&lt;/a&gt;.&amp;#8203;panelWrap.&amp;#8203;panelContainer.&amp;#8203;panelContent.&amp;#8203;panel6.&amp;#8203;panel.&amp;#8203;panel.&amp;#8203;panel.&amp;#8203;&lt;a href=&quot;lnamemapping://{ABA92325-EF41-49FB-BB06-3B375F1538DE}.Aliases.browser.pageNewsKbsCoKrVodProgramDoBcd00.panelWrap.panelContainer.panelContent.panel6.panel.panel.panel.panelTabCon1&quot; title=&quot;Called object. Click to view and change its recognition settings.&quot;&gt;&lt;span style=&quot;color: blue; font-weight: bold;&quot;&gt;panelTabCon1&lt;/span&gt;&lt;/a&gt;&lt;/code&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;b style=&quot;color: #777;&quot;&gt;Reason&lt;/b&gt;&lt;/p&gt;&lt;p&gt;The parent object was not found:&lt;/p&gt;&lt;p style=&quot;margin-left: 10px;&quot;&gt;&lt;code&gt;Aliases.&amp;#8203;browser.&amp;#8203;&lt;a href=&quot;lnamemapping://{ABA92325-EF41-49FB-BB06-3B375F1538DE}.Aliases.browser.pageNewsKbsCoKrVodProgramDoBcd00&quot; title=&quot;Missing object. Click to view and change its recognition settings.&quot;&gt;&lt;span style=&quot;color: red; font-weight: bold;&quot;&gt;pageNewsKbsCoKrVodProgramDoBcd00&lt;/span&gt;&lt;/a&gt;&lt;/code&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;b style=&quot;color: #777;&quot;&gt;Tips&lt;/b&gt;&lt;/p&gt;&lt;ul style=&quot;margin-top: 10px&quot;&gt;&lt;li&gt;The &lt;span style=&quot;color: red;&quot;&gt;missing object&lt;/span&gt; could be absent during the test run. Check the screenshot on the &lt;a href=&quot;showpicture://pic&quot;&gt;Picture&lt;/a&gt;  tab if the object existed.&lt;/li&gt;&lt;li&gt;If the object existed, &lt;a href=&quot;lnamemapping://{ABA92325-EF41-49FB-BB06-3B375F1538DE}.Aliases.browser.pageNewsKbsCoKrVodProgramDoBcd00&quot;&gt;view and change&lt;/a&gt; its recognition attributes.&lt;/li&gt;&lt;li&gt;If the object didn't exist, check if earlier test steps worked correctly.&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;aqa-help://2201&quot;&gt;Learn more&lt;/a&gt; about possible causes of the error.&lt;/li&gt;&lt;/ul&gt;&lt;/td&gt;&lt;td style=&quot;vertical-align:top;text-align:center&quot;&gt; &lt;a href=&quot;showpicturedialog://%%LogDir%%\{A5F7DAA7-28E0-4187-9F4C-29D53CBF94D8}.png&quot;&gt; &lt;img title=&quot;The expected state of the tested application. The missing object (red frame) and the called test object (blue frame).&quot; class=&quot;clsimg&quot; src=&quot;%%LogDir%%\{A5F7DAA7-28E0-4187-9F4C-29D53CBF94D8}.png&quot;&gt; &lt;/a&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;&lt;/body&gt;&lt;/html&gt;"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="pictype" type="I" value="2"/>
+			<Prp name="picture" type="S" value="Picture36.png"/>
+			<Prp name="id" type="I" value="109"/>
+			<Prp name="type" type="I" value="3"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="link" type="S" value=""/>
+		</Node>
+		<Node name="message 3">
+			<Prp name="message" type="S" value="The property checkpoint passed: Name equals (case-sensitive) &quot;TextNode(0)&quot;."/>
+			<Prp name="as html" type="B" value="-1"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="43510.5144759028"/>
+			<Prp name="line no" type="I" value="4"/>
+			<Prp name="remarks" type="S" value="&lt;h3&gt;Result&lt;/h3&gt;&lt;span&gt;The property checkpoint &lt;b&gt;passed&lt;/b&gt;: Aliases.browser.pageNews...nel.panel.link.textnode.Name&lt;b&gt; equals (case-sensitive) &lt;/b&gt;&quot;TextNode(0)&quot;.&lt;/span&gt;&lt;h3&gt;Details&lt;/h3&gt;&lt;table style='width: 100%'&gt;&lt;tr&gt;&lt;th style='width: 10%'&gt;Object&lt;/th&gt;&lt;td&gt;&lt;a href='lnamemapping://{ABA92325-EF41-49FB-BB06-3B375F1538DE}.{39D00178-0F79-448B-8EAF-F307BD5129C4}'&gt;Aliases.browser.pageNewsKbsCoKrVodProgramDoBcd00.panelWrap.panelContainer.panelContent.panel3.panel.panel.link.textnode&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Property&lt;/th&gt;&lt;td&gt;Name&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Condition&lt;/th&gt;&lt;td&gt;equals (case-sensitive)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Actual value&lt;/th&gt;&lt;td&gt;&quot;TextNode(0)&quot;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Expected value&lt;/th&gt;&lt;td&gt;&quot;TextNode(0)&quot;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="picture" type="S" value="Picture2.png"/>
+			<Prp name="id" type="I" value="3"/>
+			<Prp name="type" type="I" value="7"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="link" type="S" value=""/>
+		</Node>
+		<Node name="message 29">
+			<Prp name="message" type="S" value="The property value &quot;한은 “가계부채 증가세 둔화 유지될듯…수도권 집값 당분간 안정세”&quot; equals &quot;한은 “가계부채 증가세 둔화 유지될듯…수도권 집값 당분간 안정세”&quot;."/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="43510.5149484028"/>
+			<Prp name="line no" type="I" value="63"/>
+			<Prp name="remarks" type="S" value=""/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="id" type="I" value="29"/>
+			<Prp name="type" type="I" value="0"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="link" type="S" value=""/>
+		</Node>
+		<Node name="message 47">
+			<Prp name="message" type="S" value="The property value &quot;손흥민, 그림 같은 ‘논스톱 슈팅’…4G 연속골·시즌 16호골&quot; equals &quot;손흥민, 그림 같은 ‘논스톱 슈팅’…4G 연속골·시즌 16호골&quot;."/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="43510.5156196296"/>
+			<Prp name="line no" type="I" value="97"/>
+			<Prp name="remarks" type="S" value=""/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="id" type="I" value="47"/>
+			<Prp name="type" type="I" value="0"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="link" type="S" value=""/>
+		</Node>
+		<Node name="message 13">
+			<Prp name="message" type="S" value="The property value &quot;‘존엄사’ 3만 6천 명…3명 중 1명만 본인의사로 결정&quot; equals &quot;‘존엄사’ 3만 6천 명…3명 중 1명만 본인의사로 결정&quot;."/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="43510.5146483565"/>
+			<Prp name="line no" type="I" value="27"/>
+			<Prp name="remarks" type="S" value=""/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="id" type="I" value="13"/>
+			<Prp name="type" type="I" value="0"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="link" type="S" value=""/>
+		</Node>
+		<Node name="message 12">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point y" type="I" value="571"/>
+					<Prp name="object right" type="I" value="722"/>
+					<Prp name="object left" type="I" value="352"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="click point x" type="I" value="537"/>
+					<Prp name="object name" type="S" value="Aliases.browser.pageNewsKbsCoKrVodProgramDoBcd00.panelWrap.panelContainer.panelContent.panel3.panel.panel.link10.textnode"/>
+					<Prp name="line #" type="I" value="25"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="object top" type="I" value="558"/>
+					<Prp name="object bottom" type="I" value="585"/>
+					<Prp name="image file name" type="S" value="visImage2.png"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="datetime" type="D" value="43510.1396346644"/>
+				</Node>
+			</Node>
+			<Prp name="message" type="S" value="The window was clicked with the left mouse button."/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="43510.5146354745"/>
+			<Prp name="line no" type="I" value="25"/>
+			<Prp name="remarks" type="S" value="A click at point (185, 13) with no key pressed.&#xA;&#xA;Tested object:&#xA;Aliases.browser.pageNewsKbsCoKrVodProgramDoBcd00.panelWrap.panelContainer.panelContent.panel3.panel.panel.link10.textnode&#xA;(Sys.Browser(&quot;chrome&quot;).Page(&quot;http://news.kbs.co.kr/common/main.html&quot;).Panel(&quot;wrap&quot;).Panel(&quot;container&quot;).Panel(&quot;content&quot;).Panel(5).Panel(0).Panel(0).Link(2).TextNode(0))"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="id" type="I" value="12"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="link" type="S" value=""/>
+		</Node>
+		<Node name="item 6">
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="stacktext" type="S" value="B02_News_DetailView_2()"/>
+			<Prp name="line no" type="I" value="204"/>
+		</Node>
+		<Node name="message 69">
+			<Prp name="message" type="S" value="Navigating to the http://news.kbs.co.kr/ page."/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="43510.5159421412"/>
+			<Prp name="line no" type="I" value="137"/>
+			<Prp name="remarks" type="S" value="URL: http://news.kbs.co.kr/&#xA;&#xA;Aliases.browser"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="id" type="I" value="69"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="link" type="S" value=""/>
+		</Node>
+		<Node name="message 41">
+			<Prp name="message" type="S" value="The property checkpoint passed: Name equals (case-sensitive) &quot;Link(1)&quot;."/>
+			<Prp name="as html" type="B" value="-1"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="43510.5155371296"/>
+			<Prp name="line no" type="I" value="86"/>
+			<Prp name="remarks" type="S" value="&lt;h3&gt;Result&lt;/h3&gt;&lt;span&gt;The property checkpoint &lt;b&gt;passed&lt;/b&gt;: Aliases.browser.pageNews...anel3.panel.panel2.link.Name&lt;b&gt; equals (case-sensitive) &lt;/b&gt;&quot;Link(1)&quot;.&lt;/span&gt;&lt;h3&gt;Details&lt;/h3&gt;&lt;table style='width: 100%'&gt;&lt;tr&gt;&lt;th style='width: 10%'&gt;Object&lt;/th&gt;&lt;td&gt;&lt;a href='lnamemapping://{ABA92325-EF41-49FB-BB06-3B375F1538DE}.{D80A576D-1B75-42E7-A451-DF174CB72BDD}'&gt;Aliases.browser.pageNewsKbsCoKrVodProgramDoBcd00.panelWrap.panelContainer.panelContent.panel3.panel.panel2.link&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Property&lt;/th&gt;&lt;td&gt;Name&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Condition&lt;/th&gt;&lt;td&gt;equals (case-sensitive)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Actual value&lt;/th&gt;&lt;td&gt;&quot;Link(1)&quot;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Expected value&lt;/th&gt;&lt;td&gt;&quot;Link(1)&quot;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="picture" type="S" value="Picture12.png"/>
+			<Prp name="id" type="I" value="41"/>
+			<Prp name="type" type="I" value="7"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="link" type="S" value=""/>
+		</Node>
+		<Node name="message 96">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point y" type="I" value="571"/>
+					<Prp name="object right" type="I" value="1248"/>
+					<Prp name="object left" type="I" value="960"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="click point x" type="I" value="1104"/>
+					<Prp name="object name" type="S" value="Aliases.browser.pageNewsKbsCoKrVodProgramDoBcd00.panelWrap.panelContainer.panelContent.panel5.panel.link4"/>
+					<Prp name="line #" type="I" value="186"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="object top" type="I" value="490"/>
+					<Prp name="object bottom" type="I" value="652"/>
+					<Prp name="image file name" type="S" value="visImage23.png"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="datetime" type="D" value="43510.1412009259"/>
+				</Node>
+			</Node>
+			<Prp name="message" type="S" value="The window was clicked with the left mouse button."/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="43510.5162017593"/>
+			<Prp name="line no" type="I" value="186"/>
+			<Prp name="remarks" type="S" value="A click at point (144, 81) with no key pressed.&#xA;&#xA;Tested object:&#xA;Aliases.browser.pageNewsKbsCoKrVodProgramDoBcd00.panelWrap.panelContainer.panelContent.panel5.panel.link4&#xA;(Sys.Browser(&quot;chrome&quot;).Page(&quot;http://news.kbs.co.kr/common/main.html&quot;).Panel(&quot;wrap&quot;).Panel(&quot;container&quot;).Panel(&quot;content&quot;).Panel(7).Panel(0).Link(4))"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="id" type="I" value="96"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="link" type="S" value=""/>
+		</Node>
+		<Node name="message 64">
+			<Prp name="message" type="S" value="The property value &quot;류현진·오승환, 스프링캠프 소집 첫날부터 불펜피칭&quot; equals &quot;류현진·오승환, 스프링캠프 소집 첫날부터 불펜피칭&quot;."/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="43510.5158799421"/>
+			<Prp name="line no" type="I" value="128"/>
+			<Prp name="remarks" type="S" value=""/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="id" type="I" value="64"/>
+			<Prp name="type" type="I" value="0"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="link" type="S" value=""/>
+		</Node>
+		<Node name="message 22">
+			<Prp name="message" type="S" value="Navigating to the http://news.kbs.co.kr/ page."/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="43510.5148189236"/>
+			<Prp name="line no" type="I" value="47"/>
+			<Prp name="remarks" type="S" value="URL: http://news.kbs.co.kr/&#xA;&#xA;Aliases.browser"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="id" type="I" value="22"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="link" type="S" value=""/>
+		</Node>
+		<Node name="message 102">
+			<Prp name="message" type="S" value="The tcCrHost.exe process crashed."/>
+			<Prp name="stack end" type="I" value="0"/>
+			<Prp name="as html" type="B" value="-1"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="43510.5162745833"/>
+			<Prp name="stack beginning" type="I" value="0"/>
+			<Prp name="line no" type="I" value="196"/>
+			<Prp name="remarks" type="S" value="Exception code: 0xC0000374.&lt;br /&gt;Process identifier (PID): 2748.&lt;br /&gt;Dump file: &lt;a href=&quot;aqa-file://tcCrHost_ue_57ead56f.dmp&quot;&gt;tcCrHost_ue_57ead56f.dmp&lt;/a&gt;."/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="pictype" type="I" value="2"/>
+			<Prp name="picture" type="S" value="Picture29.png"/>
+			<Prp name="id" type="I" value="102"/>
+			<Prp name="type" type="I" value="3"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="link" type="S" value=""/>
+		</Node>
+		<Node name="message 18">
+			<Prp name="message" type="S" value="Navigating to the http://news.kbs.co.kr/ page."/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="43510.5147442245"/>
+			<Prp name="line no" type="I" value="38"/>
+			<Prp name="remarks" type="S" value="URL: http://news.kbs.co.kr/&#xA;&#xA;Aliases.browser"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="id" type="I" value="18"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="link" type="S" value=""/>
+		</Node>
+		<Node name="message 73">
+			<Prp name="message" type="S" value="Navigating to the http://news.kbs.co.kr/ page."/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="43510.5159835648"/>
+			<Prp name="line no" type="I" value="144"/>
+			<Prp name="remarks" type="S" value="URL: http://news.kbs.co.kr/&#xA;&#xA;Aliases.browser"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="id" type="I" value="73"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="link" type="S" value=""/>
+		</Node>
+		<Node name="message 38">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point y" type="I" value="660"/>
+					<Prp name="object right" type="I" value="1163"/>
+					<Prp name="object left" type="I" value="792"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="click point x" type="I" value="977"/>
+					<Prp name="object name" type="S" value="Aliases.browser.pageNewsKbsCoKrVodProgramDoBcd00.panelWrap.panelContainer.panelContent.panel3.panel.link"/>
+					<Prp name="line #" type="I" value="83"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="object top" type="I" value="617"/>
+					<Prp name="object bottom" type="I" value="703"/>
+					<Prp name="image file name" type="S" value="visImage8.png"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="datetime" type="D" value="43510.1404664005"/>
+				</Node>
+			</Node>
+			<Prp name="message" type="S" value="The window was clicked with the left mouse button."/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="43510.5154672106"/>
+			<Prp name="line no" type="I" value="83"/>
+			<Prp name="remarks" type="S" value="A click at point (185, 43) with no key pressed.&#xA;&#xA;Tested object:&#xA;Aliases.browser.pageNewsKbsCoKrVodProgramDoBcd00.panelWrap.panelContainer.panelContent.panel3.panel.link&#xA;(Sys.Browser(&quot;chrome&quot;).Page(&quot;http://news.kbs.co.kr/common/main.html&quot;).Panel(&quot;wrap&quot;).Panel(&quot;container&quot;).Panel(&quot;content&quot;).Panel(5).Panel(0).Panel(1).Link(0))"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="id" type="I" value="38"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="link" type="S" value=""/>
+		</Node>
+		<Node name="message 15">
+			<Prp name="message" type="S" value="The property checkpoint passed: Name equals (case-sensitive) &quot;TextNode(0)&quot;."/>
+			<Prp name="as html" type="B" value="-1"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="43510.5147097454"/>
+			<Prp name="line no" type="I" value="31"/>
+			<Prp name="remarks" type="S" value="&lt;h3&gt;Result&lt;/h3&gt;&lt;span&gt;The property checkpoint &lt;b&gt;passed&lt;/b&gt;: Aliases.browser.pageNews...el.panel.link3.textnode.Name&lt;b&gt; equals (case-sensitive) &lt;/b&gt;&quot;TextNode(0)&quot;.&lt;/span&gt;&lt;h3&gt;Details&lt;/h3&gt;&lt;table style='width: 100%'&gt;&lt;tr&gt;&lt;th style='width: 10%'&gt;Object&lt;/th&gt;&lt;td&gt;&lt;a href='lnamemapping://{ABA92325-EF41-49FB-BB06-3B375F1538DE}.{66468B88-B75B-494A-9812-DBAA5CCD772D}'&gt;Aliases.browser.pageNewsKbsCoKrVodProgramDoBcd00.panelWrap.panelContainer.panelContent.panel3.panel.panel.link3.textnode&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Property&lt;/th&gt;&lt;td&gt;Name&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Condition&lt;/th&gt;&lt;td&gt;equals (case-sensitive)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Actual value&lt;/th&gt;&lt;td&gt;&quot;TextNode(0)&quot;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Expected value&lt;/th&gt;&lt;td&gt;&quot;TextNode(0)&quot;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="picture" type="S" value="Picture5.png"/>
+			<Prp name="id" type="I" value="15"/>
+			<Prp name="type" type="I" value="7"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="link" type="S" value=""/>
+		</Node>
+		<Node name="message 105">
+			<Prp name="message" type="S" value="Unable to verify a value with the property checkpoint, because the target object does not exist."/>
+			<Prp name="stack end" type="I" value="3"/>
+			<Prp name="as html" type="B" value="-1"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="43510.5167614815"/>
+			<Prp name="stack beginning" type="I" value="3"/>
+			<Prp name="line no" type="I" value="200"/>
+			<Prp name="remarks" type="S" value="&lt;html&gt;&lt;style&gt;body {font-family : Segoe UI, Tahoma, Arial, Helvetica, sans-serif; font-size : 10pt; font-weight : normal; padding : 14px 8px 8px 14px; margin : 0 0 0 0;} p {margin : 4px 0 4px 0; padding : 0 0 0 0;} h4 {font-size: 10pt; font-weight : bold; margin : 12px 0 0 16px; padding : 0 0 0 0;} table {margin-left : 16px; border-top: 1px solid grey;} td {font-size : 10pt; font-weight : normal; padding-left : 8px;} &lt;/style&gt;&lt;style&gt;p, td, th{font-size: 10pt;} td, th {border-bottom: 1px solid #cdcdcd; padding: 2px 10px 2px 10px;} th {text-align: left; background: #cdcdcd; font-weight : normal;}  p {padding : 0; margin : 4 0 4 0px; line-height: 16pt;} table {border: 0px;}&lt;/style&gt;&lt;body&gt;&lt;p&gt;Unable to find the following object when executing the &lt;code&gt;Property Checkpoint&lt;/code&gt; command:&lt;/p&gt;&lt;p style=&quot;margin-left: 10px;&quot;&gt;&lt;code&gt;Aliases.&amp;#8203;browser.&amp;#8203;&lt;a href=&quot;lnamemapping://{ABA92325-EF41-49FB-BB06-3B375F1538DE}.Aliases.browser.pageNewsKbsCoKrVodProgramDoBcd00&quot; title=&quot;Missing object. Click to view and change its recognition settings.&quot;&gt;&lt;span style=&quot;color: red; font-weight: bold;&quot;&gt;pageNewsKbsCoKrVodProgramDoBcd00&lt;/span&gt;&lt;/a&gt;.&amp;#8203;panelWrap.&amp;#8203;panelContainer.&amp;#8203;panelContent.&amp;#8203;&lt;a href=&quot;lnamemapping://{ABA92325-EF41-49FB-BB06-3B375F1538DE}.Aliases.browser.pageNewsKbsCoKrVodProgramDoBcd00.panelWrap.panelContainer.panelContent.linkTab2&quot; title=&quot;Called object. Click to view and change its recognition settings.&quot;&gt;&lt;span style=&quot;color: blue; font-weight: bold;&quot;&gt;linkTab2&lt;/span&gt;&lt;/a&gt;&lt;/code&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;b style=&quot;color: #777;&quot;&gt;Reason&lt;/b&gt;&lt;/p&gt;&lt;p&gt;The parent object was not found:&lt;/p&gt;&lt;p style=&quot;margin-left: 10px;&quot;&gt;&lt;code&gt;Aliases.&amp;#8203;browser.&amp;#8203;&lt;a href=&quot;lnamemapping://{ABA92325-EF41-49FB-BB06-3B375F1538DE}.Aliases.browser.pageNewsKbsCoKrVodProgramDoBcd00&quot; title=&quot;Missing object. Click to view and change its recognition settings.&quot;&gt;&lt;span style=&quot;color: red; font-weight: bold;&quot;&gt;pageNewsKbsCoKrVodProgramDoBcd00&lt;/span&gt;&lt;/a&gt;&lt;/code&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;b style=&quot;color: #777;&quot;&gt;Tips&lt;/b&gt;&lt;/p&gt;&lt;ul style=&quot;margin-top: 10px&quot;&gt;&lt;li&gt;The &lt;span style=&quot;color: red;&quot;&gt;missing object&lt;/span&gt; could be absent during the test run. Check the screenshot on the &lt;a href=&quot;showpicture://pic&quot;&gt;Picture&lt;/a&gt; tab if the object existed.&lt;/li&gt;&lt;li&gt;If the object existed, &lt;a href=&quot;lnamemapping://{ABA92325-EF41-49FB-BB06-3B375F1538DE}.Aliases.browser.pageNewsKbsCoKrVodProgramDoBcd00&quot;&gt;view and change&lt;/a&gt; its recognition attributes.&lt;/li&gt;&lt;li&gt;If the object didn't exist, check if earlier test steps worked correctly.&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;aqa-help://2201&quot;&gt;Learn more&lt;/a&gt; about possible causes of the error.&lt;/li&gt;&lt;/ul&gt;&lt;/body&gt;&lt;/html&gt;"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="pictype" type="I" value="2"/>
+			<Prp name="picture" type="S" value="Picture32.png"/>
+			<Prp name="id" type="I" value="105"/>
+			<Prp name="type" type="I" value="3"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="link" type="S" value=""/>
+		</Node>
+		<Node name="message 16">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point y" type="I" value="571"/>
+					<Prp name="object right" type="I" value="764"/>
+					<Prp name="object left" type="I" value="352"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="click point x" type="I" value="558"/>
+					<Prp name="object name" type="S" value="Aliases.browser.pageNewsKbsCoKrVodProgramDoBcd00.panelWrap.panelContainer.panelContent.panel3.panel.panel.link3.textnode"/>
+					<Prp name="line #" type="I" value="34"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="object top" type="I" value="558"/>
+					<Prp name="object bottom" type="I" value="585"/>
+					<Prp name="image file name" type="S" value="visImage3.png"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="datetime" type="D" value="43510.1397116782"/>
+				</Node>
+			</Node>
+			<Prp name="message" type="S" value="The window was clicked with the left mouse button."/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="43510.5147126157"/>
+			<Prp name="line no" type="I" value="34"/>
+			<Prp name="remarks" type="S" value="A click at point (206, 13) with no key pressed.&#xA;&#xA;Tested object:&#xA;Aliases.browser.pageNewsKbsCoKrVodProgramDoBcd00.panelWrap.panelContainer.panelContent.panel3.panel.panel.link3.textnode&#xA;(Sys.Browser(&quot;chrome&quot;).Page(&quot;http://news.kbs.co.kr/common/main.html&quot;).Panel(&quot;wrap&quot;).Panel(&quot;container&quot;).Panel(&quot;content&quot;).Panel(5).Panel(0).Panel(0).Link(3).TextNode(0))"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="id" type="I" value="16"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="link" type="S" value=""/>
+		</Node>
+		<Node name="message 59">
+			<Prp name="message" type="S" value="The property value &quot;“월급이 문제냐고요? ‘직장=삶의 질’ 입니다”&quot; equals &quot;“월급이 문제냐고요? ‘직장=삶의 질’ 입니다”&quot;."/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="43510.5158339005"/>
+			<Prp name="line no" type="I" value="118"/>
+			<Prp name="remarks" type="S" value=""/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="id" type="I" value="59"/>
+			<Prp name="type" type="I" value="0"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="link" type="S" value=""/>
+		</Node>
+		<Node name="message 26">
+			<Prp name="message" type="S" value="Navigating to the http://news.kbs.co.kr/ page."/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="43510.5148940741"/>
+			<Prp name="line no" type="I" value="56"/>
+			<Prp name="remarks" type="S" value="URL: http://news.kbs.co.kr/&#xA;&#xA;Aliases.browser"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="id" type="I" value="26"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="link" type="S" value=""/>
+		</Node>
+		<Node name="units">
+			<Prp name="unit 0" type="S" value="{C1E19894-0917-4A2C-8D65-6D5CD9F0105C}"/>
+		</Node>
+		<Node name="message 44">
+			<Prp name="message" type="S" value="Navigating to the http://news.kbs.co.kr/ page."/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="43510.515568912"/>
+			<Prp name="line no" type="I" value="92"/>
+			<Prp name="remarks" type="S" value="URL: http://news.kbs.co.kr/&#xA;&#xA;Aliases.browser"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="id" type="I" value="44"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="link" type="S" value=""/>
+		</Node>
+		<Node name="message 80">
+			<Prp name="message" type="S" value="The property value &quot;MLB 뉴욕 양키스 좌완 사바시아, 2019 시즌 이후 은퇴&quot; equals &quot;MLB 뉴욕 양키스 좌완 사바시아, 2019 시즌 이후 은퇴&quot;."/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="43510.5160446296"/>
+			<Prp name="line no" type="I" value="156"/>
+			<Prp name="remarks" type="S" value=""/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="id" type="I" value="80"/>
+			<Prp name="type" type="I" value="0"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="link" type="S" value=""/>
+		</Node>
+		<Node name="message 66">
+			<Prp name="message" type="S" value="The property checkpoint passed: Name equals (case-sensitive) &quot;Link(2)&quot;."/>
+			<Prp name="as html" type="B" value="-1"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="43510.5159097569"/>
+			<Prp name="line no" type="I" value="131"/>
+			<Prp name="remarks" type="S" value="&lt;h3&gt;Result&lt;/h3&gt;&lt;span&gt;The property checkpoint &lt;b&gt;passed&lt;/b&gt;: Aliases.browser.pageNews...ntent.panel4.panel.link.Name&lt;b&gt; equals (case-sensitive) &lt;/b&gt;&quot;Link(2)&quot;.&lt;/span&gt;&lt;h3&gt;Details&lt;/h3&gt;&lt;table style='width: 100%'&gt;&lt;tr&gt;&lt;th style='width: 10%'&gt;Object&lt;/th&gt;&lt;td&gt;&lt;a href='lnamemapping://{ABA92325-EF41-49FB-BB06-3B375F1538DE}.{C95B292B-340F-43B2-88C2-68219CBBE1D4}'&gt;Aliases.browser.pageNewsKbsCoKrVodProgramDoBcd00.panelWrap.panelContainer.panelContent.panel4.panel.link&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Property&lt;/th&gt;&lt;td&gt;Name&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Condition&lt;/th&gt;&lt;td&gt;equals (case-sensitive)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Actual value&lt;/th&gt;&lt;td&gt;&quot;Link(2)&quot;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Expected value&lt;/th&gt;&lt;td&gt;&quot;Link(2)&quot;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="picture" type="S" value="Picture19.png"/>
+			<Prp name="id" type="I" value="66"/>
+			<Prp name="type" type="I" value="7"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="link" type="S" value=""/>
+		</Node>
+		<Node name="item 4">
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="stacktext" type="S" value="B02_News_DetailView_2()"/>
+			<Prp name="line no" type="I" value="201"/>
+		</Node>
+		<Node name="message 112">
+			<Prp name="message" type="S" value="TestComplete Chrome Extension Is Not Installed or Is Disabled"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="43510.5173184259"/>
+			<Prp name="line no" type="I" value="209"/>
+			<Prp name="remarks" type="S" value="The test engine does not have access to internal objects, methods and properties of the page open in Chrome. Check whether TestComplete Chrome Extension is installed and enabled. To install or enable the extension, you can open the following page in Chrome:&#xA;https://chrome.google.com/webstore/detail/smartbear-test-extension/gmhjclgpamdccpomoomknemhmmialaae"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="id" type="I" value="112"/>
+			<Prp name="type" type="I" value="2"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="link" type="S" value=""/>
+		</Node>
+		<Node name="message 63">
+			<Node name="visualizer">
+				<Node name="original">
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point y" type="I" value="713"/>
+					<Prp name="object right" type="I" value="940"/>
+					<Prp name="object left" type="I" value="200"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="click point x" type="I" value="511"/>
+					<Prp name="object name" type="S" value="Aliases.browser.pageNewsKbsCoKrVodProgramDoBcd00.panelWrap.panelContainer.panelContent.panel4.panel.imageCl7Jpg"/>
+					<Prp name="line #" type="I" value="127"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="object top" type="I" value="478"/>
+					<Prp name="object bottom" type="I" value="900"/>
+					<Prp name="image file name" type="S" value="tcvi276935765109480.png"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="datetime" type="D" value="43402.2043171296"/>
+				</Node>
+				<Node name="diff">
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object name" type="S" value=""/>
+					<Prp name="line #" type="I" value="127"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="object bottom" type="I" value="-1"/>
+					<Prp name="image file name" type="S" value="visImage15_Dif.png"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="datetime" type="D" value="0"/>
+				</Node>
+				<Node name="current">
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point y" type="I" value="778"/>
+					<Prp name="object right" type="I" value="944"/>
+					<Prp name="object left" type="I" value="352"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="click point x" type="I" value="648"/>
+					<Prp name="object name" type="S" value="Aliases.browser.pageNewsKbsCoKrVodProgramDoBcd00.panelWrap.panelContainer.panelContent.panel4.panel.imageCl7Jpg"/>
+					<Prp name="line #" type="I" value="127"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="object top" type="I" value="610"/>
+					<Prp name="object bottom" type="I" value="947"/>
+					<Prp name="image file name" type="S" value="visImage15.png"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="datetime" type="D" value="43510.1408711227"/>
+				</Node>
+			</Node>
+			<Prp name="message" type="S" value="The window was clicked with the left mouse button."/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="43510.5158720602"/>
+			<Prp name="line no" type="I" value="127"/>
+			<Prp name="remarks" type="S" value="A click at point (296, 168) with no key pressed.&#xA;&#xA;Tested object:&#xA;Aliases.browser.pageNewsKbsCoKrVodProgramDoBcd00.panelWrap.panelContainer.panelContent.panel4.panel.imageCl7Jpg&#xA;(Sys.Browser(&quot;chrome&quot;).Page(&quot;http://news.kbs.co.kr/common/main.html&quot;).Panel(&quot;wrap&quot;).Panel(&quot;container&quot;).Panel(&quot;content&quot;).Panel(6).Panel(0).Link(1))"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="id" type="I" value="63"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="link" type="S" value=""/>
+		</Node>
+		<Node name="message 74">
+			<Prp name="message" type="S" value="The property checkpoint passed: Name equals (case-sensitive) &quot;Link(4)&quot;."/>
+			<Prp name="as html" type="B" value="-1"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="43510.5159927546"/>
+			<Prp name="line no" type="I" value="145"/>
+			<Prp name="remarks" type="S" value="&lt;h3&gt;Result&lt;/h3&gt;&lt;span&gt;The property checkpoint &lt;b&gt;passed&lt;/b&gt;: Aliases.browser.pageNews...tent.panel4.panel.link3.Name&lt;b&gt; equals (case-sensitive) &lt;/b&gt;&quot;Link(4)&quot;.&lt;/span&gt;&lt;h3&gt;Details&lt;/h3&gt;&lt;table style='width: 100%'&gt;&lt;tr&gt;&lt;th style='width: 10%'&gt;Object&lt;/th&gt;&lt;td&gt;&lt;a href='lnamemapping://{ABA92325-EF41-49FB-BB06-3B375F1538DE}.{51715678-582F-4954-B9CA-3E68D0D88FCE}'&gt;Aliases.browser.pageNewsKbsCoKrVodProgramDoBcd00.panelWrap.panelContainer.panelContent.panel4.panel.link3&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Property&lt;/th&gt;&lt;td&gt;Name&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Condition&lt;/th&gt;&lt;td&gt;equals (case-sensitive)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Actual value&lt;/th&gt;&lt;td&gt;&quot;Link(4)&quot;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Expected value&lt;/th&gt;&lt;td&gt;&quot;Link(4)&quot;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="picture" type="S" value="Picture21.png"/>
+			<Prp name="id" type="I" value="74"/>
+			<Prp name="type" type="I" value="7"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="link" type="S" value=""/>
+		</Node>
+		<Node name="message 49">
+			<Prp name="message" type="S" value="The property checkpoint passed: Name equals (case-sensitive) &quot;Link(3)&quot;."/>
+			<Prp name="as html" type="B" value="-1"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="43510.5156801042"/>
+			<Prp name="line no" type="I" value="100"/>
+			<Prp name="remarks" type="S" value="&lt;h3&gt;Result&lt;/h3&gt;&lt;span&gt;The property checkpoint &lt;b&gt;passed&lt;/b&gt;: Aliases.browser.pageNews...nel3.panel.panel2.link6.Name&lt;b&gt; equals (case-sensitive) &lt;/b&gt;&quot;Link(3)&quot;.&lt;/span&gt;&lt;h3&gt;Details&lt;/h3&gt;&lt;table style='width: 100%'&gt;&lt;tr&gt;&lt;th style='width: 10%'&gt;Object&lt;/th&gt;&lt;td&gt;&lt;a href='lnamemapping://{ABA92325-EF41-49FB-BB06-3B375F1538DE}.{CF796818-6931-4E04-91E1-3998F0CB676C}'&gt;Aliases.browser.pageNewsKbsCoKrVodProgramDoBcd00.panelWrap.panelContainer.panelContent.panel3.panel.panel2.link6&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Property&lt;/th&gt;&lt;td&gt;Name&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Condition&lt;/th&gt;&lt;td&gt;equals (case-sensitive)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Actual value&lt;/th&gt;&lt;td&gt;&quot;Link(3)&quot;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Expected value&lt;/th&gt;&lt;td&gt;&quot;Link(3)&quot;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="picture" type="S" value="Picture14.png"/>
+			<Prp name="id" type="I" value="49"/>
+			<Prp name="type" type="I" value="7"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="link" type="S" value=""/>
+		</Node>
+		<Node name="message 17">
+			<Prp name="message" type="S" value="The property value &quot;미세먼지 특별법 내일 시행…차량 운행제한은 서울시부터&quot; equals &quot;미세먼지 특별법 내일 시행…차량 운행제한은 서울시부터&quot;."/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="43510.5147233102"/>
+			<Prp name="line no" type="I" value="36"/>
+			<Prp name="remarks" type="S" value=""/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="id" type="I" value="17"/>
+			<Prp name="type" type="I" value="0"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="link" type="S" value=""/>
+		</Node>
+		<Node name="message 89">
+			<Prp name="message" type="S" value="The property value &quot;[문화광장] 서유리·AOA 지민 달라진 외모에 곤혹&quot; does not equal &quot;서유리·AOA 지민, 달라진 외모에 곤혹…근황 사진 ‘적극 해명’&quot;."/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="43510.5161296991"/>
+			<Prp name="line no" type="I" value="173"/>
+			<Prp name="remarks" type="S" value=""/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="id" type="I" value="89"/>
+			<Prp name="type" type="I" value="2"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="link" type="S" value=""/>
+		</Node>
+		<Node name="message 54">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point y" type="I" value="571"/>
+					<Prp name="object right" type="I" value="1163"/>
+					<Prp name="object left" type="I" value="792"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="click point x" type="I" value="977"/>
+					<Prp name="object name" type="S" value="Aliases.browser.pageNewsKbsCoKrVodProgramDoBcd00.panelWrap.panelContainer.panelContent.panel3.panel.panel2.link2"/>
+					<Prp name="line #" type="I" value="110"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="object top" type="I" value="528"/>
+					<Prp name="object bottom" type="I" value="614"/>
+					<Prp name="image file name" type="S" value="visImage13.png"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="datetime" type="D" value="43510.1407534143"/>
+				</Node>
+			</Node>
+			<Prp name="message" type="S" value="The window was clicked with the left mouse button."/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="43510.5157543403"/>
+			<Prp name="line no" type="I" value="110"/>
+			<Prp name="remarks" type="S" value="A click at point (185, 43) with no key pressed.&#xA;&#xA;Tested object:&#xA;Aliases.browser.pageNewsKbsCoKrVodProgramDoBcd00.panelWrap.panelContainer.panelContent.panel3.panel.panel2.link2&#xA;(Sys.Browser(&quot;chrome&quot;).Page(&quot;http://news.kbs.co.kr/common/main.html&quot;).Panel(&quot;wrap&quot;).Panel(&quot;container&quot;).Panel(&quot;content&quot;).Panel(5).Panel(0).Panel(1).Link(4))"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="id" type="I" value="54"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="link" type="S" value=""/>
+		</Node>
+		<Node name="message 34">
+			<Prp name="message" type="S" value="Navigating to the http://news.kbs.co.kr/ page."/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="43510.5153957639"/>
+			<Prp name="line no" type="I" value="74"/>
+			<Prp name="remarks" type="S" value="URL: http://news.kbs.co.kr/&#xA;&#xA;Aliases.browser"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="id" type="I" value="34"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="link" type="S" value=""/>
+		</Node>
+		<Node name="message 101">
+			<Prp name="message" type="S" value="The property value &quot;[문화광장] 방탄소년단 게임 발표 연기에 ‘2분기 컴백설’ 대두&quot; does not equal &quot;방탄소년단 게임 발표 연기에 ‘2분기 컴백설’ 대두&quot;."/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="43510.5162503704"/>
+			<Prp name="line no" type="I" value="194"/>
+			<Prp name="remarks" type="S" value=""/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="id" type="I" value="101"/>
+			<Prp name="type" type="I" value="2"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="link" type="S" value=""/>
+		</Node>
+		<Node name="message 55">
+			<Prp name="message" type="S" value="The property value &quot;불륜현장 아내 상대남에게 “죽이겠다” 외친 남성, 협박죄로 처벌&quot; equals &quot;불륜현장 아내 상대남에게 “죽이겠다” 외친 남성, 협박죄로 처벌&quot;."/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="43510.5157623148"/>
+			<Prp name="line no" type="I" value="111"/>
+			<Prp name="remarks" type="S" value=""/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="id" type="I" value="55"/>
+			<Prp name="type" type="I" value="0"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="link" type="S" value=""/>
+		</Node>
+		<Node name="message 114">
+			<Prp name="message" type="S" value="The test execution was interrupted."/>
+			<Prp name="stack end" type="I" value="11"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="43510.5173270255"/>
+			<Prp name="stack beginning" type="I" value="11"/>
+			<Prp name="line no" type="I" value="209"/>
+			<Prp name="remarks" type="S" value="Possible reasons:&#xA; - An error or warning occurred during the test run. See the preceding log entries to locate and identify the error.&#xA; - The test run was stopped manually.&#xA; - The test run was terminated as a result of the Runner.Halt method call."/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="pictype" type="I" value="2"/>
+			<Prp name="picture" type="S" value="Picture40.png"/>
+			<Prp name="id" type="I" value="114"/>
+			<Prp name="type" type="I" value="3"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="link" type="S" value=""/>
+		</Node>
+		<Node name="message 25">
+			<Prp name="message" type="S" value="The property value &quot;제조업 부진 영향 울산·경북 소매 판매 감소&quot; equals &quot;제조업 부진 영향 울산·경북 소매 판매 감소&quot;."/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="43510.5148737384"/>
+			<Prp name="line no" type="I" value="54"/>
+			<Prp name="remarks" type="S" value=""/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="id" type="I" value="25"/>
+			<Prp name="type" type="I" value="0"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="link" type="S" value=""/>
+		</Node>
+		<Node name="message 97">
+			<Prp name="message" type="S" value="The property value &quot;박스오피스, ‘증인’ 2위·‘기묘한 가족’ 4위로 출발&quot; equals &quot;박스오피스, ‘증인’ 2위·‘기묘한 가족’ 4위로 출발&quot;."/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="43510.5162096991"/>
+			<Prp name="line no" type="I" value="187"/>
+			<Prp name="remarks" type="S" value=""/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="id" type="I" value="97"/>
+			<Prp name="type" type="I" value="0"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="link" type="S" value=""/>
+		</Node>
+		<Node name="message 51">
+			<Prp name="message" type="S" value="The property value &quot;[뉴스 따라잡기] 출국 직전 사라진 현지 여행사…가족여행 줄줄이 ‘피해’&quot; does not equal &quot;출국 직전 사라진 현지 여행사…가족여행 줄줄이 ‘피해’&quot;."/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="43510.5156921759"/>
+			<Prp name="line no" type="I" value="104"/>
+			<Prp name="remarks" type="S" value=""/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="id" type="I" value="51"/>
+			<Prp name="type" type="I" value="2"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="link" type="S" value=""/>
+		</Node>
+		<Node name="message 83">
+			<Prp name="message" type="S" value="The property checkpoint passed: Name equals (case-sensitive) &quot;Link(1)&quot;."/>
+			<Prp name="as html" type="B" value="-1"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="43510.5160768403"/>
+			<Prp name="line no" type="I" value="162"/>
+			<Prp name="remarks" type="S" value="&lt;h3&gt;Result&lt;/h3&gt;&lt;span&gt;The property checkpoint &lt;b&gt;passed&lt;/b&gt;: Aliases.browser.pageNews...tent.panel5.panel.link2.Name&lt;b&gt; equals (case-sensitive) &lt;/b&gt;&quot;Link(1)&quot;.&lt;/span&gt;&lt;h3&gt;Details&lt;/h3&gt;&lt;table style='width: 100%'&gt;&lt;tr&gt;&lt;th style='width: 10%'&gt;Object&lt;/th&gt;&lt;td&gt;&lt;a href='lnamemapping://{ABA92325-EF41-49FB-BB06-3B375F1538DE}.{40BFF9F5-A23A-4F90-A0ED-BDBCF91CE972}'&gt;Aliases.browser.pageNewsKbsCoKrVodProgramDoBcd00.panelWrap.panelContainer.panelContent.panel5.panel.link2&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Property&lt;/th&gt;&lt;td&gt;Name&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Condition&lt;/th&gt;&lt;td&gt;equals (case-sensitive)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Actual value&lt;/th&gt;&lt;td&gt;&quot;Link(1)&quot;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Expected value&lt;/th&gt;&lt;td&gt;&quot;Link(1)&quot;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="picture" type="S" value="Picture24.png"/>
+			<Prp name="id" type="I" value="83"/>
+			<Prp name="type" type="I" value="7"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="link" type="S" value=""/>
+		</Node>
+		<Node name="message 95">
+			<Prp name="message" type="S" value="The property checkpoint passed: Name equals (case-sensitive) &quot;Link(4)&quot;."/>
+			<Prp name="as html" type="B" value="-1"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="43510.5161988079"/>
+			<Prp name="line no" type="I" value="183"/>
+			<Prp name="remarks" type="S" value="&lt;h3&gt;Result&lt;/h3&gt;&lt;span&gt;The property checkpoint &lt;b&gt;passed&lt;/b&gt;: Aliases.browser.pageNews...tent.panel5.panel.link4.Name&lt;b&gt; equals (case-sensitive) &lt;/b&gt;&quot;Link(4)&quot;.&lt;/span&gt;&lt;h3&gt;Details&lt;/h3&gt;&lt;table style='width: 100%'&gt;&lt;tr&gt;&lt;th style='width: 10%'&gt;Object&lt;/th&gt;&lt;td&gt;&lt;a href='lnamemapping://{ABA92325-EF41-49FB-BB06-3B375F1538DE}.{8EC8499C-82DC-4B50-AF84-CD4EC5F75822}'&gt;Aliases.browser.pageNewsKbsCoKrVodProgramDoBcd00.panelWrap.panelContainer.panelContent.panel5.panel.link4&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Property&lt;/th&gt;&lt;td&gt;Name&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Condition&lt;/th&gt;&lt;td&gt;equals (case-sensitive)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Actual value&lt;/th&gt;&lt;td&gt;&quot;Link(4)&quot;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Expected value&lt;/th&gt;&lt;td&gt;&quot;Link(4)&quot;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="picture" type="S" value="Picture27.png"/>
+			<Prp name="id" type="I" value="95"/>
+			<Prp name="type" type="I" value="7"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="link" type="S" value=""/>
+		</Node>
+		<Node name="message 31">
+			<Prp name="message" type="S" value="The property checkpoint passed: Name equals (case-sensitive) &quot;TextNode(0)&quot;."/>
+			<Prp name="as html" type="B" value="-1"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="43510.5150107755"/>
+			<Prp name="line no" type="I" value="67"/>
+			<Prp name="remarks" type="S" value="&lt;h3&gt;Result&lt;/h3&gt;&lt;span&gt;The property checkpoint &lt;b&gt;passed&lt;/b&gt;: Aliases.browser.pageNews...el.panel.link7.textnode.Name&lt;b&gt; equals (case-sensitive) &lt;/b&gt;&quot;TextNode(0)&quot;.&lt;/span&gt;&lt;h3&gt;Details&lt;/h3&gt;&lt;table style='width: 100%'&gt;&lt;tr&gt;&lt;th style='width: 10%'&gt;Object&lt;/th&gt;&lt;td&gt;&lt;a href='lnamemapping://{ABA92325-EF41-49FB-BB06-3B375F1538DE}.{9935C3E9-8509-446B-8EF9-73647F26D096}'&gt;Aliases.browser.pageNewsKbsCoKrVodProgramDoBcd00.panelWrap.panelContainer.panelContent.panel3.panel.panel.link7.textnode&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Property&lt;/th&gt;&lt;td&gt;Name&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Condition&lt;/th&gt;&lt;td&gt;equals (case-sensitive)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Actual value&lt;/th&gt;&lt;td&gt;&quot;TextNode(0)&quot;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Expected value&lt;/th&gt;&lt;td&gt;&quot;TextNode(0)&quot;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="picture" type="S" value="Picture9.png"/>
+			<Prp name="id" type="I" value="31"/>
+			<Prp name="type" type="I" value="7"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="link" type="S" value=""/>
+		</Node>
+		<Node name="message 90">
+			<Prp name="message" type="S" value="Navigating to the http://news.kbs.co.kr/ page."/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="43510.5161498148"/>
+			<Prp name="line no" type="I" value="175"/>
+			<Prp name="remarks" type="S" value="URL: http://news.kbs.co.kr/&#xA;&#xA;Aliases.browser"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="id" type="I" value="90"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="link" type="S" value=""/>
+		</Node>
+		<Node name="message 20">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point y" type="I" value="571"/>
+					<Prp name="object right" type="I" value="813"/>
+					<Prp name="object left" type="I" value="352"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="click point x" type="I" value="582"/>
+					<Prp name="object name" type="S" value="Aliases.browser.pageNewsKbsCoKrVodProgramDoBcd00.panelWrap.panelContainer.panelContent.panel3.panel.panel.link4.textnode"/>
+					<Prp name="line #" type="I" value="43"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="object top" type="I" value="558"/>
+					<Prp name="object bottom" type="I" value="585"/>
+					<Prp name="image file name" type="S" value="visImage4.png"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="datetime" type="D" value="43510.1397873727"/>
+				</Node>
+			</Node>
+			<Prp name="message" type="S" value="The window was clicked with the left mouse button."/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="43510.5147883102"/>
+			<Prp name="line no" type="I" value="43"/>
+			<Prp name="remarks" type="S" value="A click at point (230, 13) with no key pressed.&#xA;&#xA;Tested object:&#xA;Aliases.browser.pageNewsKbsCoKrVodProgramDoBcd00.panelWrap.panelContainer.panelContent.panel3.panel.panel.link4.textnode&#xA;(Sys.Browser(&quot;chrome&quot;).Page(&quot;http://news.kbs.co.kr/common/main.html&quot;).Panel(&quot;wrap&quot;).Panel(&quot;container&quot;).Panel(&quot;content&quot;).Panel(5).Panel(0).Panel(0).Link(4).TextNode(0))"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="id" type="I" value="20"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="link" type="S" value=""/>
+		</Node>
+		<Node name="message 7">
+			<Prp name="message" type="S" value="The property checkpoint passed: Name equals (case-sensitive) &quot;TextNode(0)&quot;."/>
+			<Prp name="as html" type="B" value="-1"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="43510.5145546528"/>
+			<Prp name="line no" type="I" value="13"/>
+			<Prp name="remarks" type="S" value="&lt;h3&gt;Result&lt;/h3&gt;&lt;span&gt;The property checkpoint &lt;b&gt;passed&lt;/b&gt;: Aliases.browser.pageNews...el.panel.link2.textnode.Name&lt;b&gt; equals (case-sensitive) &lt;/b&gt;&quot;TextNode(0)&quot;.&lt;/span&gt;&lt;h3&gt;Details&lt;/h3&gt;&lt;table style='width: 100%'&gt;&lt;tr&gt;&lt;th style='width: 10%'&gt;Object&lt;/th&gt;&lt;td&gt;&lt;a href='lnamemapping://{ABA92325-EF41-49FB-BB06-3B375F1538DE}.{23325178-2592-491A-8056-EA87673DD008}'&gt;Aliases.browser.pageNewsKbsCoKrVodProgramDoBcd00.panelWrap.panelContainer.panelContent.panel3.panel.panel.link2.textnode&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Property&lt;/th&gt;&lt;td&gt;Name&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Condition&lt;/th&gt;&lt;td&gt;equals (case-sensitive)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Actual value&lt;/th&gt;&lt;td&gt;&quot;TextNode(0)&quot;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Expected value&lt;/th&gt;&lt;td&gt;&quot;TextNode(0)&quot;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="picture" type="S" value="Picture3.png"/>
+			<Prp name="id" type="I" value="7"/>
+			<Prp name="type" type="I" value="7"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="link" type="S" value=""/>
+		</Node>
+		<Node name="message 86">
+			<Prp name="message" type="S" value="Navigating to the http://news.kbs.co.kr/ page."/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="43510.5161093056"/>
+			<Prp name="line no" type="I" value="168"/>
+			<Prp name="remarks" type="S" value="URL: http://news.kbs.co.kr/&#xA;&#xA;Aliases.browser"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="id" type="I" value="86"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="link" type="S" value=""/>
+		</Node>
+		<Node name="message 58">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point y" type="I" value="571"/>
+					<Prp name="object right" type="I" value="1552"/>
+					<Prp name="object left" type="I" value="1181"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="click point x" type="I" value="1366"/>
+					<Prp name="object name" type="S" value="Aliases.browser.pageNewsKbsCoKrVodProgramDoBcd00.panelWrap.panelContainer.panelContent.panel3.panel.panel2.link7"/>
+					<Prp name="line #" type="I" value="117"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="object top" type="I" value="528"/>
+					<Prp name="object bottom" type="I" value="614"/>
+					<Prp name="image file name" type="S" value="visImage14.png"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="datetime" type="D" value="43510.1408237731"/>
+				</Node>
+			</Node>
+			<Prp name="message" type="S" value="The window was clicked with the left mouse button."/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="43510.5158247338"/>
+			<Prp name="line no" type="I" value="117"/>
+			<Prp name="remarks" type="S" value="A click at point (185, 43) with no key pressed.&#xA;&#xA;Tested object:&#xA;Aliases.browser.pageNewsKbsCoKrVodProgramDoBcd00.panelWrap.panelContainer.panelContent.panel3.panel.panel2.link7&#xA;(Sys.Browser(&quot;chrome&quot;).Page(&quot;http://news.kbs.co.kr/common/main.html&quot;).Panel(&quot;wrap&quot;).Panel(&quot;container&quot;).Panel(&quot;content&quot;).Panel(5).Panel(0).Panel(1).Link(5))"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="id" type="I" value="58"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="link" type="S" value=""/>
+		</Node>
+		<Node name="message 35">
+			<Prp name="message" type="S" value="Navigating to the http://news.kbs.co.kr/ page."/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="43510.5154219676"/>
+			<Prp name="line no" type="I" value="76"/>
+			<Prp name="remarks" type="S" value="URL: http://news.kbs.co.kr/&#xA;&#xA;Aliases.browser"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="id" type="I" value="35"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="link" type="S" value=""/>
+		</Node>
+		<Node name="item 10">
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="stacktext" type="S" value="B02_News_DetailView_2()"/>
+			<Prp name="line no" type="I" value="209"/>
+		</Node>
+		<Node name="message 99">
+			<Prp name="message" type="S" value="The property checkpoint passed: Name equals (case-sensitive) &quot;Link(5)&quot;."/>
+			<Prp name="as html" type="B" value="-1"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="43510.5162392361"/>
+			<Prp name="line no" type="I" value="190"/>
+			<Prp name="remarks" type="S" value="&lt;h3&gt;Result&lt;/h3&gt;&lt;span&gt;The property checkpoint &lt;b&gt;passed&lt;/b&gt;: Aliases.browser.pageNews...tent.panel5.panel.link5.Name&lt;b&gt; equals (case-sensitive) &lt;/b&gt;&quot;Link(5)&quot;.&lt;/span&gt;&lt;h3&gt;Details&lt;/h3&gt;&lt;table style='width: 100%'&gt;&lt;tr&gt;&lt;th style='width: 10%'&gt;Object&lt;/th&gt;&lt;td&gt;&lt;a href='lnamemapping://{ABA92325-EF41-49FB-BB06-3B375F1538DE}.{9924E282-67A1-4423-972B-849B7812E4FA}'&gt;Aliases.browser.pageNewsKbsCoKrVodProgramDoBcd00.panelWrap.panelContainer.panelContent.panel5.panel.link5&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Property&lt;/th&gt;&lt;td&gt;Name&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Condition&lt;/th&gt;&lt;td&gt;equals (case-sensitive)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Actual value&lt;/th&gt;&lt;td&gt;&quot;Link(5)&quot;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Expected value&lt;/th&gt;&lt;td&gt;&quot;Link(5)&quot;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="picture" type="S" value="Picture28.png"/>
+			<Prp name="id" type="I" value="99"/>
+			<Prp name="type" type="I" value="7"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="link" type="S" value=""/>
+		</Node>
+		<Node name="message 40">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point y" type="I" value="197"/>
+					<Prp name="object right" type="I" value="571"/>
+					<Prp name="object left" type="I" value="352"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="click point x" type="I" value="461"/>
+					<Prp name="object name" type="S" value="Aliases.browser.pageNewsKbsCoKrCommonMainHtml.link"/>
+					<Prp name="line #" type="I" value="85"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="object top" type="I" value="182"/>
+					<Prp name="object bottom" type="I" value="212"/>
+					<Prp name="image file name" type="S" value="visImage9.png"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="datetime" type="D" value="43510.1404935185"/>
+				</Node>
+			</Node>
+			<Prp name="message" type="S" value="The window was clicked with the left mouse button."/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="43510.5154944097"/>
+			<Prp name="line no" type="I" value="85"/>
+			<Prp name="remarks" type="S" value="A click at point (109, 15) with no key pressed.&#xA;&#xA;Tested object:&#xA;Aliases.browser.pageNewsKbsCoKrCommonMainHtml.link&#xA;(Sys.Browser(&quot;chrome&quot;).Page(&quot;http://news.kbs.co.kr/news/view.do?ncd=4138100&quot;).Panel(&quot;wrap&quot;).Panel(&quot;container&quot;).Panel(&quot;header&quot;).Panel(0).Panel(2).Panel(0).Link(0))"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="id" type="I" value="40"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="link" type="S" value=""/>
+		</Node>
+		<Node name="message 8">
+			<Node name="visualizer">
+				<Node name="original">
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object name" type="S" value="Aliases.browser.pageNewsKbsCoKrVodProgramDoBcd00.panelWrap.panelContainer.panelContent.panel3.panel.panel.link2.textnode"/>
+					<Prp name="line #" type="I" value="16"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="object bottom" type="I" value="-1"/>
+					<Prp name="image file name" type="S" value="tcvi265839531109480.png"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="datetime" type="D" value="43402.0758912037"/>
+				</Node>
+				<Node name="diff">
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object name" type="S" value=""/>
+					<Prp name="line #" type="I" value="16"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="object bottom" type="I" value="-1"/>
+					<Prp name="image file name" type="S" value="visImage1_Dif.png"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="datetime" type="D" value="0"/>
+				</Node>
+				<Node name="current">
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point y" type="I" value="571"/>
+					<Prp name="object right" type="I" value="728"/>
+					<Prp name="object left" type="I" value="352"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="click point x" type="I" value="540"/>
+					<Prp name="object name" type="S" value="Aliases.browser.pageNewsKbsCoKrVodProgramDoBcd00.panelWrap.panelContainer.panelContent.panel3.panel.panel.link2.textnode"/>
+					<Prp name="line #" type="I" value="16"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="object top" type="I" value="558"/>
+					<Prp name="object bottom" type="I" value="585"/>
+					<Prp name="image file name" type="S" value="visImage1.png"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="datetime" type="D" value="43510.1395565509"/>
+				</Node>
+			</Node>
+			<Prp name="message" type="S" value="The window was clicked with the left mouse button."/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="43510.514557581"/>
+			<Prp name="line no" type="I" value="16"/>
+			<Prp name="remarks" type="S" value="A click at point (188, 13) with no key pressed.&#xA;&#xA;Tested object:&#xA;Aliases.browser.pageNewsKbsCoKrVodProgramDoBcd00.panelWrap.panelContainer.panelContent.panel3.panel.panel.link2.textnode&#xA;(Sys.Browser(&quot;chrome&quot;).Page(&quot;http://news.kbs.co.kr/common/main.html&quot;).Panel(&quot;wrap&quot;).Panel(&quot;container&quot;).Panel(&quot;content&quot;).Panel(5).Panel(0).Panel(0).Link(1).TextNode(0))"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="id" type="I" value="8"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="link" type="S" value=""/>
+		</Node>
+		<Node name="message 107">
+			<Prp name="message" type="S" value="Unable to verify a value with the property checkpoint, because the target object does not exist."/>
+			<Prp name="stack end" type="I" value="5"/>
+			<Prp name="as html" type="B" value="-1"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="43510.5168874537"/>
+			<Prp name="stack beginning" type="I" value="5"/>
+			<Prp name="line no" type="I" value="202"/>
+			<Prp name="remarks" type="S" value="&lt;html&gt;&lt;style&gt;body {font-family : Segoe UI, Tahoma, Arial, Helvetica, sans-serif; font-size : 10pt; font-weight : normal; padding : 14px 8px 8px 14px; margin : 0 0 0 0;} p {margin : 4px 0 4px 0; padding : 0 0 0 0;} h4 {font-size: 10pt; font-weight : bold; margin : 12px 0 0 16px; padding : 0 0 0 0;} table {margin-left : 16px; border-top: 1px solid grey;} td {font-size : 10pt; font-weight : normal; padding-left : 8px;} &lt;/style&gt;&lt;style&gt;p, td, th{font-size: 10pt;} td, th {border-bottom: 1px solid #cdcdcd; padding: 2px 10px 2px 10px;} th {text-align: left; background: #cdcdcd; font-weight : normal;}  p {padding : 0; margin : 4 0 4 0px; line-height: 16pt;} table {border: 0px;}&lt;/style&gt;&lt;body&gt;&lt;p&gt;Unable to find the following object when executing the &lt;code&gt;Property Checkpoint&lt;/code&gt; command:&lt;/p&gt;&lt;p style=&quot;margin-left: 10px;&quot;&gt;&lt;code&gt;Aliases.&amp;#8203;browser.&amp;#8203;&lt;a href=&quot;lnamemapping://{ABA92325-EF41-49FB-BB06-3B375F1538DE}.Aliases.browser.pageNewsKbsCoKrVodProgramDoBcd00&quot; title=&quot;Missing object. Click to view and change its recognition settings.&quot;&gt;&lt;span style=&quot;color: red; font-weight: bold;&quot;&gt;pageNewsKbsCoKrVodProgramDoBcd00&lt;/span&gt;&lt;/a&gt;.&amp;#8203;panelWrap.&amp;#8203;panelContainer.&amp;#8203;panelContent.&amp;#8203;&lt;a href=&quot;lnamemapping://{ABA92325-EF41-49FB-BB06-3B375F1538DE}.Aliases.browser.pageNewsKbsCoKrVodProgramDoBcd00.panelWrap.panelContainer.panelContent.linkTab4&quot; title=&quot;Called object. Click to view and change its recognition settings.&quot;&gt;&lt;span style=&quot;color: blue; font-weight: bold;&quot;&gt;linkTab4&lt;/span&gt;&lt;/a&gt;&lt;/code&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;b style=&quot;color: #777;&quot;&gt;Reason&lt;/b&gt;&lt;/p&gt;&lt;p&gt;The parent object was not found:&lt;/p&gt;&lt;p style=&quot;margin-left: 10px;&quot;&gt;&lt;code&gt;Aliases.&amp;#8203;browser.&amp;#8203;&lt;a href=&quot;lnamemapping://{ABA92325-EF41-49FB-BB06-3B375F1538DE}.Aliases.browser.pageNewsKbsCoKrVodProgramDoBcd00&quot; title=&quot;Missing object. Click to view and change its recognition settings.&quot;&gt;&lt;span style=&quot;color: red; font-weight: bold;&quot;&gt;pageNewsKbsCoKrVodProgramDoBcd00&lt;/span&gt;&lt;/a&gt;&lt;/code&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;b style=&quot;color: #777;&quot;&gt;Tips&lt;/b&gt;&lt;/p&gt;&lt;ul style=&quot;margin-top: 10px&quot;&gt;&lt;li&gt;The &lt;span style=&quot;color: red;&quot;&gt;missing object&lt;/span&gt; could be absent during the test run. Check the screenshot on the &lt;a href=&quot;showpicture://pic&quot;&gt;Picture&lt;/a&gt; tab if the object existed.&lt;/li&gt;&lt;li&gt;If the object existed, &lt;a href=&quot;lnamemapping://{ABA92325-EF41-49FB-BB06-3B375F1538DE}.Aliases.browser.pageNewsKbsCoKrVodProgramDoBcd00&quot;&gt;view and change&lt;/a&gt; its recognition attributes.&lt;/li&gt;&lt;li&gt;If the object didn't exist, check if earlier test steps worked correctly.&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;aqa-help://2201&quot;&gt;Learn more&lt;/a&gt; about possible causes of the error.&lt;/li&gt;&lt;/ul&gt;&lt;/body&gt;&lt;/html&gt;"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="pictype" type="I" value="2"/>
+			<Prp name="picture" type="S" value="Picture34.png"/>
+			<Prp name="id" type="I" value="107"/>
+			<Prp name="type" type="I" value="3"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="link" type="S" value=""/>
+		</Node>
+		<Node name="message 37">
+			<Prp name="message" type="S" value="The property checkpoint passed: Name equals (case-sensitive) &quot;Link(0)&quot;."/>
+			<Prp name="as html" type="B" value="-1"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="43510.515464537"/>
+			<Prp name="line no" type="I" value="80"/>
+			<Prp name="remarks" type="S" value="&lt;h3&gt;Result&lt;/h3&gt;&lt;span&gt;The property checkpoint &lt;b&gt;passed&lt;/b&gt;: Aliases.browser.pageNews...ntent.panel3.panel.link.Name&lt;b&gt; equals (case-sensitive) &lt;/b&gt;&quot;Link(0)&quot;.&lt;/span&gt;&lt;h3&gt;Details&lt;/h3&gt;&lt;table style='width: 100%'&gt;&lt;tr&gt;&lt;th style='width: 10%'&gt;Object&lt;/th&gt;&lt;td&gt;&lt;a href='lnamemapping://{ABA92325-EF41-49FB-BB06-3B375F1538DE}.{A5EB6389-0A9D-4349-9DFB-2AA764C3FDBE}'&gt;Aliases.browser.pageNewsKbsCoKrVodProgramDoBcd00.panelWrap.panelContainer.panelContent.panel3.panel.link&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Property&lt;/th&gt;&lt;td&gt;Name&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Condition&lt;/th&gt;&lt;td&gt;equals (case-sensitive)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Actual value&lt;/th&gt;&lt;td&gt;&quot;Link(0)&quot;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Expected value&lt;/th&gt;&lt;td&gt;&quot;Link(0)&quot;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="picture" type="S" value="Picture11.png"/>
+			<Prp name="id" type="I" value="37"/>
+			<Prp name="type" type="I" value="7"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="link" type="S" value=""/>
+		</Node>
+		<Node name="message 70">
+			<Prp name="message" type="S" value="The property checkpoint passed: Name equals (case-sensitive) &quot;Link(3)&quot;."/>
+			<Prp name="as html" type="B" value="-1"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="43510.5159514699"/>
+			<Prp name="line no" type="I" value="138"/>
+			<Prp name="remarks" type="S" value="&lt;h3&gt;Result&lt;/h3&gt;&lt;span&gt;The property checkpoint &lt;b&gt;passed&lt;/b&gt;: Aliases.browser.pageNews...tent.panel4.panel.link2.Name&lt;b&gt; equals (case-sensitive) &lt;/b&gt;&quot;Link(3)&quot;.&lt;/span&gt;&lt;h3&gt;Details&lt;/h3&gt;&lt;table style='width: 100%'&gt;&lt;tr&gt;&lt;th style='width: 10%'&gt;Object&lt;/th&gt;&lt;td&gt;&lt;a href='lnamemapping://{ABA92325-EF41-49FB-BB06-3B375F1538DE}.{890D8BAB-8A8B-4496-B9C2-2A1F1CF1255A}'&gt;Aliases.browser.pageNewsKbsCoKrVodProgramDoBcd00.panelWrap.panelContainer.panelContent.panel4.panel.link2&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Property&lt;/th&gt;&lt;td&gt;Name&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Condition&lt;/th&gt;&lt;td&gt;equals (case-sensitive)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Actual value&lt;/th&gt;&lt;td&gt;&quot;Link(3)&quot;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Expected value&lt;/th&gt;&lt;td&gt;&quot;Link(3)&quot;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="picture" type="S" value="Picture20.png"/>
+			<Prp name="id" type="I" value="70"/>
+			<Prp name="type" type="I" value="7"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="link" type="S" value=""/>
+		</Node>
+		<Node name="message 4">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point y" type="I" value="619"/>
+					<Prp name="object right" type="I" value="793"/>
+					<Prp name="object left" type="I" value="352"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="click point x" type="I" value="572"/>
+					<Prp name="object name" type="S" value="Aliases.browser.pageNewsKbsCoKrVodProgramDoBcd00.panelWrap.panelContainer.panelContent.panel3.panel.panel.link.textnode"/>
+					<Prp name="line #" type="I" value="7"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="object top" type="I" value="606"/>
+					<Prp name="object bottom" type="I" value="633"/>
+					<Prp name="image file name" type="S" value="visImage0.png"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="datetime" type="D" value="43510.1394777546"/>
+				</Node>
+			</Node>
+			<Prp name="message" type="S" value="The window was clicked with the left mouse button."/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="43510.5144786574"/>
+			<Prp name="line no" type="I" value="7"/>
+			<Prp name="remarks" type="S" value="A click at point (220, 13) with no key pressed.&#xA;&#xA;Tested object:&#xA;Aliases.browser.pageNewsKbsCoKrVodProgramDoBcd00.panelWrap.panelContainer.panelContent.panel3.panel.panel.link.textnode&#xA;(Sys.Browser(&quot;chrome&quot;).Page(&quot;http://news.kbs.co.kr/common/main.html&quot;).Panel(&quot;wrap&quot;).Panel(&quot;container&quot;).Panel(&quot;content&quot;).Panel(5).Panel(0).Panel(0).Link(0).TextNode(0))"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="id" type="I" value="4"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="link" type="S" value=""/>
+		</Node>
+		<Node name="message 5">
+			<Prp name="message" type="S" value="The property value &quot;文 대통령 “나도 골목 상인 아들…자영업자 희망 갖도록 최선”&quot; equals &quot;文 대통령 “나도 골목 상인 아들…자영업자 희망 갖도록 최선”&quot;."/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="43510.5144895486"/>
+			<Prp name="line no" type="I" value="9"/>
+			<Prp name="remarks" type="S" value=""/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="id" type="I" value="5"/>
+			<Prp name="type" type="I" value="0"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="link" type="S" value=""/>
+		</Node>
+		<Node name="message 104">
+			<Prp name="message" type="S" value="Unable to verify a value with the property checkpoint, because the target object does not exist."/>
+			<Prp name="stack end" type="I" value="2"/>
+			<Prp name="as html" type="B" value="-1"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="43510.5166984606"/>
+			<Prp name="stack beginning" type="I" value="2"/>
+			<Prp name="line no" type="I" value="199"/>
+			<Prp name="remarks" type="S" value="&lt;html&gt;&lt;style&gt;body {font-family : Segoe UI, Tahoma, Arial, Helvetica, sans-serif; font-size : 10pt; font-weight : normal; padding : 14px 8px 8px 14px; margin : 0 0 0 0;} p {margin : 4px 0 4px 0; padding : 0 0 0 0;} h4 {font-size: 10pt; font-weight : bold; margin : 12px 0 0 16px; padding : 0 0 0 0;} table {margin-left : 16px; border-top: 1px solid grey;} td {font-size : 10pt; font-weight : normal; padding-left : 8px;} &lt;/style&gt;&lt;style&gt;p, td, th{font-size: 10pt;} td, th {border-bottom: 1px solid #cdcdcd; padding: 2px 10px 2px 10px;} th {text-align: left; background: #cdcdcd; font-weight : normal;}  p {padding : 0; margin : 4 0 4 0px; line-height: 16pt;} table {border: 0px;}&lt;/style&gt;&lt;body&gt;&lt;p&gt;Unable to find the following object when executing the &lt;code&gt;Property Checkpoint&lt;/code&gt; command:&lt;/p&gt;&lt;p style=&quot;margin-left: 10px;&quot;&gt;&lt;code&gt;Aliases.&amp;#8203;browser.&amp;#8203;&lt;a href=&quot;lnamemapping://{ABA92325-EF41-49FB-BB06-3B375F1538DE}.Aliases.browser.pageNewsKbsCoKrVodProgramDoBcd00&quot; title=&quot;Missing object. Click to view and change its recognition settings.&quot;&gt;&lt;span style=&quot;color: red; font-weight: bold;&quot;&gt;pageNewsKbsCoKrVodProgramDoBcd00&lt;/span&gt;&lt;/a&gt;.&amp;#8203;panelWrap.&amp;#8203;panelContainer.&amp;#8203;panelContent.&amp;#8203;&lt;a href=&quot;lnamemapping://{ABA92325-EF41-49FB-BB06-3B375F1538DE}.Aliases.browser.pageNewsKbsCoKrVodProgramDoBcd00.panelWrap.panelContainer.panelContent.linkTab1&quot; title=&quot;Called object. Click to view and change its recognition settings.&quot;&gt;&lt;span style=&quot;color: blue; font-weight: bold;&quot;&gt;linkTab1&lt;/span&gt;&lt;/a&gt;&lt;/code&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;b style=&quot;color: #777;&quot;&gt;Reason&lt;/b&gt;&lt;/p&gt;&lt;p&gt;The parent object was not found:&lt;/p&gt;&lt;p style=&quot;margin-left: 10px;&quot;&gt;&lt;code&gt;Aliases.&amp;#8203;browser.&amp;#8203;&lt;a href=&quot;lnamemapping://{ABA92325-EF41-49FB-BB06-3B375F1538DE}.Aliases.browser.pageNewsKbsCoKrVodProgramDoBcd00&quot; title=&quot;Missing object. Click to view and change its recognition settings.&quot;&gt;&lt;span style=&quot;color: red; font-weight: bold;&quot;&gt;pageNewsKbsCoKrVodProgramDoBcd00&lt;/span&gt;&lt;/a&gt;&lt;/code&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;b style=&quot;color: #777;&quot;&gt;Tips&lt;/b&gt;&lt;/p&gt;&lt;ul style=&quot;margin-top: 10px&quot;&gt;&lt;li&gt;The &lt;span style=&quot;color: red;&quot;&gt;missing object&lt;/span&gt; could be absent during the test run. Check the screenshot on the &lt;a href=&quot;showpicture://pic&quot;&gt;Picture&lt;/a&gt; tab if the object existed.&lt;/li&gt;&lt;li&gt;If the object existed, &lt;a href=&quot;lnamemapping://{ABA92325-EF41-49FB-BB06-3B375F1538DE}.Aliases.browser.pageNewsKbsCoKrVodProgramDoBcd00&quot;&gt;view and change&lt;/a&gt; its recognition attributes.&lt;/li&gt;&lt;li&gt;If the object didn't exist, check if earlier test steps worked correctly.&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;aqa-help://2201&quot;&gt;Learn more&lt;/a&gt; about possible causes of the error.&lt;/li&gt;&lt;/ul&gt;&lt;/body&gt;&lt;/html&gt;"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="pictype" type="I" value="2"/>
+			<Prp name="picture" type="S" value="Picture31.png"/>
+			<Prp name="id" type="I" value="104"/>
+			<Prp name="type" type="I" value="3"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="link" type="S" value=""/>
+		</Node>
+		<Node name="message 0">
+			<Prp name="message" type="S" value="Navigating to the http://news.kbs.co.kr/ page."/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="43510.5144323264"/>
+			<Prp name="line no" type="I" value="0"/>
+			<Prp name="remarks" type="S" value="URL: http://news.kbs.co.kr/&#xA;&#xA;Aliases.browser"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="id" type="I" value="0"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="link" type="S" value=""/>
+		</Node>
+		<Node name="message 56">
+			<Prp name="message" type="S" value="Navigating to the http://news.kbs.co.kr/ page."/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="43510.5157827083"/>
+			<Prp name="line no" type="I" value="113"/>
+			<Prp name="remarks" type="S" value="URL: http://news.kbs.co.kr/&#xA;&#xA;Aliases.browser"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="id" type="I" value="56"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="link" type="S" value=""/>
+		</Node>
+		<Node name="child data"/>
+		<Node name="message 98">
+			<Prp name="message" type="S" value="Navigating to the http://news.kbs.co.kr/ page."/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="43510.5162306829"/>
+			<Prp name="line no" type="I" value="189"/>
+			<Prp name="remarks" type="S" value="URL: http://news.kbs.co.kr/&#xA;&#xA;Aliases.browser"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="id" type="I" value="98"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="link" type="S" value=""/>
+		</Node>
+		<Node name="message 82">
+			<Prp name="message" type="S" value="The property checkpoint passed: contentText equals (case-sensitive) &quot;연예&quot;."/>
+			<Prp name="as html" type="B" value="-1"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="43510.5160740278"/>
+			<Prp name="line no" type="I" value="161"/>
+			<Prp name="remarks" type="S" value="&lt;h3&gt;Result&lt;/h3&gt;&lt;span&gt;The property checkpoint &lt;b&gt;passed&lt;/b&gt;: Aliases.browser.pageNews...ntent.panel5.panel.link.contentText&lt;b&gt; equals (case-sensitive) &lt;/b&gt;&quot;연예&quot;.&lt;/span&gt;&lt;h3&gt;Details&lt;/h3&gt;&lt;table style='width: 100%'&gt;&lt;tr&gt;&lt;th style='width: 10%'&gt;Object&lt;/th&gt;&lt;td&gt;&lt;a href='lnamemapping://{ABA92325-EF41-49FB-BB06-3B375F1538DE}.{22D068DE-D7D7-4C87-B673-CFD07F3AF6FC}'&gt;Aliases.browser.pageNewsKbsCoKrVodProgramDoBcd00.panelWrap.panelContainer.panelContent.panel5.panel.link&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Property&lt;/th&gt;&lt;td&gt;contentText&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Condition&lt;/th&gt;&lt;td&gt;equals (case-sensitive)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Actual value&lt;/th&gt;&lt;td&gt;&quot;연예&quot;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Expected value&lt;/th&gt;&lt;td&gt;&quot;연예&quot;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="picture" type="S" value="Picture23.png"/>
+			<Prp name="id" type="I" value="82"/>
+			<Prp name="type" type="I" value="7"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="link" type="S" value=""/>
+		</Node>
+		<Node name="message 76">
+			<Prp name="message" type="S" value="The property value &quot;한국서 열리는 LPGA대회, 올해부터 KLPGA와 공동주관&quot; equals &quot;한국서 열리는 LPGA대회, 올해부터 KLPGA와 공동주관&quot;."/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="43510.5160041667"/>
+			<Prp name="line no" type="I" value="149"/>
+			<Prp name="remarks" type="S" value=""/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="id" type="I" value="76"/>
+			<Prp name="type" type="I" value="0"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="link" type="S" value=""/>
+		</Node>
+		<Node name="message 113">
+			<Prp name="message" type="S" value="Exception"/>
+			<Prp name="stack end" type="I" value="10"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="43510.5173226852"/>
+			<Prp name="stack beginning" type="I" value="10"/>
+			<Prp name="line no" type="I" value="209"/>
+			<Prp name="remarks" type="S" value="An error occurred while executing the Navigate command.&#xA;Details: The test engine does not have access to internal objects, methods and properties of the page open in Chrome. Check whether TestComplete Chrome Extension is installed and enabled. To install or enable the extension, you can open the following page in Chrome:&#xA;https://chrome.google.com/webstore/detail/smartbear-test-extension/gmhjclgpamdccpomoomknemhmmialaae"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="pictype" type="I" value="2"/>
+			<Prp name="picture" type="S" value="Picture39.png"/>
+			<Prp name="id" type="I" value="113"/>
+			<Prp name="type" type="I" value="3"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="link" type="S" value=""/>
+		</Node>
+		<Node name="message 94">
+			<Prp name="message" type="S" value="Navigating to the http://news.kbs.co.kr/ page."/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="43510.5161901389"/>
+			<Prp name="line no" type="I" value="182"/>
+			<Prp name="remarks" type="S" value="URL: http://news.kbs.co.kr/&#xA;&#xA;Aliases.browser"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="id" type="I" value="94"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="link" type="S" value=""/>
+		</Node>
+		<Node name="message 110">
+			<Prp name="message" type="S" value="The object &quot;panel6&quot; does not exist."/>
+			<Prp name="stack end" type="I" value="8"/>
+			<Prp name="as html" type="B" value="-1"/>
+			<Prp name="priority" type="I" value="400"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="43510.5170807292"/>
+			<Prp name="stack beginning" type="I" value="8"/>
+			<Prp name="line no" type="I" value="207"/>
+			<Prp name="remarks" type="S" value="&lt;!doctype html&gt; &lt;html&gt;&lt;style&gt;body {font-family : Segoe UI, Tahoma, Arial, Helvetica, sans-serif; font-size : 10pt; font-weight : normal; padding : 14px 8px 8px 14px; margin : 0 0 0 0;} p {margin : 4px 0 4px 0; padding : 0 0 0 0;} h4 {font-size: 10pt; font-weight : bold; margin : 12px 0 0 16px; padding : 0 0 0 0;} table {margin-left : 16px; border-top: 1px solid grey;} td {font-size : 10pt; font-weight : normal; padding-left : 8px;} &lt;/style&gt;&lt;style&gt;p, td, th{font-size: 10pt;} td, th {border-bottom: 1px solid #cdcdcd; padding: 2px 10px 2px 10px;} th {text-align: left; background: #cdcdcd; font-weight : normal;}  p {padding : 0; margin : 4 0 4 0px; line-height: 16pt;} table {border: 0px;}&lt;/style&gt;&lt;style&gt;.wide{width: 100%; margin: 0; padding:0; border:0;} .clsimg{width: 200px; margin: auto; border:0} td.row1{width: *;}  td.row2{width: 250px;}&lt;/style&gt;&lt;body&gt;&lt;div class=&quot;wide&quot;&gt;&lt;table class=&quot;wide&quot;&gt;&lt;thead&gt;&lt;tr&gt;&lt;td class=&quot;row1&quot;&gt;&lt;/td&gt;&lt;td class=&quot;row2&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;p&gt;Unable to find the following object when executing the &lt;code&gt;Click&lt;/code&gt; command:&lt;/p&gt;&lt;p style=&quot;margin-left: 10px;&quot;&gt;&lt;code&gt;Aliases.&amp;#8203;browser.&amp;#8203;&lt;a href=&quot;lnamemapping://{ABA92325-EF41-49FB-BB06-3B375F1538DE}.Aliases.browser.pageNewsKbsCoKrVodProgramDoBcd00&quot; title=&quot;Missing object. Click to view and change its recognition settings.&quot;&gt;&lt;span style=&quot;color: red; font-weight: bold;&quot;&gt;pageNewsKbsCoKrVodProgramDoBcd00&lt;/span&gt;&lt;/a&gt;.&amp;#8203;panelWrap.&amp;#8203;panelContainer.&amp;#8203;panelContent.&amp;#8203;&lt;a href=&quot;lnamemapping://{ABA92325-EF41-49FB-BB06-3B375F1538DE}.Aliases.browser.pageNewsKbsCoKrVodProgramDoBcd00.panelWrap.panelContainer.panelContent.panel6&quot; title=&quot;Called object. Click to view and change its recognition settings.&quot;&gt;&lt;span style=&quot;color: blue; font-weight: bold;&quot;&gt;panel6&lt;/span&gt;&lt;/a&gt;&lt;/code&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;b style=&quot;color: #777;&quot;&gt;Reason&lt;/b&gt;&lt;/p&gt;&lt;p&gt;The parent object was not found:&lt;/p&gt;&lt;p style=&quot;margin-left: 10px;&quot;&gt;&lt;code&gt;Aliases.&amp;#8203;browser.&amp;#8203;&lt;a href=&quot;lnamemapping://{ABA92325-EF41-49FB-BB06-3B375F1538DE}.Aliases.browser.pageNewsKbsCoKrVodProgramDoBcd00&quot; title=&quot;Missing object. Click to view and change its recognition settings.&quot;&gt;&lt;span style=&quot;color: red; font-weight: bold;&quot;&gt;pageNewsKbsCoKrVodProgramDoBcd00&lt;/span&gt;&lt;/a&gt;&lt;/code&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;b style=&quot;color: #777;&quot;&gt;Tips&lt;/b&gt;&lt;/p&gt;&lt;ul style=&quot;margin-top: 10px&quot;&gt;&lt;li&gt;The &lt;span style=&quot;color: red;&quot;&gt;missing object&lt;/span&gt; could be absent during the test run. Check the screenshot on the &lt;a href=&quot;showpicture://pic&quot;&gt;Picture&lt;/a&gt;  tab if the object existed.&lt;/li&gt;&lt;li&gt;If the object existed, &lt;a href=&quot;lnamemapping://{ABA92325-EF41-49FB-BB06-3B375F1538DE}.Aliases.browser.pageNewsKbsCoKrVodProgramDoBcd00&quot;&gt;view and change&lt;/a&gt; its recognition attributes.&lt;/li&gt;&lt;li&gt;If the object didn't exist, check if earlier test steps worked correctly.&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;aqa-help://2201&quot;&gt;Learn more&lt;/a&gt; about possible causes of the error.&lt;/li&gt;&lt;/ul&gt;&lt;/td&gt;&lt;td style=&quot;vertical-align:top;text-align:center&quot;&gt; &lt;a href=&quot;showpicturedialog://%%LogDir%%\{F52C770E-962E-463D-BC48-B9DBF5D6AE87}.png&quot;&gt; &lt;img title=&quot;The expected state of the tested application. The missing object (red frame) and the called test object (blue frame).&quot; class=&quot;clsimg&quot; src=&quot;%%LogDir%%\{F52C770E-962E-463D-BC48-B9DBF5D6AE87}.png&quot;&gt; &lt;/a&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;&lt;/body&gt;&lt;/html&gt;"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="pictype" type="I" value="2"/>
+			<Prp name="picture" type="S" value="Picture37.png"/>
+			<Prp name="id" type="I" value="110"/>
+			<Prp name="type" type="I" value="3"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="link" type="S" value=""/>
+		</Node>
+		<Node name="message 92">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point y" type="I" value="571"/>
+					<Prp name="object right" type="I" value="1552"/>
+					<Prp name="object left" type="I" value="1264"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="click point x" type="I" value="1408"/>
+					<Prp name="object name" type="S" value="Aliases.browser.pageNewsKbsCoKrVodProgramDoBcd00.panelWrap.panelContainer.panelContent.panel5.panel.link6"/>
+					<Prp name="line #" type="I" value="179"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="object top" type="I" value="490"/>
+					<Prp name="object bottom" type="I" value="652"/>
+					<Prp name="image file name" type="S" value="visImage22.png"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="datetime" type="D" value="43510.1411608681"/>
+				</Node>
+			</Node>
+			<Prp name="message" type="S" value="The window was clicked with the left mouse button."/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="43510.5161617708"/>
+			<Prp name="line no" type="I" value="179"/>
+			<Prp name="remarks" type="S" value="A click at point (144, 81) with no key pressed.&#xA;&#xA;Tested object:&#xA;Aliases.browser.pageNewsKbsCoKrVodProgramDoBcd00.panelWrap.panelContainer.panelContent.panel5.panel.link6&#xA;(Sys.Browser(&quot;chrome&quot;).Page(&quot;http://news.kbs.co.kr/common/main.html&quot;).Panel(&quot;wrap&quot;).Panel(&quot;container&quot;).Panel(&quot;content&quot;).Panel(7).Panel(0).Link(3))"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="id" type="I" value="92"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="link" type="S" value=""/>
+		</Node>
+		<Node name="message 71">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point y" type="I" value="572"/>
+					<Prp name="object right" type="I" value="1552"/>
+					<Prp name="object left" type="I" value="1264"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="click point x" type="I" value="1408"/>
+					<Prp name="object name" type="S" value="Aliases.browser.pageNewsKbsCoKrVodProgramDoBcd00.panelWrap.panelContainer.panelContent.panel4.panel.link2"/>
+					<Prp name="line #" type="I" value="141"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="object top" type="I" value="491"/>
+					<Prp name="object bottom" type="I" value="653"/>
+					<Prp name="image file name" type="S" value="visImage17.png"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="datetime" type="D" value="43510.1409535069"/>
+				</Node>
+			</Node>
+			<Prp name="message" type="S" value="The window was clicked with the left mouse button."/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="43510.5159543982"/>
+			<Prp name="line no" type="I" value="141"/>
+			<Prp name="remarks" type="S" value="A click at point (144, 81) with no key pressed.&#xA;&#xA;Tested object:&#xA;Aliases.browser.pageNewsKbsCoKrVodProgramDoBcd00.panelWrap.panelContainer.panelContent.panel4.panel.link2&#xA;(Sys.Browser(&quot;chrome&quot;).Page(&quot;http://news.kbs.co.kr/common/main.html&quot;).Panel(&quot;wrap&quot;).Panel(&quot;container&quot;).Panel(&quot;content&quot;).Panel(6).Panel(0).Link(3))"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="id" type="I" value="71"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="link" type="S" value=""/>
+		</Node>
+		<Node name="message 39">
+			<Prp name="message" type="S" value="The property value &quot;손흥민, 4경기 연속골 폭발 ‘시즌 16호’…챔스 8강 청신호&quot; equals &quot;손흥민, 4경기 연속골 폭발 ‘시즌 16호’…챔스 8강 청신호&quot;."/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="43510.5154773727"/>
+			<Prp name="line no" type="I" value="84"/>
+			<Prp name="remarks" type="S" value=""/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="id" type="I" value="39"/>
+			<Prp name="type" type="I" value="0"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="link" type="S" value=""/>
+		</Node>
+		<Node name="message 87">
+			<Prp name="message" type="S" value="The property checkpoint passed: Name equals (case-sensitive) &quot;Link(2)&quot;."/>
+			<Prp name="as html" type="B" value="-1"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="43510.5161181944"/>
+			<Prp name="line no" type="I" value="169"/>
+			<Prp name="remarks" type="S" value="&lt;h3&gt;Result&lt;/h3&gt;&lt;span&gt;The property checkpoint &lt;b&gt;passed&lt;/b&gt;: Aliases.browser.pageNews...tent.panel5.panel.link3.Name&lt;b&gt; equals (case-sensitive) &lt;/b&gt;&quot;Link(2)&quot;.&lt;/span&gt;&lt;h3&gt;Details&lt;/h3&gt;&lt;table style='width: 100%'&gt;&lt;tr&gt;&lt;th style='width: 10%'&gt;Object&lt;/th&gt;&lt;td&gt;&lt;a href='lnamemapping://{ABA92325-EF41-49FB-BB06-3B375F1538DE}.{EAC93E64-80FD-49FB-8FCF-128E607B4668}'&gt;Aliases.browser.pageNewsKbsCoKrVodProgramDoBcd00.panelWrap.panelContainer.panelContent.panel5.panel.link3&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Property&lt;/th&gt;&lt;td&gt;Name&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Condition&lt;/th&gt;&lt;td&gt;equals (case-sensitive)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Actual value&lt;/th&gt;&lt;td&gt;&quot;Link(2)&quot;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Expected value&lt;/th&gt;&lt;td&gt;&quot;Link(2)&quot;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="picture" type="S" value="Picture25.png"/>
+			<Prp name="id" type="I" value="87"/>
+			<Prp name="type" type="I" value="7"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="link" type="S" value=""/>
+		</Node>
+		<Node name="message 36">
+			<Prp name="message" type="S" value="The property checkpoint passed: contentText equals (case-sensitive) &quot;많이 본 뉴스&quot;."/>
+			<Prp name="as html" type="B" value="-1"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="43510.5154619676"/>
+			<Prp name="line no" type="I" value="79"/>
+			<Prp name="remarks" type="S" value="&lt;h3&gt;Result&lt;/h3&gt;&lt;span&gt;The property checkpoint &lt;b&gt;passed&lt;/b&gt;: Aliases.browser.pageNews...3.panel.panel2.textnode.contentText&lt;b&gt; equals (case-sensitive) &lt;/b&gt;&quot;많이 본 뉴스&quot;.&lt;/span&gt;&lt;h3&gt;Details&lt;/h3&gt;&lt;table style='width: 100%'&gt;&lt;tr&gt;&lt;th style='width: 10%'&gt;Object&lt;/th&gt;&lt;td&gt;&lt;a href='lnamemapping://{ABA92325-EF41-49FB-BB06-3B375F1538DE}.{D7091D1B-6B50-4298-985C-BA9D18DEDBD0}'&gt;Aliases.browser.pageNewsKbsCoKrVodProgramDoBcd00.panelWrap.panelContainer.panelContent.panel3.panel.panel2.textnode&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Property&lt;/th&gt;&lt;td&gt;contentText&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Condition&lt;/th&gt;&lt;td&gt;equals (case-sensitive)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Actual value&lt;/th&gt;&lt;td&gt;&quot;많이 본 뉴스&quot;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Expected value&lt;/th&gt;&lt;td&gt;&quot;많이 본 뉴스&quot;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="picture" type="S" value="Picture10.png"/>
+			<Prp name="id" type="I" value="36"/>
+			<Prp name="type" type="I" value="7"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="link" type="S" value=""/>
+		</Node>
+		<Node name="message 46">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point y" type="I" value="571"/>
+					<Prp name="object right" type="I" value="1163"/>
+					<Prp name="object left" type="I" value="792"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="click point x" type="I" value="977"/>
+					<Prp name="object name" type="S" value="Aliases.browser.pageNewsKbsCoKrVodProgramDoBcd00.panelWrap.panelContainer.panelContent.panel3.panel.panel2.link3"/>
+					<Prp name="line #" type="I" value="96"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="object top" type="I" value="528"/>
+					<Prp name="object bottom" type="I" value="614"/>
+					<Prp name="image file name" type="S" value="visImage11.png"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="datetime" type="D" value="43510.140609919"/>
+				</Node>
+			</Node>
+			<Prp name="message" type="S" value="The window was clicked with the left mouse button."/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="43510.5156109259"/>
+			<Prp name="line no" type="I" value="96"/>
+			<Prp name="remarks" type="S" value="A click at point (185, 43) with no key pressed.&#xA;&#xA;Tested object:&#xA;Aliases.browser.pageNewsKbsCoKrVodProgramDoBcd00.panelWrap.panelContainer.panelContent.panel3.panel.panel2.link3&#xA;(Sys.Browser(&quot;chrome&quot;).Page(&quot;http://news.kbs.co.kr/common/main.html&quot;).Panel(&quot;wrap&quot;).Panel(&quot;container&quot;).Panel(&quot;content&quot;).Panel(5).Panel(0).Panel(1).Link(2))"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="id" type="I" value="46"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="link" type="S" value=""/>
+		</Node>
+		<Node name="message 43">
+			<Prp name="message" type="S" value="The property value &quot;[단독] “밤새 PC 갈아 엎었다”…경찰청, ‘사찰 문건’ 영구 삭제&quot; equals &quot;[단독] “밤새 PC 갈아 엎었다”…경찰청, ‘사찰 문건’ 영구 삭제&quot;."/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="43510.5155485185"/>
+			<Prp name="line no" type="I" value="90"/>
+			<Prp name="remarks" type="S" value=""/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="id" type="I" value="43"/>
+			<Prp name="type" type="I" value="0"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="link" type="S" value=""/>
+		</Node>
+		<Node name="item 5">
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="stacktext" type="S" value="B02_News_DetailView_2()"/>
+			<Prp name="line no" type="I" value="202"/>
+		</Node>
+		<Node name="message 68">
+			<Prp name="message" type="S" value="The property value &quot;손흥민, 그림 같은 ‘논스톱 슈팅’…4G 연속골·시즌 16호골&quot; does not equal &quot;동영상↴손흥민, 그림 같은 ‘논스톱 슈팅’↴…4G 연속골·시즌 16호골&quot;."/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="43510.515921713"/>
+			<Prp name="line no" type="I" value="135"/>
+			<Prp name="remarks" type="S" value=""/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="id" type="I" value="68"/>
+			<Prp name="type" type="I" value="2"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="link" type="S" value=""/>
+		</Node>
+		<Node name="item 3">
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="stacktext" type="S" value="B02_News_DetailView_2()"/>
+			<Prp name="line no" type="I" value="200"/>
+		</Node>
+		<Node name="message 23">
+			<Prp name="message" type="S" value="The property checkpoint passed: Name equals (case-sensitive) &quot;TextNode(0)&quot;."/>
+			<Prp name="as html" type="B" value="-1"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="43510.5148608565"/>
+			<Prp name="line no" type="I" value="49"/>
+			<Prp name="remarks" type="S" value="&lt;h3&gt;Result&lt;/h3&gt;&lt;span&gt;The property checkpoint &lt;b&gt;passed&lt;/b&gt;: Aliases.browser.pageNews...el.panel.link5.textnode.Name&lt;b&gt; equals (case-sensitive) &lt;/b&gt;&quot;TextNode(0)&quot;.&lt;/span&gt;&lt;h3&gt;Details&lt;/h3&gt;&lt;table style='width: 100%'&gt;&lt;tr&gt;&lt;th style='width: 10%'&gt;Object&lt;/th&gt;&lt;td&gt;&lt;a href='lnamemapping://{ABA92325-EF41-49FB-BB06-3B375F1538DE}.{ECE58757-301A-4931-A62E-12044D69E88E}'&gt;Aliases.browser.pageNewsKbsCoKrVodProgramDoBcd00.panelWrap.panelContainer.panelContent.panel3.panel.panel.link5.textnode&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Property&lt;/th&gt;&lt;td&gt;Name&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Condition&lt;/th&gt;&lt;td&gt;equals (case-sensitive)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Actual value&lt;/th&gt;&lt;td&gt;&quot;TextNode(0)&quot;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Expected value&lt;/th&gt;&lt;td&gt;&quot;TextNode(0)&quot;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="picture" type="S" value="Picture7.png"/>
+			<Prp name="id" type="I" value="23"/>
+			<Prp name="type" type="I" value="7"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="link" type="S" value=""/>
+		</Node>
+		<Node name="message 9">
+			<Prp name="message" type="S" value="The property value &quot;전동킥보드 4명 중 1명만 보호장비 착용…‘무법질주’&quot; equals &quot;전동킥보드 4명 중 1명만 보호장비 착용…‘무법질주’&quot;."/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="43510.5145709259"/>
+			<Prp name="line no" type="I" value="18"/>
+			<Prp name="remarks" type="S" value=""/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="id" type="I" value="9"/>
+			<Prp name="type" type="I" value="0"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="link" type="S" value=""/>
+		</Node>
+		<Node name="message 21">
+			<Prp name="message" type="S" value="The property value &quot;경찰, ‘보물선 투자 사기’ 유승진 등 11명 송치…추가 사기 수사중&quot; equals &quot;경찰, ‘보물선 투자 사기’ 유승진 등 11명 송치…추가 사기 수사중&quot;."/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="43510.5147985532"/>
+			<Prp name="line no" type="I" value="45"/>
+			<Prp name="remarks" type="S" value=""/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="id" type="I" value="21"/>
+			<Prp name="type" type="I" value="0"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="link" type="S" value=""/>
+		</Node>
+		<Node name="message 32">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point y" type="I" value="571"/>
+					<Prp name="object right" type="I" value="733"/>
+					<Prp name="object left" type="I" value="352"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="click point x" type="I" value="542"/>
+					<Prp name="object name" type="S" value="Aliases.browser.pageNewsKbsCoKrVodProgramDoBcd00.panelWrap.panelContainer.panelContent.panel3.panel.panel.link7.textnode"/>
+					<Prp name="line #" type="I" value="70"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="object top" type="I" value="558"/>
+					<Prp name="object bottom" type="I" value="585"/>
+					<Prp name="image file name" type="S" value="visImage7.png"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="datetime" type="D" value="43510.1400128588"/>
+				</Node>
+			</Node>
+			<Prp name="message" type="S" value="The window was clicked with the left mouse button."/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="43510.5150137268"/>
+			<Prp name="line no" type="I" value="70"/>
+			<Prp name="remarks" type="S" value="A click at point (190, 13) with no key pressed.&#xA;&#xA;Tested object:&#xA;Aliases.browser.pageNewsKbsCoKrVodProgramDoBcd00.panelWrap.panelContainer.panelContent.panel3.panel.panel.link7.textnode&#xA;(Sys.Browser(&quot;chrome&quot;).Page(&quot;http://news.kbs.co.kr/common/main.html&quot;).Panel(&quot;wrap&quot;).Panel(&quot;container&quot;).Panel(&quot;content&quot;).Panel(5).Panel(0).Panel(0).Link(7).TextNode(0))"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="id" type="I" value="32"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="link" type="S" value=""/>
+		</Node>
+		<Node name="message 108">
+			<Prp name="message" type="S" value="The object &quot;linkTab1&quot; does not exist."/>
+			<Prp name="stack end" type="I" value="6"/>
+			<Prp name="as html" type="B" value="-1"/>
+			<Prp name="priority" type="I" value="400"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="43510.5169502083"/>
+			<Prp name="stack beginning" type="I" value="6"/>
+			<Prp name="line no" type="I" value="204"/>
+			<Prp name="remarks" type="S" value="&lt;html&gt;&lt;style&gt;body {font-family : Segoe UI, Tahoma, Arial, Helvetica, sans-serif; font-size : 10pt; font-weight : normal; padding : 14px 8px 8px 14px; margin : 0 0 0 0;} p {margin : 4px 0 4px 0; padding : 0 0 0 0;} h4 {font-size: 10pt; font-weight : bold; margin : 12px 0 0 16px; padding : 0 0 0 0;} table {margin-left : 16px; border-top: 1px solid grey;} td {font-size : 10pt; font-weight : normal; padding-left : 8px;} &lt;/style&gt;&lt;style&gt;p, td, th{font-size: 10pt;} td, th {border-bottom: 1px solid #cdcdcd; padding: 2px 10px 2px 10px;} th {text-align: left; background: #cdcdcd; font-weight : normal;}  p {padding : 0; margin : 4 0 4 0px; line-height: 16pt;} table {border: 0px;}&lt;/style&gt;&lt;body&gt;&lt;p&gt;Unable to find the following object when executing the &lt;code&gt;Click&lt;/code&gt; command:&lt;/p&gt;&lt;p style=&quot;margin-left: 10px;&quot;&gt;&lt;code&gt;Aliases.&amp;#8203;browser.&amp;#8203;&lt;a href=&quot;lnamemapping://{ABA92325-EF41-49FB-BB06-3B375F1538DE}.Aliases.browser.pageNewsKbsCoKrVodProgramDoBcd00&quot; title=&quot;Missing object. Click to view and change its recognition settings.&quot;&gt;&lt;span style=&quot;color: red; font-weight: bold;&quot;&gt;pageNewsKbsCoKrVodProgramDoBcd00&lt;/span&gt;&lt;/a&gt;.&amp;#8203;panelWrap.&amp;#8203;panelContainer.&amp;#8203;panelContent.&amp;#8203;&lt;a href=&quot;lnamemapping://{ABA92325-EF41-49FB-BB06-3B375F1538DE}.Aliases.browser.pageNewsKbsCoKrVodProgramDoBcd00.panelWrap.panelContainer.panelContent.linkTab1&quot; title=&quot;Called object. Click to view and change its recognition settings.&quot;&gt;&lt;span style=&quot;color: blue; font-weight: bold;&quot;&gt;linkTab1&lt;/span&gt;&lt;/a&gt;&lt;/code&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;b style=&quot;color: #777;&quot;&gt;Reason&lt;/b&gt;&lt;/p&gt;&lt;p&gt;The parent object was not found:&lt;/p&gt;&lt;p style=&quot;margin-left: 10px;&quot;&gt;&lt;code&gt;Aliases.&amp;#8203;browser.&amp;#8203;&lt;a href=&quot;lnamemapping://{ABA92325-EF41-49FB-BB06-3B375F1538DE}.Aliases.browser.pageNewsKbsCoKrVodProgramDoBcd00&quot; title=&quot;Missing object. Click to view and change its recognition settings.&quot;&gt;&lt;span style=&quot;color: red; font-weight: bold;&quot;&gt;pageNewsKbsCoKrVodProgramDoBcd00&lt;/span&gt;&lt;/a&gt;&lt;/code&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;b style=&quot;color: #777;&quot;&gt;Tips&lt;/b&gt;&lt;/p&gt;&lt;ul style=&quot;margin-top: 10px&quot;&gt;&lt;li&gt;The &lt;span style=&quot;color: red;&quot;&gt;missing object&lt;/span&gt; could be absent during the test run. Check the screenshot on the &lt;a href=&quot;showpicture://pic&quot;&gt;Picture&lt;/a&gt; tab if the object existed.&lt;/li&gt;&lt;li&gt;If the object existed, &lt;a href=&quot;lnamemapping://{ABA92325-EF41-49FB-BB06-3B375F1538DE}.Aliases.browser.pageNewsKbsCoKrVodProgramDoBcd00&quot;&gt;view and change&lt;/a&gt; its recognition attributes.&lt;/li&gt;&lt;li&gt;If the object didn't exist, check if earlier test steps worked correctly.&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;aqa-help://2201&quot;&gt;Learn more&lt;/a&gt; about possible causes of the error.&lt;/li&gt;&lt;/ul&gt;&lt;/body&gt;&lt;/html&gt;"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="pictype" type="I" value="2"/>
+			<Prp name="picture" type="S" value="Picture35.png"/>
+			<Prp name="id" type="I" value="108"/>
+			<Prp name="type" type="I" value="3"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="link" type="S" value=""/>
+		</Node>
+		<Node name="message 75">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point y" type="I" value="572"/>
+					<Prp name="object right" type="I" value="1248"/>
+					<Prp name="object left" type="I" value="960"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="click point x" type="I" value="1104"/>
+					<Prp name="object name" type="S" value="Aliases.browser.pageNewsKbsCoKrVodProgramDoBcd00.panelWrap.panelContainer.panelContent.panel4.panel.link3"/>
+					<Prp name="line #" type="I" value="148"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="object top" type="I" value="491"/>
+					<Prp name="object bottom" type="I" value="653"/>
+					<Prp name="image file name" type="S" value="visImage18.png"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="datetime" type="D" value="43510.1409947222"/>
+				</Node>
+			</Node>
+			<Prp name="message" type="S" value="The window was clicked with the left mouse button."/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="43510.5159956945"/>
+			<Prp name="line no" type="I" value="148"/>
+			<Prp name="remarks" type="S" value="A click at point (144, 81) with no key pressed.&#xA;&#xA;Tested object:&#xA;Aliases.browser.pageNewsKbsCoKrVodProgramDoBcd00.panelWrap.panelContainer.panelContent.panel4.panel.link3&#xA;(Sys.Browser(&quot;chrome&quot;).Page(&quot;http://news.kbs.co.kr/common/main.html&quot;).Panel(&quot;wrap&quot;).Panel(&quot;container&quot;).Panel(&quot;content&quot;).Panel(6).Panel(0).Link(4))"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="id" type="I" value="75"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="link" type="S" value=""/>
+		</Node>
+		<Node name="message 2">
+			<Prp name="message" type="S" value="The property checkpoint passed: contentText equals (case-sensitive) &quot;최신뉴스&quot;."/>
+			<Prp name="as html" type="B" value="-1"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="43510.5144734722"/>
+			<Prp name="line no" type="I" value="3"/>
+			<Prp name="remarks" type="S" value="&lt;h3&gt;Result&lt;/h3&gt;&lt;span&gt;The property checkpoint &lt;b&gt;passed&lt;/b&gt;: Aliases.browser.pageNews...l3.panel.panel.textnode.contentText&lt;b&gt; equals (case-sensitive) &lt;/b&gt;&quot;최신뉴스&quot;.&lt;/span&gt;&lt;h3&gt;Details&lt;/h3&gt;&lt;table style='width: 100%'&gt;&lt;tr&gt;&lt;th style='width: 10%'&gt;Object&lt;/th&gt;&lt;td&gt;&lt;a href='lnamemapping://{ABA92325-EF41-49FB-BB06-3B375F1538DE}.{9EB4D712-5FD4-40AD-887F-B5FD16360B4A}'&gt;Aliases.browser.pageNewsKbsCoKrVodProgramDoBcd00.panelWrap.panelContainer.panelContent.panel3.panel.panel.textnode&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Property&lt;/th&gt;&lt;td&gt;contentText&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Condition&lt;/th&gt;&lt;td&gt;equals (case-sensitive)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Actual value&lt;/th&gt;&lt;td&gt;&quot;최신뉴스&quot;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Expected value&lt;/th&gt;&lt;td&gt;&quot;최신뉴스&quot;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="picture" type="S" value="Picture1.png"/>
+			<Prp name="id" type="I" value="2"/>
+			<Prp name="type" type="I" value="7"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="link" type="S" value=""/>
+		</Node>
+		<Node name="message 30">
+			<Prp name="message" type="S" value="Navigating to the http://news.kbs.co.kr/ page."/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="43510.5149685069"/>
+			<Prp name="line no" type="I" value="65"/>
+			<Prp name="remarks" type="S" value="URL: http://news.kbs.co.kr/&#xA;&#xA;Aliases.browser"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="id" type="I" value="30"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="link" type="S" value=""/>
+		</Node>
+		<Node name="message 42">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point y" type="I" value="571"/>
+					<Prp name="object right" type="I" value="1552"/>
+					<Prp name="object left" type="I" value="1181"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="click point x" type="I" value="1366"/>
+					<Prp name="object name" type="S" value="Aliases.browser.pageNewsKbsCoKrVodProgramDoBcd00.panelWrap.panelContainer.panelContent.panel3.panel.panel2.link"/>
+					<Prp name="line #" type="I" value="89"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="object top" type="I" value="528"/>
+					<Prp name="object bottom" type="I" value="614"/>
+					<Prp name="image file name" type="S" value="visImage10.png"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="datetime" type="D" value="43510.1405392361"/>
+				</Node>
+			</Node>
+			<Prp name="message" type="S" value="The window was clicked with the left mouse button."/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="43510.5155401157"/>
+			<Prp name="line no" type="I" value="89"/>
+			<Prp name="remarks" type="S" value="A click at point (185, 43) with no key pressed.&#xA;&#xA;Tested object:&#xA;Aliases.browser.pageNewsKbsCoKrVodProgramDoBcd00.panelWrap.panelContainer.panelContent.panel3.panel.panel2.link&#xA;(Sys.Browser(&quot;chrome&quot;).Page(&quot;http://news.kbs.co.kr/common/main.html&quot;).Panel(&quot;wrap&quot;).Panel(&quot;container&quot;).Panel(&quot;content&quot;).Panel(5).Panel(0).Panel(1).Link(1))"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="id" type="I" value="42"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="link" type="S" value=""/>
+		</Node>
+		<Node name="message 11">
+			<Prp name="message" type="S" value="The property checkpoint passed: Name equals (case-sensitive) &quot;TextNode(0)&quot;."/>
+			<Prp name="as html" type="B" value="-1"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="43510.5146327894"/>
+			<Prp name="line no" type="I" value="22"/>
+			<Prp name="remarks" type="S" value="&lt;h3&gt;Result&lt;/h3&gt;&lt;span&gt;The property checkpoint &lt;b&gt;passed&lt;/b&gt;: Aliases.browser.pageNews...l.panel.link10.textnode.Name&lt;b&gt; equals (case-sensitive) &lt;/b&gt;&quot;TextNode(0)&quot;.&lt;/span&gt;&lt;h3&gt;Details&lt;/h3&gt;&lt;table style='width: 100%'&gt;&lt;tr&gt;&lt;th style='width: 10%'&gt;Object&lt;/th&gt;&lt;td&gt;&lt;a href='lnamemapping://{ABA92325-EF41-49FB-BB06-3B375F1538DE}.{63684B10-43FB-4A21-BD0F-CF51D0266C98}'&gt;Aliases.browser.pageNewsKbsCoKrVodProgramDoBcd00.panelWrap.panelContainer.panelContent.panel3.panel.panel.link10.textnode&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Property&lt;/th&gt;&lt;td&gt;Name&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Condition&lt;/th&gt;&lt;td&gt;equals (case-sensitive)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Actual value&lt;/th&gt;&lt;td&gt;&quot;TextNode(0)&quot;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Expected value&lt;/th&gt;&lt;td&gt;&quot;TextNode(0)&quot;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="picture" type="S" value="Picture4.png"/>
+			<Prp name="id" type="I" value="11"/>
+			<Prp name="type" type="I" value="7"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="link" type="S" value=""/>
+		</Node>
+		<Node name="item 9">
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="stacktext" type="S" value="B02_News_DetailView_2()"/>
+			<Prp name="line no" type="I" value="208"/>
+		</Node>
+		<Node name="message 84">
+			<Node name="visualizer">
+				<Node name="original">
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point y" type="I" value="696"/>
+					<Prp name="object right" type="I" value="940"/>
+					<Prp name="object left" type="I" value="200"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="click point x" type="I" value="496"/>
+					<Prp name="object name" type="S" value="Aliases.browser.pageNewsKbsCoKrVodProgramDoBcd00.panelWrap.panelContainer.panelContent.panel5.panel.link2"/>
+					<Prp name="line #" type="I" value="165"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="object top" type="I" value="443"/>
+					<Prp name="object bottom" type="I" value="865"/>
+					<Prp name="image file name" type="S" value="tcvi277986218109480.png"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="datetime" type="D" value="43402.2164814815"/>
+				</Node>
+				<Node name="diff">
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="object name" type="S" value=""/>
+					<Prp name="line #" type="I" value="165"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="object bottom" type="I" value="-1"/>
+					<Prp name="image file name" type="S" value="visImage20_Dif.png"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="datetime" type="D" value="0"/>
+				</Node>
+				<Node name="current">
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point y" type="I" value="777"/>
+					<Prp name="object right" type="I" value="944"/>
+					<Prp name="object left" type="I" value="352"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="click point x" type="I" value="648"/>
+					<Prp name="object name" type="S" value="Aliases.browser.pageNewsKbsCoKrVodProgramDoBcd00.panelWrap.panelContainer.panelContent.panel5.panel.link2"/>
+					<Prp name="line #" type="I" value="165"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="object top" type="I" value="609"/>
+					<Prp name="object bottom" type="I" value="946"/>
+					<Prp name="image file name" type="S" value="visImage20.png"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="datetime" type="D" value="43510.141078831"/>
+				</Node>
+			</Node>
+			<Prp name="message" type="S" value="The window was clicked with the left mouse button."/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="43510.5160797222"/>
+			<Prp name="line no" type="I" value="165"/>
+			<Prp name="remarks" type="S" value="A click at point (296, 168) with no key pressed.&#xA;&#xA;Tested object:&#xA;Aliases.browser.pageNewsKbsCoKrVodProgramDoBcd00.panelWrap.panelContainer.panelContent.panel5.panel.link2&#xA;(Sys.Browser(&quot;chrome&quot;).Page(&quot;http://news.kbs.co.kr/common/main.html&quot;).Panel(&quot;wrap&quot;).Panel(&quot;container&quot;).Panel(&quot;content&quot;).Panel(7).Panel(0).Link(1))"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="id" type="I" value="84"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="link" type="S" value=""/>
+		</Node>
+		<Node name="item 0">
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="stacktext" type="S" value="B02_News_DetailView_2()"/>
+			<Prp name="line no" type="I" value="196"/>
+		</Node>
+		<Node name="message 81">
+			<Prp name="message" type="S" value="Navigating to the http://news.kbs.co.kr/ page."/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="43510.5160650347"/>
+			<Prp name="line no" type="I" value="158"/>
+			<Prp name="remarks" type="S" value="URL: http://news.kbs.co.kr/&#xA;&#xA;Aliases.browser"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="id" type="I" value="81"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="link" type="S" value=""/>
+		</Node>
+		<Node name="message 33">
+			<Prp name="message" type="S" value="The property value &quot;온라인쇼핑몰 납품업체 24% “판촉비 부담 강요받아”&quot; equals &quot;온라인쇼핑몰 납품업체 24% “판촉비 부담 강요받아”&quot;."/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="43510.5150219213"/>
+			<Prp name="line no" type="I" value="72"/>
+			<Prp name="remarks" type="S" value=""/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="id" type="I" value="33"/>
+			<Prp name="type" type="I" value="0"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="link" type="S" value=""/>
+		</Node>
+		<Node name="message 61">
+			<Prp name="message" type="S" value="The property checkpoint passed: contentText equals (case-sensitive) &quot;스포츠&quot;."/>
+			<Prp name="as html" type="B" value="-1"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="43510.5158661921"/>
+			<Prp name="line no" type="I" value="123"/>
+			<Prp name="remarks" type="S" value="&lt;h3&gt;Result&lt;/h3&gt;&lt;span&gt;The property checkpoint &lt;b&gt;passed&lt;/b&gt;: Aliases.browser.pageNews...iner.panelContent.link3.contentText&lt;b&gt; equals (case-sensitive) &lt;/b&gt;&quot;스포츠&quot;.&lt;/span&gt;&lt;h3&gt;Details&lt;/h3&gt;&lt;table style='width: 100%'&gt;&lt;tr&gt;&lt;th style='width: 10%'&gt;Object&lt;/th&gt;&lt;td&gt;&lt;a href='lnamemapping://{ABA92325-EF41-49FB-BB06-3B375F1538DE}.{1F603722-DDE9-4868-A879-3670E9448C54}'&gt;Aliases.browser.pageNewsKbsCoKrVodProgramDoBcd00.panelWrap.panelContainer.panelContent.link3&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Property&lt;/th&gt;&lt;td&gt;contentText&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Condition&lt;/th&gt;&lt;td&gt;equals (case-sensitive)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Actual value&lt;/th&gt;&lt;td&gt;&quot;스포츠&quot;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Expected value&lt;/th&gt;&lt;td&gt;&quot;스포츠&quot;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="picture" type="S" value="Picture17.png"/>
+			<Prp name="id" type="I" value="61"/>
+			<Prp name="type" type="I" value="7"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="link" type="S" value=""/>
+		</Node>
+		<Node name="message 6">
+			<Prp name="message" type="S" value="Navigating to the http://news.kbs.co.kr/ page."/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="43510.5145097106"/>
+			<Prp name="line no" type="I" value="11"/>
+			<Prp name="remarks" type="S" value="URL: http://news.kbs.co.kr/&#xA;&#xA;Aliases.browser"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="id" type="I" value="6"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="link" type="S" value=""/>
+		</Node>
+		<Node name="message 62">
+			<Prp name="message" type="S" value="The property checkpoint passed: Name equals (case-sensitive) &quot;Link(1)&quot;."/>
+			<Prp name="as html" type="B" value="-1"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="43510.5158692361"/>
+			<Prp name="line no" type="I" value="124"/>
+			<Prp name="remarks" type="S" value="&lt;h3&gt;Result&lt;/h3&gt;&lt;span&gt;The property checkpoint &lt;b&gt;passed&lt;/b&gt;: Aliases.browser.pageNews...anel4.panel.imageCl7Jpg.Name&lt;b&gt; equals (case-sensitive) &lt;/b&gt;&quot;Link(1)&quot;.&lt;/span&gt;&lt;h3&gt;Details&lt;/h3&gt;&lt;table style='width: 100%'&gt;&lt;tr&gt;&lt;th style='width: 10%'&gt;Object&lt;/th&gt;&lt;td&gt;&lt;a href='lnamemapping://{ABA92325-EF41-49FB-BB06-3B375F1538DE}.{11C40E7F-B904-43DA-97DC-64CBB5B23E12}'&gt;Aliases.browser.pageNewsKbsCoKrVodProgramDoBcd00.panelWrap.panelContainer.panelContent.panel4.panel.imageCl7Jpg&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Property&lt;/th&gt;&lt;td&gt;Name&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Condition&lt;/th&gt;&lt;td&gt;equals (case-sensitive)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Actual value&lt;/th&gt;&lt;td&gt;&quot;Link(1)&quot;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Expected value&lt;/th&gt;&lt;td&gt;&quot;Link(1)&quot;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="picture" type="S" value="Picture18.png"/>
+			<Prp name="id" type="I" value="62"/>
+			<Prp name="type" type="I" value="7"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="link" type="S" value=""/>
+		</Node>
+		<Node name="message 48">
+			<Prp name="message" type="S" value="Navigating to the http://news.kbs.co.kr/ page."/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="43510.5156401389"/>
+			<Prp name="line no" type="I" value="99"/>
+			<Prp name="remarks" type="S" value="URL: http://news.kbs.co.kr/&#xA;&#xA;Aliases.browser"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="id" type="I" value="48"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="link" type="S" value=""/>
+		</Node>
+		<Node name="message 100">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point y" type="I" value="571"/>
+					<Prp name="object right" type="I" value="1552"/>
+					<Prp name="object left" type="I" value="1264"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="click point x" type="I" value="1408"/>
+					<Prp name="object name" type="S" value="Aliases.browser.pageNewsKbsCoKrVodProgramDoBcd00.panelWrap.panelContainer.panelContent.panel5.panel.link5"/>
+					<Prp name="line #" type="I" value="193"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="object top" type="I" value="490"/>
+					<Prp name="object bottom" type="I" value="652"/>
+					<Prp name="image file name" type="S" value="visImage24.png"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="datetime" type="D" value="43510.1412412037"/>
+				</Node>
+			</Node>
+			<Prp name="message" type="S" value="The window was clicked with the left mouse button."/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="43510.5162421065"/>
+			<Prp name="line no" type="I" value="193"/>
+			<Prp name="remarks" type="S" value="A click at point (144, 81) with no key pressed.&#xA;&#xA;Tested object:&#xA;Aliases.browser.pageNewsKbsCoKrVodProgramDoBcd00.panelWrap.panelContainer.panelContent.panel5.panel.link5&#xA;(Sys.Browser(&quot;chrome&quot;).Page(&quot;http://news.kbs.co.kr/common/main.html&quot;).Panel(&quot;wrap&quot;).Panel(&quot;container&quot;).Panel(&quot;content&quot;).Panel(7).Panel(0).Link(5))"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="id" type="I" value="100"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="link" type="S" value=""/>
+		</Node>
+		<Node name="item 7">
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="stacktext" type="S" value="B02_News_DetailView_2()"/>
+			<Prp name="line no" type="I" value="205"/>
+		</Node>
+		<Node name="message 79">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point y" type="I" value="572"/>
+					<Prp name="object right" type="I" value="1552"/>
+					<Prp name="object left" type="I" value="1264"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="click point x" type="I" value="1408"/>
+					<Prp name="object name" type="S" value="Aliases.browser.pageNewsKbsCoKrVodProgramDoBcd00.panelWrap.panelContainer.panelContent.panel4.panel.link4"/>
+					<Prp name="line #" type="I" value="155"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="object top" type="I" value="491"/>
+					<Prp name="object bottom" type="I" value="653"/>
+					<Prp name="image file name" type="S" value="visImage19.png"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="datetime" type="D" value="43510.1410356134"/>
+				</Node>
+			</Node>
+			<Prp name="message" type="S" value="The window was clicked with the left mouse button."/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="43510.5160364352"/>
+			<Prp name="line no" type="I" value="155"/>
+			<Prp name="remarks" type="S" value="A click at point (144, 81) with no key pressed.&#xA;&#xA;Tested object:&#xA;Aliases.browser.pageNewsKbsCoKrVodProgramDoBcd00.panelWrap.panelContainer.panelContent.panel4.panel.link4&#xA;(Sys.Browser(&quot;chrome&quot;).Page(&quot;http://news.kbs.co.kr/common/main.html&quot;).Panel(&quot;wrap&quot;).Panel(&quot;container&quot;).Panel(&quot;content&quot;).Panel(6).Panel(0).Link(5))"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="id" type="I" value="79"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="link" type="S" value=""/>
+		</Node>
+		<Node name="message 52">
+			<Prp name="message" type="S" value="Navigating to the http://news.kbs.co.kr/ page."/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="43510.5157124884"/>
+			<Prp name="line no" type="I" value="106"/>
+			<Prp name="remarks" type="S" value="URL: http://news.kbs.co.kr/&#xA;&#xA;Aliases.browser"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="id" type="I" value="52"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="link" type="S" value=""/>
+		</Node>
+		<Node name="message 85">
+			<Prp name="message" type="S" value="The property value &quot;[문화광장] YG 양현석-제니 ‘거짓 염문설’ 유포자 검찰 송치&quot; does not equal &quot;YG 양현석-제니 ‘거짓 염문설’ 유포자 검찰 송치&quot;."/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="43510.5160892361"/>
+			<Prp name="line no" type="I" value="166"/>
+			<Prp name="remarks" type="S" value=""/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="id" type="I" value="85"/>
+			<Prp name="type" type="I" value="2"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="link" type="S" value=""/>
+		</Node>
+		<Node name="message 103">
+			<Prp name="message" type="S" value="Unable to navigate to the http://news.kbs.co.kr/ page."/>
+			<Prp name="stack end" type="I" value="1"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="43510.5166346875"/>
+			<Prp name="stack beginning" type="I" value="1"/>
+			<Prp name="line no" type="I" value="196"/>
+			<Prp name="remarks" type="S" value="URL: http://news.kbs.co.kr/&#xA;Process ID: 5976&#xA;Process Command Line: &quot;C:\Program Files (x86)\Google\Chrome\Application\chrome.exe&quot;  --disable-hang-monitor&#xA;Info: Cannot find any existing or open blank page.&#xA;&#xA;Check whether TestComplete Chrome Extension is installed and enabled.&#xA;&#xA;Aliases.browser"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="pictype" type="I" value="2"/>
+			<Prp name="picture" type="S" value="Picture30.png"/>
+			<Prp name="id" type="I" value="103"/>
+			<Prp name="type" type="I" value="3"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="link" type="S" value=""/>
+		</Node>
+		<Node name="message 24">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point y" type="I" value="571"/>
+					<Prp name="object right" type="I" value="662"/>
+					<Prp name="object left" type="I" value="352"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="click point x" type="I" value="507"/>
+					<Prp name="object name" type="S" value="Aliases.browser.pageNewsKbsCoKrVodProgramDoBcd00.panelWrap.panelContainer.panelContent.panel3.panel.panel.link5.textnode"/>
+					<Prp name="line #" type="I" value="52"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="object top" type="I" value="558"/>
+					<Prp name="object bottom" type="I" value="585"/>
+					<Prp name="image file name" type="S" value="visImage5.png"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="datetime" type="D" value="43510.1398628356"/>
+				</Node>
+			</Node>
+			<Prp name="message" type="S" value="The window was clicked with the left mouse button."/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="43510.5148635995"/>
+			<Prp name="line no" type="I" value="52"/>
+			<Prp name="remarks" type="S" value="A click at point (155, 13) with no key pressed.&#xA;&#xA;Tested object:&#xA;Aliases.browser.pageNewsKbsCoKrVodProgramDoBcd00.panelWrap.panelContainer.panelContent.panel3.panel.panel.link5.textnode&#xA;(Sys.Browser(&quot;chrome&quot;).Page(&quot;http://news.kbs.co.kr/common/main.html&quot;).Panel(&quot;wrap&quot;).Panel(&quot;container&quot;).Panel(&quot;content&quot;).Panel(5).Panel(0).Panel(0).Link(5).TextNode(0))"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="id" type="I" value="24"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="link" type="S" value=""/>
+		</Node>
+		<Node name="message 93">
+			<Prp name="message" type="S" value="The property value &quot;갓세븐 두번째 유닛 ‘저스투’…멤버는 JB·유겸&quot; does not equal &quot;갓세븐 두번째 유닛 ‘저스투’↴…멤버는 JB·유겸&quot;."/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="43510.5161701389"/>
+			<Prp name="line no" type="I" value="180"/>
+			<Prp name="remarks" type="S" value=""/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="id" type="I" value="93"/>
+			<Prp name="type" type="I" value="2"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="link" type="S" value=""/>
+		</Node>
+		<Node name="message 77">
+			<Prp name="message" type="S" value="Navigating to the http://news.kbs.co.kr/ page."/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="43510.516024537"/>
+			<Prp name="line no" type="I" value="151"/>
+			<Prp name="remarks" type="S" value="URL: http://news.kbs.co.kr/&#xA;&#xA;Aliases.browser"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="id" type="I" value="77"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="link" type="S" value=""/>
+		</Node>
+		<Node name="message 91">
+			<Prp name="message" type="S" value="The property checkpoint passed: Name equals (case-sensitive) &quot;Link(3)&quot;."/>
+			<Prp name="as html" type="B" value="-1"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="43510.5161588657"/>
+			<Prp name="line no" type="I" value="176"/>
+			<Prp name="remarks" type="S" value="&lt;h3&gt;Result&lt;/h3&gt;&lt;span&gt;The property checkpoint &lt;b&gt;passed&lt;/b&gt;: Aliases.browser.pageNews...tent.panel5.panel.link6.Name&lt;b&gt; equals (case-sensitive) &lt;/b&gt;&quot;Link(3)&quot;.&lt;/span&gt;&lt;h3&gt;Details&lt;/h3&gt;&lt;table style='width: 100%'&gt;&lt;tr&gt;&lt;th style='width: 10%'&gt;Object&lt;/th&gt;&lt;td&gt;&lt;a href='lnamemapping://{ABA92325-EF41-49FB-BB06-3B375F1538DE}.{FFEFEA01-3F0A-4D0F-8433-FACDB88D5265}'&gt;Aliases.browser.pageNewsKbsCoKrVodProgramDoBcd00.panelWrap.panelContainer.panelContent.panel5.panel.link6&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Property&lt;/th&gt;&lt;td&gt;Name&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Condition&lt;/th&gt;&lt;td&gt;equals (case-sensitive)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Actual value&lt;/th&gt;&lt;td&gt;&quot;Link(3)&quot;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Expected value&lt;/th&gt;&lt;td&gt;&quot;Link(3)&quot;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="picture" type="S" value="Picture26.png"/>
+			<Prp name="id" type="I" value="91"/>
+			<Prp name="type" type="I" value="7"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="link" type="S" value=""/>
+		</Node>
+		<Node name="message 60">
+			<Prp name="message" type="S" value="Navigating to the http://news.kbs.co.kr/ page."/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="43510.5158555208"/>
+			<Prp name="line no" type="I" value="120"/>
+			<Prp name="remarks" type="S" value="URL: http://news.kbs.co.kr/&#xA;&#xA;Aliases.browser"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="id" type="I" value="60"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="link" type="S" value=""/>
+		</Node>
+		<Node name="message 88">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="click point y" type="I" value="571"/>
+					<Prp name="object right" type="I" value="1248"/>
+					<Prp name="object left" type="I" value="960"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="click point x" type="I" value="1104"/>
+					<Prp name="object name" type="S" value="Aliases.browser.pageNewsKbsCoKrVodProgramDoBcd00.panelWrap.panelContainer.panelContent.panel5.panel.link3"/>
+					<Prp name="line #" type="I" value="172"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="object top" type="I" value="490"/>
+					<Prp name="object bottom" type="I" value="652"/>
+					<Prp name="image file name" type="S" value="visImage21.png"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="datetime" type="D" value="43510.1411203125"/>
+				</Node>
+			</Node>
+			<Prp name="message" type="S" value="The window was clicked with the left mouse button."/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="43510.5161211343"/>
+			<Prp name="line no" type="I" value="172"/>
+			<Prp name="remarks" type="S" value="A click at point (144, 81) with no key pressed.&#xA;&#xA;Tested object:&#xA;Aliases.browser.pageNewsKbsCoKrVodProgramDoBcd00.panelWrap.panelContainer.panelContent.panel5.panel.link3&#xA;(Sys.Browser(&quot;chrome&quot;).Page(&quot;http://news.kbs.co.kr/common/main.html&quot;).Panel(&quot;wrap&quot;).Panel(&quot;container&quot;).Panel(&quot;content&quot;).Panel(7).Panel(0).Link(2))"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="id" type="I" value="88"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="link" type="S" value=""/>
+		</Node>
+		<Prp name="status" type="I" value="2"/>
+	</Node>
+</Nodes>

@@ -1,0 +1,481 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE Nodes [
+
+<!ENTITY % NameValue "CDATA">
+<!ENTITY % PropType "(I|S|D|L|H|B)">
+<!ENTITY % VersionValue "CDATA">
+
+<!ELEMENT Prp (#PCDATA)>
+<!ELEMENT Node (Node|Prp)*>
+<!ELEMENT Nodes (Node)+>
+
+<!ATTLIST Nodes version CDATA "1">
+
+<!ATTLIST Node name CDATA #REQUIRED>
+
+<!ATTLIST Prp name CDATA #REQUIRED>
+<!ATTLIST Prp type CDATA #REQUIRED>
+<!ATTLIST Prp value CDATA #REQUIRED>
+]>
+<Nodes version="1">
+	<Node name="root">
+		<Node name="message 3">
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="line no" type="I" value="5"/>
+			<Prp name="message" type="S" value="The property checkpoint passed: contentText equals (case-sensitive) &quot;사업자정보&quot;."/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="as html" type="B" value="-1"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="remarks" type="S" value="&lt;h3&gt;Result&lt;/h3&gt;&lt;span&gt;The property checkpoint &lt;b&gt;passed&lt;/b&gt;: Aliases.browser.pageMnKb...eMainHtml.link.textnode.contentText&lt;b&gt; equals (case-sensitive) &lt;/b&gt;&quot;사업자정보&quot;.&lt;/span&gt;&lt;h3&gt;Details&lt;/h3&gt;&lt;table style='width: 100%'&gt;&lt;tr&gt;&lt;th style='width: 10%'&gt;Object&lt;/th&gt;&lt;td&gt;&lt;a href='lnamemapping://{0B6CBADD-2F21-4201-9386-509EA4A07706}.{BB032F1C-045A-4BD8-8117-91E019FB62A1}'&gt;Aliases.browser.pageMnKbsCoKrMobileMainHtml.link.textnode&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Property&lt;/th&gt;&lt;td&gt;contentText&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Condition&lt;/th&gt;&lt;td&gt;equals (case-sensitive)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Actual value&lt;/th&gt;&lt;td&gt;&quot;사업자정보&quot;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Expected value&lt;/th&gt;&lt;td&gt;&quot;사업자정보&quot;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="date" type="D" value="43510.6499204398"/>
+			<Prp name="id" type="I" value="3"/>
+			<Prp name="type" type="I" value="7"/>
+			<Prp name="picture" type="S" value="Picture2.png"/>
+		</Node>
+		<Node name="stack"/>
+		<Node name="message 5">
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="line no" type="I" value="7"/>
+			<Prp name="message" type="S" value="The property checkpoint passed: contentText equals (case-sensitive) &quot;이용약관&quot;."/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="as html" type="B" value="-1"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="remarks" type="S" value="&lt;h3&gt;Result&lt;/h3&gt;&lt;span&gt;The property checkpoint &lt;b&gt;passed&lt;/b&gt;: Aliases.browser.pageMnKb...nelFooter.link.textnode.contentText&lt;b&gt; equals (case-sensitive) &lt;/b&gt;&quot;이용약관&quot;.&lt;/span&gt;&lt;h3&gt;Details&lt;/h3&gt;&lt;table style='width: 100%'&gt;&lt;tr&gt;&lt;th style='width: 10%'&gt;Object&lt;/th&gt;&lt;td&gt;&lt;a href='lnamemapping://{0B6CBADD-2F21-4201-9386-509EA4A07706}.{5A93CD50-013A-44FA-9609-BF4A8669ED84}'&gt;Aliases.browser.pageMnKbsCoKrMobileMainHtml.panelWrap.panelContainer.panelFooter.link.textnode&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Property&lt;/th&gt;&lt;td&gt;contentText&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Condition&lt;/th&gt;&lt;td&gt;equals (case-sensitive)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Actual value&lt;/th&gt;&lt;td&gt;&quot;이용약관&quot;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Expected value&lt;/th&gt;&lt;td&gt;&quot;이용약관&quot;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="date" type="D" value="43510.6499283449"/>
+			<Prp name="id" type="I" value="5"/>
+			<Prp name="type" type="I" value="7"/>
+			<Prp name="picture" type="S" value="Picture4.png"/>
+		</Node>
+		<Node name="message 15">
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="line no" type="I" value="23"/>
+			<Prp name="message" type="S" value="The property checkpoint passed: contentText equals (case-sensitive) &quot;개인정보처리방침&quot;."/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="as html" type="B" value="-1"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="remarks" type="S" value="&lt;h3&gt;Result&lt;/h3&gt;&lt;span&gt;The property checkpoint &lt;b&gt;passed&lt;/b&gt;: Aliases.browser.pageSsoK...KbsmobileInfor.textnode.contentText&lt;b&gt; equals (case-sensitive) &lt;/b&gt;&quot;개인정보처리방침&quot;.&lt;/span&gt;&lt;h3&gt;Details&lt;/h3&gt;&lt;table style='width: 100%'&gt;&lt;tr&gt;&lt;th style='width: 10%'&gt;Object&lt;/th&gt;&lt;td&gt;&lt;a href='lnamemapping://{0B6CBADD-2F21-4201-9386-509EA4A07706}.{64471E54-83BF-445D-9C08-1D7DF3772105}'&gt;Aliases.browser.pageSsoKbsCoKrSso2KbsmobileInfor.textnode&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Property&lt;/th&gt;&lt;td&gt;contentText&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Condition&lt;/th&gt;&lt;td&gt;equals (case-sensitive)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Actual value&lt;/th&gt;&lt;td&gt;&quot;개인정보처리방침&quot;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Expected value&lt;/th&gt;&lt;td&gt;&quot;개인정보처리방침&quot;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="date" type="D" value="43510.650036088"/>
+			<Prp name="id" type="I" value="15"/>
+			<Prp name="type" type="I" value="7"/>
+			<Prp name="picture" type="S" value="Picture9.png"/>
+		</Node>
+		<Node name="message 11">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object left" type="I" value="94"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object bottom" type="I" value="657"/>
+					<Prp name="click point x" type="I" value="133"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="image file name" type="S" value="visImage1.png"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object right" type="I" value="159"/>
+					<Prp name="object top" type="I" value="642"/>
+					<Prp name="click point y" type="I" value="649"/>
+					<Prp name="datetime" type="D" value="43510.274985463"/>
+					<Prp name="object name" type="S" value="Aliases.browser.pageMnKbsCoKrMobileMainHtml.link.textnode"/>
+					<Prp name="line #" type="I" value="16"/>
+				</Node>
+			</Node>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="line no" type="I" value="16"/>
+			<Prp name="message" type="S" value="The window was clicked with the left mouse button."/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="remarks" type="S" value="A click at point (39, 7) with no key pressed.&#xA;&#xA;Tested object:&#xA;Aliases.browser.pageMnKbsCoKrMobileMainHtml.link.textnode&#xA;(Sys.Browser(&quot;chrome&quot;).Page(&quot;http://mn.kbs.co.kr/mobile/main.html&quot;).Panel(&quot;wrap&quot;).Panel(&quot;container&quot;).Panel(&quot;footer&quot;).Link(11).TextNode(0))"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="date" type="D" value="43510.6499862037"/>
+			<Prp name="id" type="I" value="11"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="picture" type="S" value=""/>
+		</Node>
+		<Node name="message 4">
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="line no" type="I" value="6"/>
+			<Prp name="message" type="S" value="The property checkpoint passed: contentText equals (case-sensitive) &quot;개인정보처리방침&quot;."/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="as html" type="B" value="-1"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="remarks" type="S" value="&lt;h3&gt;Result&lt;/h3&gt;&lt;span&gt;The property checkpoint &lt;b&gt;passed&lt;/b&gt;: Aliases.browser.pageMnKb...MainHtml.link2.textnode.contentText&lt;b&gt; equals (case-sensitive) &lt;/b&gt;&quot;개인정보처리방침&quot;.&lt;/span&gt;&lt;h3&gt;Details&lt;/h3&gt;&lt;table style='width: 100%'&gt;&lt;tr&gt;&lt;th style='width: 10%'&gt;Object&lt;/th&gt;&lt;td&gt;&lt;a href='lnamemapping://{0B6CBADD-2F21-4201-9386-509EA4A07706}.{26A3164B-8ED9-4766-803E-35D134F443AB}'&gt;Aliases.browser.pageMnKbsCoKrMobileMainHtml.link2.textnode&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Property&lt;/th&gt;&lt;td&gt;contentText&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Condition&lt;/th&gt;&lt;td&gt;equals (case-sensitive)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Actual value&lt;/th&gt;&lt;td&gt;&quot;개인정보처리방침&quot;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Expected value&lt;/th&gt;&lt;td&gt;&quot;개인정보처리방침&quot;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="date" type="D" value="43510.6499244907"/>
+			<Prp name="id" type="I" value="4"/>
+			<Prp name="type" type="I" value="7"/>
+			<Prp name="picture" type="S" value="Picture3.png"/>
+		</Node>
+		<Node name="message 0">
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="line no" type="I" value="1"/>
+			<Prp name="message" type="S" value="Samsung Galaxy S5 virtual browser was launched."/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="as html" type="B" value="-1"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="remarks" type="S" value="&lt;html&gt;&lt;head&gt;&lt;style&gt;td{font-family: Courier New, Consolas, Segoe UI; font-size : 14px;}&lt;/style&gt;&lt;/head&gt;	&lt;body&gt;	&lt;table cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;	&lt;tr&gt;&lt;td&gt;&lt;b&gt;Virtual browser:&lt;/b&gt;&lt;/td&gt;&lt;td&gt;Samsung Galaxy S5&lt;/td&gt;&lt;/tr&gt;	&lt;tr&gt;&lt;td&gt;&lt;b&gt;Browser:&lt;/b&gt;&lt;/td&gt;&lt;td&gt;Google Chrome ver.72.0.3626.109 (x64)&lt;/td&gt;&lt;/tr&gt;	&lt;tr&gt;&lt;td&gt;&lt;b&gt;Executable:&lt;/b&gt;&lt;/td&gt;&lt;td&gt;C:\Program Files (x86)\Google\Chrome\Application\chrome.exe&lt;/td&gt;&lt;/tr&gt;	&lt;tr&gt;&lt;td style=&quot;padding-right: 8px;&quot;&gt;&lt;b&gt;Command-line args:&lt;/b&gt;&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;	&lt;tr&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;URL:&lt;/b&gt;&lt;/td&gt;&lt;td&gt;http://mn.kbs.co.kr/mobile/main.html&lt;/td&gt;&lt;/tr&gt;	&lt;tr&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;PID:&lt;/b&gt;&lt;/td&gt;&lt;td&gt;5748&lt;/td&gt;&lt;/tr&gt;	&lt;/table&gt;&lt;/body&gt;&lt;/html&gt;"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="date" type="D" value="43510.6498593403"/>
+			<Prp name="id" type="I" value="0"/>
+			<Prp name="type" type="I" value="0"/>
+			<Prp name="picture" type="S" value=""/>
+		</Node>
+		<Node name="message 14">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object left" type="I" value="174"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object bottom" type="I" value="657"/>
+					<Prp name="click point x" type="I" value="228"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="image file name" type="S" value="visImage2.png"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object right" type="I" value="278"/>
+					<Prp name="object top" type="I" value="642"/>
+					<Prp name="click point y" type="I" value="648"/>
+					<Prp name="datetime" type="D" value="43510.2750208449"/>
+					<Prp name="object name" type="S" value="Aliases.browser.pageMnKbsCoKrMobileMainHtml.link2.textnode"/>
+					<Prp name="line #" type="I" value="21"/>
+				</Node>
+			</Node>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="line no" type="I" value="21"/>
+			<Prp name="message" type="S" value="The window was clicked with the left mouse button."/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="remarks" type="S" value="A click at point (54, 6) with no key pressed.&#xA;&#xA;Tested object:&#xA;Aliases.browser.pageMnKbsCoKrMobileMainHtml.link2.textnode&#xA;(Sys.Browser(&quot;chrome&quot;).Page(&quot;http://mn.kbs.co.kr/mobile/main.html&quot;).Panel(&quot;wrap&quot;).Panel(&quot;container&quot;).Panel(&quot;footer&quot;).Link(12).TextNode(0))"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="date" type="D" value="43510.6500215509"/>
+			<Prp name="id" type="I" value="14"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="picture" type="S" value=""/>
+		</Node>
+		<Node name="message 8">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object left" type="I" value="31"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object bottom" type="I" value="657"/>
+					<Prp name="click point x" type="I" value="60"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="image file name" type="S" value="visImage0.png"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object right" type="I" value="79"/>
+					<Prp name="object top" type="I" value="642"/>
+					<Prp name="click point y" type="I" value="649"/>
+					<Prp name="datetime" type="D" value="43510.2749367593"/>
+					<Prp name="object name" type="S" value="Aliases.browser.pageMnKbsCoKrMobileMainHtml.panelWrap.panelContainer.panelFooter.link3.textnode"/>
+					<Prp name="line #" type="I" value="11"/>
+				</Node>
+			</Node>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="line no" type="I" value="11"/>
+			<Prp name="message" type="S" value="The window was clicked with the left mouse button."/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="remarks" type="S" value="A click at point (29, 7) with no key pressed.&#xA;&#xA;Tested object:&#xA;Aliases.browser.pageMnKbsCoKrMobileMainHtml.panelWrap.panelContainer.panelFooter.link3.textnode&#xA;(Sys.Browser(&quot;chrome&quot;).Page(&quot;http://mn.kbs.co.kr/mobile/main.html&quot;).Panel(&quot;wrap&quot;).Panel(&quot;container&quot;).Panel(&quot;footer&quot;).Link(10).TextNode(0))"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="date" type="D" value="43510.6499373843"/>
+			<Prp name="id" type="I" value="8"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="picture" type="S" value=""/>
+		</Node>
+		<Node name="message 7">
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="line no" type="I" value="9"/>
+			<Prp name="message" type="S" value="The property checkpoint passed: contentText equals (case-sensitive) &quot;PC버전&quot;."/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="as html" type="B" value="-1"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="remarks" type="S" value="&lt;h3&gt;Result&lt;/h3&gt;&lt;span&gt;The property checkpoint &lt;b&gt;passed&lt;/b&gt;: Aliases.browser.pageMnKb...elFooter.link4.textnode.contentText&lt;b&gt; equals (case-sensitive) &lt;/b&gt;&quot;PC버전&quot;.&lt;/span&gt;&lt;h3&gt;Details&lt;/h3&gt;&lt;table style='width: 100%'&gt;&lt;tr&gt;&lt;th style='width: 10%'&gt;Object&lt;/th&gt;&lt;td&gt;&lt;a href='lnamemapping://{0B6CBADD-2F21-4201-9386-509EA4A07706}.{814B154B-69AB-4E39-9A14-985877535CA7}'&gt;Aliases.browser.pageMnKbsCoKrMobileMainHtml.panelWrap.panelContainer.panelFooter.link4.textnode&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Property&lt;/th&gt;&lt;td&gt;contentText&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Condition&lt;/th&gt;&lt;td&gt;equals (case-sensitive)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Actual value&lt;/th&gt;&lt;td&gt;&quot;PC버전&quot;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Expected value&lt;/th&gt;&lt;td&gt;&quot;PC버전&quot;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="date" type="D" value="43510.6499354977"/>
+			<Prp name="id" type="I" value="7"/>
+			<Prp name="type" type="I" value="7"/>
+			<Prp name="picture" type="S" value="Picture6.png"/>
+		</Node>
+		<Node name="message 16">
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="line no" type="I" value="24"/>
+			<Prp name="message" type="S" value="Navigating to the http://mn.kbs.co.kr/mobile/main.html page."/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="remarks" type="S" value="URL: http://mn.kbs.co.kr/mobile/main.html&#xA;&#xA;Aliases.browser"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="date" type="D" value="43510.6500593634"/>
+			<Prp name="id" type="I" value="16"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="picture" type="S" value=""/>
+		</Node>
+		<Node name="message 12">
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="line no" type="I" value="18"/>
+			<Prp name="message" type="S" value="The property checkpoint passed: contentText equals (case-sensitive) &quot;사업자 정보&quot;."/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="as html" type="B" value="-1"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="remarks" type="S" value="&lt;h3&gt;Result&lt;/h3&gt;&lt;span&gt;The property checkpoint &lt;b&gt;passed&lt;/b&gt;: Aliases.browser.pageWwwK...rMMoreCorpHtml.textnode.contentText&lt;b&gt; equals (case-sensitive) &lt;/b&gt;&quot;사업자 정보&quot;.&lt;/span&gt;&lt;h3&gt;Details&lt;/h3&gt;&lt;table style='width: 100%'&gt;&lt;tr&gt;&lt;th style='width: 10%'&gt;Object&lt;/th&gt;&lt;td&gt;&lt;a href='lnamemapping://{0B6CBADD-2F21-4201-9386-509EA4A07706}.{3442AE63-1467-4C05-93D8-9536002B018B}'&gt;Aliases.browser.pageWwwKbsCoKrMMoreCorpHtml.textnode&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Property&lt;/th&gt;&lt;td&gt;contentText&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Condition&lt;/th&gt;&lt;td&gt;equals (case-sensitive)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Actual value&lt;/th&gt;&lt;td&gt;&quot;사업자 정보&quot;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Expected value&lt;/th&gt;&lt;td&gt;&quot;사업자 정보&quot;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="date" type="D" value="43510.6499965394"/>
+			<Prp name="id" type="I" value="12"/>
+			<Prp name="type" type="I" value="7"/>
+			<Prp name="picture" type="S" value="Picture8.png"/>
+		</Node>
+		<Node name="message 2">
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="line no" type="I" value="4"/>
+			<Prp name="message" type="S" value="The property checkpoint passed: contentText equals (case-sensitive) &quot;KBS소개&quot;."/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="as html" type="B" value="-1"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="remarks" type="S" value="&lt;h3&gt;Result&lt;/h3&gt;&lt;span&gt;The property checkpoint &lt;b&gt;passed&lt;/b&gt;: Aliases.browser.pageMnKb...elFooter.link3.textnode.contentText&lt;b&gt; equals (case-sensitive) &lt;/b&gt;&quot;KBS소개&quot;.&lt;/span&gt;&lt;h3&gt;Details&lt;/h3&gt;&lt;table style='width: 100%'&gt;&lt;tr&gt;&lt;th style='width: 10%'&gt;Object&lt;/th&gt;&lt;td&gt;&lt;a href='lnamemapping://{0B6CBADD-2F21-4201-9386-509EA4A07706}.{D9684BED-6895-422B-A5EB-870C18A1767E}'&gt;Aliases.browser.pageMnKbsCoKrMobileMainHtml.panelWrap.panelContainer.panelFooter.link3.textnode&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Property&lt;/th&gt;&lt;td&gt;contentText&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Condition&lt;/th&gt;&lt;td&gt;equals (case-sensitive)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Actual value&lt;/th&gt;&lt;td&gt;&quot;KBS소개&quot;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Expected value&lt;/th&gt;&lt;td&gt;&quot;KBS소개&quot;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="date" type="D" value="43510.6499164352"/>
+			<Prp name="id" type="I" value="2"/>
+			<Prp name="type" type="I" value="7"/>
+			<Prp name="picture" type="S" value="Picture1.png"/>
+		</Node>
+		<Node name="message 13">
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="line no" type="I" value="19"/>
+			<Prp name="message" type="S" value="Navigating to the http://mn.kbs.co.kr/mobile/main.html page."/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="remarks" type="S" value="URL: http://mn.kbs.co.kr/mobile/main.html&#xA;&#xA;Aliases.browser"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="date" type="D" value="43510.6500142477"/>
+			<Prp name="id" type="I" value="13"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="picture" type="S" value=""/>
+		</Node>
+		<Node name="message 19">
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="line no" type="I" value="29"/>
+			<Prp name="message" type="S" value="Navigating to the http://mn.kbs.co.kr/mobile/main.html page."/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="remarks" type="S" value="URL: http://mn.kbs.co.kr/mobile/main.html&#xA;&#xA;Aliases.browser"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="date" type="D" value="43510.6501034259"/>
+			<Prp name="id" type="I" value="19"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="picture" type="S" value=""/>
+		</Node>
+		<Node name="message 21">
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="line no" type="I" value="33"/>
+			<Prp name="message" type="S" value="The property checkpoint passed: alt equals (case-sensitive) &quot;KBS 시청자 상담실&quot;."/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="as html" type="B" value="-1"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="remarks" type="S" value="&lt;h3&gt;Result&lt;/h3&gt;&lt;span&gt;The property checkpoint &lt;b&gt;passed&lt;/b&gt;: Aliases.browser.pageIaud...eMainframe.imageLogoGif.alt&lt;b&gt; equals (case-sensitive) &lt;/b&gt;&quot;KBS 시청자 상담실&quot;.&lt;/span&gt;&lt;h3&gt;Details&lt;/h3&gt;&lt;table style='width: 100%'&gt;&lt;tr&gt;&lt;th style='width: 10%'&gt;Object&lt;/th&gt;&lt;td&gt;&lt;a href='lnamemapping://{0B6CBADD-2F21-4201-9386-509EA4A07706}.{5A260F5B-92C8-4518-9022-3ED13875C51C}'&gt;Aliases.browser.pageIaudienceKbsCoKr.frameMainframe.imageLogoGif&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Property&lt;/th&gt;&lt;td&gt;alt&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Condition&lt;/th&gt;&lt;td&gt;equals (case-sensitive)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Actual value&lt;/th&gt;&lt;td&gt;&quot;KBS 시청자 상담실&quot;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Expected value&lt;/th&gt;&lt;td&gt;&quot;KBS 시청자 상담실&quot;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="date" type="D" value="43510.6501310648"/>
+			<Prp name="id" type="I" value="21"/>
+			<Prp name="type" type="I" value="7"/>
+			<Prp name="picture" type="S" value="Picture11.png"/>
+		</Node>
+		<Node name="message 18">
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="line no" type="I" value="28"/>
+			<Prp name="message" type="S" value="The property checkpoint passed: contentText equals (case-sensitive) &quot;이용약관&quot;."/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="as html" type="B" value="-1"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="remarks" type="S" value="&lt;h3&gt;Result&lt;/h3&gt;&lt;span&gt;The property checkpoint &lt;b&gt;passed&lt;/b&gt;: Aliases.browser.pageSsoK...bsmobileInfor2.textnode.contentText&lt;b&gt; equals (case-sensitive) &lt;/b&gt;&quot;이용약관&quot;.&lt;/span&gt;&lt;h3&gt;Details&lt;/h3&gt;&lt;table style='width: 100%'&gt;&lt;tr&gt;&lt;th style='width: 10%'&gt;Object&lt;/th&gt;&lt;td&gt;&lt;a href='lnamemapping://{0B6CBADD-2F21-4201-9386-509EA4A07706}.{1BC863FB-1501-486A-BFFD-571D3D85818C}'&gt;Aliases.browser.pageSsoKbsCoKrSso2KbsmobileInfor2.textnode&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Property&lt;/th&gt;&lt;td&gt;contentText&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Condition&lt;/th&gt;&lt;td&gt;equals (case-sensitive)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Actual value&lt;/th&gt;&lt;td&gt;&quot;이용약관&quot;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Expected value&lt;/th&gt;&lt;td&gt;&quot;이용약관&quot;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="date" type="D" value="43510.6500803472"/>
+			<Prp name="id" type="I" value="18"/>
+			<Prp name="type" type="I" value="7"/>
+			<Prp name="picture" type="S" value="Picture10.png"/>
+		</Node>
+		<Node name="message 6">
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="line no" type="I" value="8"/>
+			<Prp name="message" type="S" value="The property checkpoint passed: contentText equals (case-sensitive) &quot;시청자상담&quot;."/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="as html" type="B" value="-1"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="remarks" type="S" value="&lt;h3&gt;Result&lt;/h3&gt;&lt;span&gt;The property checkpoint &lt;b&gt;passed&lt;/b&gt;: Aliases.browser.pageMnKb...elFooter.link2.textnode.contentText&lt;b&gt; equals (case-sensitive) &lt;/b&gt;&quot;시청자상담&quot;.&lt;/span&gt;&lt;h3&gt;Details&lt;/h3&gt;&lt;table style='width: 100%'&gt;&lt;tr&gt;&lt;th style='width: 10%'&gt;Object&lt;/th&gt;&lt;td&gt;&lt;a href='lnamemapping://{0B6CBADD-2F21-4201-9386-509EA4A07706}.{BCBF3932-557F-4D4B-AAC8-33BD2362554D}'&gt;Aliases.browser.pageMnKbsCoKrMobileMainHtml.panelWrap.panelContainer.panelFooter.link2.textnode&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Property&lt;/th&gt;&lt;td&gt;contentText&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Condition&lt;/th&gt;&lt;td&gt;equals (case-sensitive)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Actual value&lt;/th&gt;&lt;td&gt;&quot;시청자상담&quot;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Expected value&lt;/th&gt;&lt;td&gt;&quot;시청자상담&quot;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="date" type="D" value="43510.6499318287"/>
+			<Prp name="id" type="I" value="6"/>
+			<Prp name="type" type="I" value="7"/>
+			<Prp name="picture" type="S" value="Picture5.png"/>
+		</Node>
+		<Node name="message 10">
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="line no" type="I" value="14"/>
+			<Prp name="message" type="S" value="Navigating to the http://mn.kbs.co.kr/mobile/main.html page."/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="remarks" type="S" value="URL: http://mn.kbs.co.kr/mobile/main.html&#xA;&#xA;Aliases.browser"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="date" type="D" value="43510.649978831"/>
+			<Prp name="id" type="I" value="10"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="picture" type="S" value=""/>
+		</Node>
+		<Node name="message 20">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object left" type="I" value="127"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object bottom" type="I" value="682"/>
+					<Prp name="click point x" type="I" value="161"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="image file name" type="S" value="visImage4.png"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object right" type="I" value="192"/>
+					<Prp name="object top" type="I" value="667"/>
+					<Prp name="click point y" type="I" value="674"/>
+					<Prp name="datetime" type="D" value="43510.2751104282"/>
+					<Prp name="object name" type="S" value="Aliases.browser.pageMnKbsCoKrMobileMainHtml.panelWrap.panelContainer.panelFooter.link2.textnode"/>
+					<Prp name="line #" type="I" value="31"/>
+				</Node>
+			</Node>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="line no" type="I" value="31"/>
+			<Prp name="message" type="S" value="The window was clicked with the left mouse button."/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="remarks" type="S" value="A click at point (34, 7) with no key pressed.&#xA;&#xA;Tested object:&#xA;Aliases.browser.pageMnKbsCoKrMobileMainHtml.panelWrap.panelContainer.panelFooter.link2.textnode&#xA;(Sys.Browser(&quot;chrome&quot;).Page(&quot;http://mn.kbs.co.kr/mobile/main.html&quot;).Panel(&quot;wrap&quot;).Panel(&quot;container&quot;).Panel(&quot;footer&quot;).Link(14).TextNode(0))"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="date" type="D" value="43510.650111169"/>
+			<Prp name="id" type="I" value="20"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="picture" type="S" value=""/>
+		</Node>
+		<Node name="units">
+			<Prp name="unit 0" type="S" value="{11AE6044-9289-4ABF-95FF-B4CF0E00FAE3}"/>
+		</Node>
+		<Node name="child data"/>
+		<Node name="message 1">
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="line no" type="I" value="1"/>
+			<Prp name="message" type="S" value="Navigating to the http://mn.kbs.co.kr/mobile/main.html page."/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="remarks" type="S" value="URL: http://mn.kbs.co.kr/mobile/main.html&#xA;&#xA;Aliases.browser"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="date" type="D" value="43510.6498971412"/>
+			<Prp name="id" type="I" value="1"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="picture" type="S" value=""/>
+		</Node>
+		<Node name="message 17">
+			<Node name="visualizer">
+				<Node name="current">
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object left" type="I" value="293"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object bottom" type="I" value="657"/>
+					<Prp name="click point x" type="I" value="324"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="image file name" type="S" value="visImage3.png"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object right" type="I" value="345"/>
+					<Prp name="object top" type="I" value="642"/>
+					<Prp name="click point y" type="I" value="650"/>
+					<Prp name="datetime" type="D" value="43510.2750662384"/>
+					<Prp name="object name" type="S" value="Aliases.browser.pageMnKbsCoKrMobileMainHtml.panelWrap.panelContainer.panelFooter.link.textnode"/>
+					<Prp name="line #" type="I" value="26"/>
+				</Node>
+			</Node>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="line no" type="I" value="26"/>
+			<Prp name="message" type="S" value="The window was clicked with the left mouse button."/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="remarks" type="S" value="A click at point (31, 8) with no key pressed.&#xA;&#xA;Tested object:&#xA;Aliases.browser.pageMnKbsCoKrMobileMainHtml.panelWrap.panelContainer.panelFooter.link.textnode&#xA;(Sys.Browser(&quot;chrome&quot;).Page(&quot;http://mn.kbs.co.kr/mobile/main.html&quot;).Panel(&quot;wrap&quot;).Panel(&quot;container&quot;).Panel(&quot;footer&quot;).Link(13).TextNode(0))"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="date" type="D" value="43510.6500670949"/>
+			<Prp name="id" type="I" value="17"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="picture" type="S" value=""/>
+		</Node>
+		<Node name="message 9">
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="line no" type="I" value="13"/>
+			<Prp name="message" type="S" value="The property checkpoint passed: contentText equals (case-sensitive) &quot;KBS↴KBS&quot;."/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="as html" type="B" value="-1"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="remarks" type="S" value="&lt;h3&gt;Result&lt;/h3&gt;&lt;span&gt;The property checkpoint &lt;b&gt;passed&lt;/b&gt;: Aliases.browser.pageOpenKbsCoKr.link.contentText&lt;b&gt; equals (case-sensitive) &lt;/b&gt;&quot;KBS↴KBS&quot;.&lt;/span&gt;&lt;h3&gt;Details&lt;/h3&gt;&lt;table style='width: 100%'&gt;&lt;tr&gt;&lt;th style='width: 10%'&gt;Object&lt;/th&gt;&lt;td&gt;&lt;a href='lnamemapping://{0B6CBADD-2F21-4201-9386-509EA4A07706}.{0D6734FC-22EA-47E0-8B13-1378CD81854C}'&gt;Aliases.browser.pageOpenKbsCoKr.link&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Property&lt;/th&gt;&lt;td&gt;contentText&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Condition&lt;/th&gt;&lt;td&gt;equals (case-sensitive)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Actual value&lt;/th&gt;&lt;td&gt;&quot;KBS↴KBS&quot;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Expected value&lt;/th&gt;&lt;td&gt;&quot;KBS↴KBS&quot;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="date" type="D" value="43510.6499602546"/>
+			<Prp name="id" type="I" value="9"/>
+			<Prp name="type" type="I" value="7"/>
+			<Prp name="picture" type="S" value="Picture7.png"/>
+		</Node>
+		<Prp name="status" type="I" value="0"/>
+	</Node>
+</Nodes>

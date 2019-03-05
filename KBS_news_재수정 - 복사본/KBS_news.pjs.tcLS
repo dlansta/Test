@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE Nodes [
+
+<!ENTITY % NameValue "CDATA">
+<!ENTITY % PropType "(I|S|D|L|H|B)">
+<!ENTITY % VersionValue "CDATA">
+
+<!ELEMENT Prp (#PCDATA)>
+<!ELEMENT Node (Node|Prp)*>
+<!ELEMENT Nodes (Node)+>
+
+<!ATTLIST Nodes version CDATA "1">
+
+<!ATTLIST Node name CDATA #REQUIRED>
+
+<!ATTLIST Prp name CDATA #REQUIRED>
+<!ATTLIST Prp type CDATA #REQUIRED>
+<!ATTLIST Prp value CDATA #REQUIRED>
+]>
+<Nodes version="1">
+	<Node name="root">
+		<Node name="data">
+			<Node name="{052b6b11-e562-411f-b557-3ec554b7e5fc}">
+				<Prp name="relpath" type="S" value="KBS_News_iOS\E_KBS_News_iOS.mds.tcLS"/>
+			</Node>
+			<Node name="{24b6fa0b-0143-461a-9758-aeb9e9a9428b}">
+				<Prp name="default project" type="S" value="{E92BCF5D-B3C4-4D15-A9E4-77BCF07297CB}"/>
+			</Node>
+			<Node name="{2e7ad8ba-64c6-4401-a25b-b85159f60d2a}">
+				<Prp name="relpath" type="S" value="KBS_Front_Weather\B_KBS_Front_Weather.mds.tcLS"/>
+			</Node>
+			<Node name="{39fc22a0-33a7-4988-ba36-be308963d17f}">
+				<Prp name="relpath" type="S" value="KBS_Mobile_Virtual_Browser\F_KBS_Mobile_Virtual_Browser.mds.tcLS"/>
+			</Node>
+			<Node name="{4f8c6a30-5f5e-4ffd-83d5-aced11f34eb2}">
+				<Prp name="relpath" type="S" value="KBS_News_Android\D_KBS_News_Android.mds.tcLS"/>
+			</Node>
+			<Node name="{99fe5dce-aa86-47a9-9a76-b54f7bc1896e}">
+				<Prp name="relpath" type="S" value="KBS_News_MyPage\C_KBS_News_MyPage.mds.tcLS"/>
+			</Node>
+			<Node name="{e92bcf5d-b3c4-4d15-a9e4-77bcf07297cb}">
+				<Prp name="relpath" type="S" value="KBS_Front\A_KBS_Front.mds.tcLS"/>
+			</Node>
+			<Node name="envmngrlogs">
+				<Prp name="key" type="S" value="{F5438AF0-86D3-4E25-B137-AB050769BC30}"/>
+			</Node>
+			<Node name="logs">
+				<Prp name="key" type="S" value="{B1A85A14-75E2-4AC5-936D-0ED8AAF1CB02}"/>
+				<Prp name="relpath" type="S" value="Log"/>
+			</Node>
+			<Node name="variables"/>
+		</Node>
+		<Prp name="signature" type="S" value="{71078212-FAEB-4856-A901-B237C89E6B5C}"/>
+	</Node>
+</Nodes>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9576DAFD-0ADD-41A8-9897-C72F150AF6BB}" version="14.0">
+	<children>
+		<child name="F01_VB_Front" key="{93BEB0CC-809D-4345-91FA-4827CCF3441E}" path="F01_VB_Front.tcKDTest" />
+		<child name="F02_VB_FOOTER_menu" key="{11AE6044-9289-4ABF-95FF-B4CF0E00FAE3}" path="F02_VB_FOOTER_menu.tcKDTest" />
+		<child name="F03_VB_Expand_menu" key="{CB79212B-FDA0-4EAA-BD10-A2EC446BAA98}" path="F03_VB_Expand_menu.tcKDTest" />
+		<child name="F04_VB_News_DetailView" key="{46958AB4-A144-4352-97D5-7B6824218772}" path="F04_VB_News_DetailView.tcKDTest" />
+		<child name="Scenario_test" key="{51C122C6-8C5F-44A8-899F-437F407D2888}" path="Scenario_test.tcKDTest" />
+		<child name="A_VirtualBrowser_Open" key="{B4193403-5478-481E-9CC3-15D0AB29C82B}" path="A_VirtualBrowser_Open.tcKDTest" />
+	</children>
+</Root>

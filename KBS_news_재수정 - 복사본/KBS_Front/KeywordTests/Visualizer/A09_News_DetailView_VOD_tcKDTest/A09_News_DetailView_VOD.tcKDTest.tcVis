@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{42D2222C-ACA2-405F-8E67-05D5C42EB839}" version="2">
+	<data key="{F1F31729-3AA6-4246-BDD3-4CA0509909F5}">
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="3" kind="0" dateTime="43396.0417824074" objectName="NameMapping.Sys.browser.pageNewsKbsCoKrCommonMainHtmlNon.panelWrap.panelContainer.panelContent.panel.panel.link.textnode" objectLeft="-1" objectTop="-1" objectRight="-1" objectBottom="-1" clickPointX="-1" clickPointY="-1" imageFileName="tcvi3781484211843.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="9" kind="0" dateTime="43396.0424189815" objectName="Aliases.browser.pageNewsKbsCoKrVodProgramDoBcd00.panelWrap.panelContainer.panelContent.panel.button2" objectLeft="-1" objectTop="-1" objectRight="-1" objectBottom="-1" clickPointX="-1" clickPointY="-1" imageFileName="tcvi3835937211845.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="12" kind="0" dateTime="43396.0429166667" objectName="Aliases.browser.pageNewsKbsCoKrVodProgramDoBcd00.panelWrap.panelContainer.panelContent.panel.panel.panel.button" objectLeft="1244" objectTop="490" objectRight="1294" objectBottom="540" clickPointX="1269" clickPointY="511" imageFileName="tcvi38791092118410.png" storageFileName="" needUpdate="False" rectColor="255" />
+	</data>
+</Root>

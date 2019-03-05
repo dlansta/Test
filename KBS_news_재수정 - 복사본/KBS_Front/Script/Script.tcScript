@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9252F941-DB23-4FCA-AA50-858B33BB4A19}" version="11.40">
+	<children>
+		<child name="STA" key="{06DD5601-8E6B-4C03-939C-D1D89F911E43}" path="STA.js" />
+	</children>
+</Root>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Root signature="{42D2222C-ACA2-405F-8E67-05D5C42EB839}" version="2">
+	<data key="{82AB5C5C-8359-41E4-A2F5-1A49A370B7CB}">
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="2" kind="0" dateTime="43391.3596180556" objectName="Aliases.browser.pageNewsKbsCoKrCommonMainHtml.panelWrap.panelContainer.panelHeader.panel.panel.panel.link" objectLeft="1215" objectTop="182" objectRight="1351" objectBottom="305" clickPointX="1280" clickPointY="246" imageFileName="tcvi97520328261760.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="3" kind="0" dateTime="43391.3596990741" objectName="Aliases.browser.pageNewsKbsCoKrCommonMainHtml.panelHeader.panel.panel.panel.link" objectLeft="327" objectTop="307" objectRight="414" objectBottom="400" clickPointX="381" clickPointY="353" imageFileName="tcvi97527359261762.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="6" kind="0" dateTime="43397.0549189815" objectName="Aliases.browser.pageKbsnews.panelContent.button12" objectLeft="808" objectTop="707" objectRight="1091" objectBottom="757" clickPointX="951" clickPointY="730" imageFileName="tcvi475945348004.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="11" kind="0" dateTime="43397.0562384259" objectName="Aliases.browser.pageKbsnews.panelContent.panel.link" objectLeft="200" objectTop="258" objectRight="940" objectBottom="844" clickPointX="530" clickPointY="686" imageFileName="tcvi487321848000.png" storageFileName="" needUpdate="False" rectColor="255" />
+	</data>
+</Root>

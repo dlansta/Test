@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{90D101C8-80C7-48D4-9055-2E451B9BCD75}" version="1400" key="{1F7C5CEE-D5BD-42A4-86E8-B7A22CC80D05}" typeId="{90D101C8-80C7-48D4-9055-2E451B9BCD75}">
+	<config nodeName="TestedApps" />
+	<testData />
+	<data />
+	<children>
+		<child key="{6A3929E6-0AF3-4BFD-8C3B-5C0C4A276A14}">
+			<config nodeName="SmartBearBrowser" autorunOnRecording="False" enabled="True" count="1" useFeaturedRuntimeObject="True" userChangeName="False">
+				<runModeParams activeRunMode="Android">
+					<param name="Android" parameters="" workFolder="" apkFileName="C:\Program Files (x86)\SmartBear\TestComplete 14\Bin\Extensions\Android\SmartBearBrowser.apk" deploy="False" keepDataAndCache="False" storeBackup="True" backupFileName="C:\Program Files (x86)\SmartBear\TestComplete 14\Bin\Extensions\Android\SmartBearBrowser_ORIGINAL_BACKUP.apk" signAPKWithCustom="False" keystorePath="" alias="" keystorePassword="" keyPassword="" />
+				</runModeParams>
+			</config>
+			<testData />
+			<data />
+		</child>
+	</children>
+</Root>

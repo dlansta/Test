@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9576DAFD-0ADD-41A8-9897-C72F150AF6BB}" version="14.0">
+	<children>
+		<child name="B01_News_DetailView" key="{14CAC051-F046-4A04-9873-3467A331F392}" path="B01_News_DetailView.tcKDTest" />
+		<child name="B10_Jebo_Test" key="{BE48F023-6458-45BB-9938-9313F9A4F089}" path="B10_Jebo_Test.tcKDTest" />
+		<child name="B02_News_DetailView_2" key="{C1E19894-0917-4A2C-8D65-6D5CD9F0105C}" path="B02_News_DetailView_2.tcKDTest" />
+		<child name="B03_Weather" key="{52B7607A-5A55-4CA2-B4F2-EF9EC7F0EAE2}" path="B03_Weather.tcKDTest" />
+		<child name="B04_FOOTER_menu" key="{EBBF5ED0-65E4-4870-B238-938D224E423E}" path="B04_FOOTER_menu.tcKDTest" />
+		<child name="B05_WeatherLife" key="{E8423E5A-F149-4F30-826E-8D5445522369}" path="B05_WeatherLife.tcKDTest" />
+		<child name="B06_WeatherDisaster" key="{BA3BF879-AC2A-4D85-92B4-21EE1F41F3EA}" path="B06_WeatherDisaster.tcKDTest" />
+		<child name="Scenario_Test" key="{E1A1CB5B-9A4E-44B8-B90D-FB4CA8339629}" path="Scenario_Test.tcKDTest" />
+		<child name="B07_DisasterNews" key="{FDCB836B-06A0-4EAF-BF52-60879E5D700D}" path="B07_DisasterNews.tcKDTest" />
+		<child name="B08_DisasterWhatDo" key="{2032CBA0-1645-4C4F-9F90-DDF20003443A}" path="B08_DisasterWhatDo.tcKDTest" />
+		<child name="B11_Local_News_menu" key="{594C32B4-9425-4B99-A3E9-16B0AFDD4802}" path="B11_Local_News_menu.tcKDTest" />
+	</children>
+</Root>

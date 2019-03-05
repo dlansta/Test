@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{24B6FA0B-0143-461A-9758-AEB9E9A9428B}" version="14.0" key="{0113588A-E2BF-48C2-8C37-057AED3D06CC}">
+	<children>
+		<child name="A_KBS_Front" key="{E92BCF5D-B3C4-4D15-A9E4-77BCF07297CB}" path="KBS_Front\A_KBS_Front.mds" />
+		<child name="B_KBS_Front_Weather" key="{2E7AD8BA-64C6-4401-A25B-B85159F60D2A}" path="KBS_Front_Weather\B_KBS_Front_Weather.mds" />
+		<child name="D_KBS_News_Android" key="{4F8C6A30-5F5E-4FFD-83D5-ACED11F34EB2}" path="KBS_News_Android\D_KBS_News_Android.mds" />
+		<child name="E_KBS_News_iOS" key="{052B6B11-E562-411F-B557-3EC554B7E5FC}" path="KBS_News_iOS\E_KBS_News_iOS.mds" />
+		<child name="C_KBS_News_MyPage" key="{99FE5DCE-AA86-47A9-9A76-B54F7BC1896E}" path="KBS_News_MyPage\C_KBS_News_MyPage.mds" />
+		<child name="F_KBS_Mobile_Virtual_Browser" key="{39FC22A0-33A7-4988-BA36-BE308963D17F}" path="KBS_Mobile_Virtual_Browser\F_KBS_Mobile_Virtual_Browser.mds" />
+	</children>
+	<testItems key="{E3DD7D34-8ACA-40F0-A74D-D8FEADAC8F30}">
+		<children>
+			<testItem key="{E92BCF5D-B3C4-4D15-A9E4-77BCF07297CB}" enabled="True" timeout="0" stopOnError="False" description="" />
+			<testItem key="{2E7AD8BA-64C6-4401-A25B-B85159F60D2A}" enabled="True" timeout="0" stopOnError="False" description="" />
+			<testItem key="{4F8C6A30-5F5E-4FFD-83D5-ACED11F34EB2}" enabled="False" timeout="0" stopOnError="False" description="" />
+			<testItem key="{052B6B11-E562-411F-B557-3EC554B7E5FC}" enabled="False" timeout="0" stopOnError="False" description="" />
+			<testItem key="{99FE5DCE-AA86-47A9-9A76-B54F7BC1896E}" enabled="True" timeout="0" stopOnError="False" description="" />
+			<testItem key="{39FC22A0-33A7-4988-BA36-BE308963D17F}" enabled="True" timeout="0" stopOnError="True" description="" />
+		</children>
+	</testItems>
+	<variables key="{925FB70C-77C7-4DB3-8597-6CB49026A455}">
+		<data Version="3" />
+	</variables>
+	<analysis key="{BC70B950-085A-455C-B210-1BA581F1E487}" />
+	<scc key="{00000000-0000-0000-0000-000000000000}" name="">
+		<data />
+	</scc>
+	<extender key="{1A3FC97E-9A66-4716-B166-35D10B4146E0}">
+		<CrossBrowserTesting Enable="True" />
+	</extender>
+</Root>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{B9D9273E-7266-43E0-BF02-97F168593604}" version="14.0">
+	<TestData Description="" Key="{8EB124DD-AB84-4270-BC77-B20EEBCD2657}" Type="{79147B28-EE20-4294-B773-1D3787FBF37B}">
+		<Data>
+			<Extenders>
+				<NodeBitmaps />
+			</Extenders>
+		</Data>
+		<Children>
+			<Operation Type="{E8089E1C-53BC-4D9C-A69D-7CDDB49422CB}">
+				<Data Description="Runs a keyword test." TestName="E01_iOS_Front" />
+			</Operation>
+			<Operation Type="{E8089E1C-53BC-4D9C-A69D-7CDDB49422CB}">
+				<Data Description="Runs a keyword test." TestName="E02_iOS_FOOTER_menu" />
+			</Operation>
+			<Operation Type="{E8089E1C-53BC-4D9C-A69D-7CDDB49422CB}">
+				<Data Description="Runs a keyword test." TestName="E03_iOS_Expand_menu">
+					<CommonData Disabled="True" />
+				</Data>
+			</Operation>
+			<Operation Type="{E8089E1C-53BC-4D9C-A69D-7CDDB49422CB}">
+				<Data Description="Runs a keyword test." TestName="E04_iOS_News_DetailView" />
+			</Operation>
+		</Children>
+	</TestData>
+	<Variables Version="3" Key="{5712CF9D-EC2F-4D2B-8DC8-E51FBE36B610}" />
+	<Parameters Key="{8306CCBE-8976-4E3F-9162-94CF7C92CC4D}" />
+</Root>

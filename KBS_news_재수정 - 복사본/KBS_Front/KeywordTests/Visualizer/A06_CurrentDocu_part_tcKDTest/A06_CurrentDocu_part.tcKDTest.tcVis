@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{42D2222C-ACA2-405F-8E67-05D5C42EB839}" version="2">
+	<data key="{F53B4C33-9D02-4261-9677-5C112A13193A}">
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="3" kind="0" dateTime="43392.2325" objectName="Aliases.browser.pageNewsKbsCoKrVodProgramDoBcd00.panelWrap.panelContainer.panelHeader.panel.panel.panel.link" objectLeft="1349" objectTop="237" objectRight="1520" objectBottom="360" clickPointX="1432" clickPointY="297" imageFileName="tcvi16927109201640.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="4" kind="0" dateTime="43392.2326388889" objectName="Aliases.browser.pageNewsKbsCoKrVodProgramDoBcd00.panelWrap.panelContainer.panelHeader.panel.panel.panel.link2" objectLeft="430" objectTop="430" objectRight="656" objectBottom="463" clickPointX="473" clickPointY="447" imageFileName="tcvi16939609201642.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="11" kind="0" dateTime="43397.1029398148" objectName="Aliases.browser.pageNewsKbsCoKrVodProgramDoBcd00.panelWrap.panelContainer.panelContent.panel2.link7" objectLeft="200" objectTop="590" objectRight="686" objectBottom="980" clickPointX="421" clickPointY="869" imageFileName="tcvi890834348000.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="31" kind="0" dateTime="43397.1759953704" objectName="Aliases.browser.pageNewsKbsCoKrVodProgramDoBcd00.panelWrap.panelContainer.panelContent.panel2.button12" objectLeft="808" objectTop="571" objectRight="1091" objectBottom="621" clickPointX="912" clickPointY="599" imageFileName="tcvi1522051548000.png" storageFileName="" needUpdate="False" rectColor="255" />
+	</data>
+</Root>

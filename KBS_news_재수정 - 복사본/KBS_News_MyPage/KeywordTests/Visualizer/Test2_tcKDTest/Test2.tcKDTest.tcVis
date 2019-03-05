@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{42D2222C-ACA2-405F-8E67-05D5C42EB839}" version="2">
+	<data key="{3680B663-CD14-42E6-9C8B-1EAA0CA610EE}">
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="6" kind="0" dateTime="43509.3786111111" objectName="Aliases.explorer.wndShell_TrayWnd.TrayNotifyWnd.TrayShowDesktopButtonWClass" objectLeft="1912" objectTop="0" objectRight="1920" objectBottom="40" clickPointX="1919" clickPointY="39" imageFileName="tcvi2626712517762.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="7" kind="0" dateTime="43509.3786226852" objectName="Aliases.browser.Item" objectLeft="0" objectTop="0" objectRight="1633" objectBottom="687" clickPointX="1614" clickPointY="1" imageFileName="tcvi2626879658520.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="10" kind="0" dateTime="43509.3786574074" objectName="Aliases.explorer.wndProgman.SHELLDLL_DefView.FolderView" objectLeft="0" objectTop="0" objectRight="1920" objectBottom="2160" clickPointX="-1" clickPointY="1079" imageFileName="tcvi2627120317763.png" storageFileName="" needUpdate="False" rectColor="255" />
+	</data>
+</Root>

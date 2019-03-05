@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE Nodes [
+
+<!ENTITY % NameValue "CDATA">
+<!ENTITY % PropType "(I|S|D|L|H|B)">
+<!ENTITY % VersionValue "CDATA">
+
+<!ELEMENT Prp (#PCDATA)>
+<!ELEMENT Node (Node|Prp)*>
+<!ELEMENT Nodes (Node)+>
+
+<!ATTLIST Nodes version CDATA "1">
+
+<!ATTLIST Node name CDATA #REQUIRED>
+
+<!ATTLIST Prp name CDATA #REQUIRED>
+<!ATTLIST Prp type CDATA #REQUIRED>
+<!ATTLIST Prp value CDATA #REQUIRED>
+]>
+<Nodes version="1">
+	<Node name="root">
+		<Node name="summary">
+			<Node name="failed">
+				<Prp name="total (sum)" type="I" value="0"/>
+			</Node>
+			<Node name="executed">
+				<Prp name="total (sum)" type="I" value="5"/>
+			</Node>
+			<Node name="passed">
+				<Prp name="total (sum)" type="I" value="4"/>
+			</Node>
+			<Node name="total">
+				<Prp name="total (sum)" type="I" value="5"/>
+			</Node>
+			<Node name="warning">
+				<Prp name="total (sum)" type="I" value="1"/>
+			</Node>
+			<Prp name="test" type="S" value="F_KBS_Mobile_Virtual_Browser"/>
+			<Prp name="host" type="S" value="DESKTOP-MOL6LCB"/>
+			<Prp name="start date" type="D" value="43418.6763982292"/>
+			<Prp name="stop date" type="D" value="43418.6811037731"/>
+			<Prp name="user" type="S" value="pozol"/>
+			<Prp name="log status" type="I" value="0"/>
+		</Node>
+		<Node name="log data">
+			<Node name="row3">
+				<Node name="messages"/>
+				<Prp name="end time" type="D" value="43418.6804965625"/>
+				<Prp name="ownerid" type="I" value="-1"/>
+				<Prp name="details" type="S" value="{0E054411-B12F-4DCE-B490-552A1217BDF7}"/>
+				<Prp name="start time" type="D" value="43418.6774531134"/>
+				<Prp name="name" type="S" value="확장 메뉴 테스트"/>
+				<Prp name="status" type="I" value="0"/>
+				<Prp name="testdata item" type="B" value="-1"/>
+				<Prp name="index" type="I" value="3"/>
+			</Node>
+			<Node name="row0">
+				<Node name="messages"/>
+				<Prp name="end time" type="D" value="43418.6765431366"/>
+				<Prp name="ownerid" type="I" value="-1"/>
+				<Prp name="details" type="S" value="{D75E09C0-5331-46E3-BEE8-AA3556215B4E}"/>
+				<Prp name="start time" type="D" value="43418.6763982292"/>
+				<Prp name="name" type="S" value="가상 브라우저 오픈"/>
+				<Prp name="status" type="I" value="0"/>
+				<Prp name="testdata item" type="B" value="-1"/>
+				<Prp name="index" type="I" value="0"/>
+			</Node>
+			<Node name="row1">
+				<Node name="messages"/>
+				<Prp name="end time" type="D" value="43418.6770024653"/>
+				<Prp name="ownerid" type="I" value="-1"/>
+				<Prp name="details" type="S" value="{6361FDE6-7C7E-42D7-865C-85F0F28554F9}"/>
+				<Prp name="start time" type="D" value="43418.6765432176"/>
+				<Prp name="name" type="S" value="프론트 메뉴 테스트"/>
+				<Prp name="status" type="I" value="0"/>
+				<Prp name="testdata item" type="B" value="-1"/>
+				<Prp name="index" type="I" value="1"/>
+			</Node>
+			<Node name="row4">
+				<Node name="messages"/>
+				<Prp name="end time" type="D" value="43418.6811037731"/>
+				<Prp name="ownerid" type="I" value="-1"/>
+				<Prp name="details" type="S" value="{207DFEA2-9339-4DAE-AA15-F44CF0548792}"/>
+				<Prp name="start time" type="D" value="43418.6804966435"/>
+				<Prp name="name" type="S" value="뉴스 상세보기 테스트"/>
+				<Prp name="status" type="I" value="1"/>
+				<Prp name="testdata item" type="B" value="-1"/>
+				<Prp name="index" type="I" value="4"/>
+			</Node>
+			<Node name="row2">
+				<Node name="messages"/>
+				<Prp name="end time" type="D" value="43418.6774530324"/>
+				<Prp name="ownerid" type="I" value="-1"/>
+				<Prp name="details" type="S" value="{85147462-F188-4138-A678-3F6826172E38}"/>
+				<Prp name="start time" type="D" value="43418.6770025463"/>
+				<Prp name="name" type="S" value="FOOTER menu 테스트"/>
+				<Prp name="status" type="I" value="0"/>
+				<Prp name="testdata item" type="B" value="-1"/>
+				<Prp name="index" type="I" value="2"/>
+			</Node>
+		</Node>
+		<Prp name="hassummary" type="B" value="-1"/>
+	</Node>
+</Nodes>

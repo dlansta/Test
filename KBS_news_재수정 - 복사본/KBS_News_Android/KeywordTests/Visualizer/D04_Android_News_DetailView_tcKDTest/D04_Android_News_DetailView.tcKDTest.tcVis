@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{42D2222C-ACA2-405F-8E67-05D5C42EB839}" version="2">
+	<data key="{172F2FB4-90CD-43A1-98A2-67751D42DD37}">
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="7" kind="0" dateTime="43514.0529652315" objectName="Mobile.Device(&quot;LM-Q815L&quot;).Process(&quot;com.smartbear.smartbearbrowser&quot;).RootLayout(&quot;&quot;).WebView(&quot;webView&quot;).Page(&quot;http://mn.kbs.co.kr/mobile/main.html&quot;).Panel(&quot;wrap&quot;).Panel(&quot;container&quot;).Section(0).Link(0).TextNode(0)" objectLeft="71" objectTop="517" objectRight="1055" objectBottom="583" clickPointX="563" clickPointY="550" imageFileName="visImage0.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="20" kind="0" dateTime="43514.0514699074" objectName="Aliases.Device.Process_smartbear_smartbearbrowser.RootLayout.WebView_webView.Page_mnkbscokrmobilenewsviewdo.panel.panel.panel.article.panel3.link_" objectLeft="-1" objectTop="-1" objectRight="-1" objectBottom="-1" clickPointX="-1" clickPointY="-1" imageFileName="AndroidRecVisualData7.png" storageFileName="" needUpdate="False" rectColor="255" />
+	</data>
+</Root>

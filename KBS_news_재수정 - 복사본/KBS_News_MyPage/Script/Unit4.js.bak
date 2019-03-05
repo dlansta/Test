@@ -1,0 +1,25 @@
+﻿function Test()
+{
+  
+  Browsers.Item(btIExplorer).Run("http://news.kbs.co.kr/news/view.do?ncd=4137511");
+  var a;
+  a = document.getElementById("wf-content");
+  a.innerHTML = "asd";
+  setTimeout(function () {
+      a.innerHTML = "asdf";
+    }, 1000);
+  setTimeout(function () {
+      a.innerHTML = "asdfasdf";
+    }, 2000);
+  setTimeout(function () {
+      a.innerHTML = "fwfasfd";
+    }, 3000);
+  setTimeout(function () {
+      a.innerHTML = "f4qf";
+    }, 4000);
+
+aa();
+setInterval(aa, 5000);
+
+
+}

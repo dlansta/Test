@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9576DAFD-0ADD-41A8-9897-C72F150AF6BB}" version="14.0">
+	<children>
+		<child name="A01_Common" key="{8EFE1E73-9FB6-4517-995C-FA5789FD3FD2}" path="A01_Common.tcKDTest" />
+		<child name="A02_HEADER_MENU" key="{37EE1DD9-410D-4E87-B0C5-12ECFBA6F0BB}" path="A02_HEADER_MENU.tcKDTest" />
+		<child name="A03_FOOTER_NEWS_MENU" key="{8E7D0710-7703-463F-AD87-37987A243A0F}" path="A03_FOOTER_NEWS_MENU.tcKDTest" />
+		<child name="A04_Service_List" key="{7BB05A97-0572-43E3-BA9B-DB07AABD93CE}" path="A04_Service_List.tcKDTest" />
+		<child name="Scenario_test" key="{36B5DD0A-FB75-45F7-AD4C-3FDDD379A0B2}" path="Scenario_test.tcKDTest" />
+		<child name="A05_Major_Part" key="{82AB5C5C-8359-41E4-A2F5-1A49A370B7CB}" path="A05_Major_Part.tcKDTest" />
+		<child name="A06_CurrentDocu_part" key="{F53B4C33-9D02-4261-9677-5C112A13193A}" path="A06_CurrentDocu_part.tcKDTest" />
+		<child name="A07_News_Replay" key="{1CA6CA80-4138-4385-98D8-1CCF6E254DE8}" path="A07_News_Replay.tcKDTest" />
+		<child name="A08_Weather_Inform_OnAir" key="{73AAEA1D-F94C-4266-BB60-1F53FF2482DF}" path="A08_Weather_Inform_OnAir.tcKDTest" />
+		<child name="A09_News_DetailView_VOD" key="{F1F31729-3AA6-4246-BDD3-4CA0509909F5}" path="A09_News_DetailView_VOD.tcKDTest" />
+		<child name="A10_HeaderMenu" key="{3D10530B-1119-45DD-A33D-91AD31313FFA}" path="A10_HeaderMenu.tcKDTest" />
+	</children>
+</Root>

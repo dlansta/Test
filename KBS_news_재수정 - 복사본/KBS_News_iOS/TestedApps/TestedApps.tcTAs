@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{90D101C8-80C7-48D4-9055-2E451B9BCD75}" version="1400" key="{4D4D0127-A70E-49B9-A915-A249E40B9929}" typeId="{90D101C8-80C7-48D4-9055-2E451B9BCD75}">
+	<config nodeName="TestedApps" />
+	<testData />
+	<data />
+	<children>
+		<child key="{E9E03A3D-D07A-4049-A912-A1219A2E3BA8}">
+			<config nodeName="SmartBearBrowser" autorunOnRecording="False" enabled="True" count="1" useFeaturedRuntimeObject="True" userChangeName="False">
+				<runModeParams activeRunMode="iOS">
+					<param name="iOS" parameters="" workFolder="" ipaFileName="C:\Program Files (x86)\SmartBear\TestComplete 14\Bin\Extensions\iOS\SmartBearBrowser.ipa" deploy="True" storeBackup="True" backupFileName="C:\Program Files (x86)\SmartBear\TestComplete 14\Bin\Extensions\iOS\SmartBearBrowser_ORIGINAL_BACKUP.ipa" rootCert="" devCert="" pemFile="" provisioningFile="" />
+				</runModeParams>
+			</config>
+			<testData />
+			<data />
+		</child>
+	</children>
+</Root>

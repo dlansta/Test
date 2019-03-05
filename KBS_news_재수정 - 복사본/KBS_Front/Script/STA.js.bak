@@ -1,0 +1,15 @@
+﻿function BrowsersClose()
+{
+  browser.BrowserWindow(0).Close(2000);
+}
+
+function VirtualBrowser_test()
+{
+  VirtualBrowsers.Item(mobileBrowserInUse).Run(loginURL);
+
+Sys.Browser().Page("*").SendDebuggerCommand('Page.setDeviceMetricsOverride', 
+    '{"width":' + VirtualBrowsers.CurrentBrowser.ScreenWidth + 
+    ',"height":' + VirtualBrowsers.CurrentBrowser.ScreenHeight + 
+    ',"mobile":true' + 
+    ',"deviceScaleFactor":' + VirtualBrowsers.CurrentBrowser.DevicePixelRatio + '}');
+}

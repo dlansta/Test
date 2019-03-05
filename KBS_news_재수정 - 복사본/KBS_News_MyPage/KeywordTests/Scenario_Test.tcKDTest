@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{B9D9273E-7266-43E0-BF02-97F168593604}" version="14.0">
+	<TestData Description="" Key="{FFB238A7-109E-40E5-AA39-8C2F4074EB70}" Type="{79147B28-EE20-4294-B773-1D3787FBF37B}">
+		<Data>
+			<Extenders>
+				<NodeBitmaps />
+			</Extenders>
+		</Data>
+		<Children>
+			<Operation Type="{5B065688-A7F9-41DE-BA45-BF23B8116C41}">
+				<Data Comment="- 로그인 테스트를 위해서는 KBS 네트워크가 아닌 외부망으로 붙어서 테스트 진행 해야 함. &#13;&#10;- 이유는 KBS 네트워크는 다른 직원이 비밀번호 테스트를 해서 로그인 시 항상 보안키 입력이 필요하기 때문임, &#13;&#10;- TestComplete의 스크립트 실행에 있어서 보안키가 있으면 수행할 수 없음" />
+			</Operation>
+			<Operation Type="{5B065688-A7F9-41DE-BA45-BF23B8116C41}">
+				<Data Comment="뉴스 기사에 댓글 입력 오브젝트는 외부 프레임으로 되어 있어서 TestComplete에서 입력 실행을 위해서는 Chrome 속성에서 &apos;대상(T)&apos; 입력 필드에 아래와 같이 입력 해야 함&#13;&#10;&#13;&#10;&quot;C:\Program Files (x86)\Google\Chrome\Application\chrome.exe&quot; --disable-web-security --user-data-dir --disable-site-isolation-trials" />
+			</Operation>
+			<Operation Type="{674D3DD0-DFA7-476E-A300-34524D6884A9}">
+				<Data Description="Iterates through the specified browsers.">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="URL" DefVarType="8" DefValueType="6" DefValueValue="" ParamType="{83D6F80C-4323-4034-92E3-FD2A65D2E6FC}" VariableType="2" VariableName="Main_URL" />
+						<Parameter Name="PageLoadWaitTime" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+					</Parameters>
+					<Item>
+						<BrowserItem BrowserName="chrome" />
+					</Item>
+				</Data>
+				<Children>
+					<Operation Type="{E8089E1C-53BC-4D9C-A69D-7CDDB49422CB}">
+						<Data Description="Runs a keyword test." TestName="C01_MyPage" />
+					</Operation>
+					<Operation Type="{E8089E1C-53BC-4D9C-A69D-7CDDB49422CB}">
+						<Data Description="Runs a keyword test." TestName="C02_Comment" />
+					</Operation>
+				</Children>
+			</Operation>
+		</Children>
+	</TestData>
+	<Variables Version="3" Key="{7AE4F409-D0D6-417B-9063-785685534116}" />
+	<Parameters Key="{FC8D81E8-5E61-4C69-A0B0-F73365A2CA38}" />
+</Root>

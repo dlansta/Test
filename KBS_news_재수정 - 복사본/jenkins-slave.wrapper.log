@@ -1,0 +1,9 @@
+2019-02-22 16:32:02,660 DEBUG - Starting ServiceWrapper in the CLI mode
+2019-02-22 16:32:02,875 INFO  - Installing the service with id 'jenkinsslave-C__Users_STA_Desktop_KBS_news_rewrite'
+2019-02-22 16:32:02,892 FATAL - WMI Operation failure: AccessDenied
+WMI.WmiException: AccessDenied
+   위치: WMI.WmiRoot.BaseHandler.CheckError(ManagementBaseObject result)
+   위치: WMI.WmiRoot.ClassHandler.Invoke(Object proxy, MethodInfo method, Object[] args)
+   위치: WMI.Win32ServicesProxy.Create(String , String , String , ServiceType , ErrorControl , StartMode , Boolean , String , String , String[] )
+   위치: winsw.WrapperService.Run(String[] _args, ServiceDescriptor descriptor)
+   위치: winsw.WrapperService.Main(String[] args)

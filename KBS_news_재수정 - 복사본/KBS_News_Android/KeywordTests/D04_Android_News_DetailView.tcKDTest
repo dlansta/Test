@@ -1,0 +1,640 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{B9D9273E-7266-43E0-BF02-97F168593604}" version="14.0">
+	<TestData Description="" Key="{5830DE91-936D-43F5-AE25-9CC314BEE1F4}" Type="{79147B28-EE20-4294-B773-1D3787FBF37B}">
+		<Data>
+			<Extenders>
+				<NodeBitmaps>
+					<Bitmap Name="Aliases.Device" Data="61717A697000000001000000360400007801AD8E3D0AC240108547F0001EC1CE888D5550D4C2580B82DE44C5C61BC41FD03A2685BDF807A9849C4CF336199864D7C4C20D5FE6CD9B37D93863BB4AEAD8F1DB8AA9A554A81EABF8A4F3A449DE6F323F0D6F4E0053A9CD69DD953B52EB49B3639D16043095DA9CCEBA4D7F49DFC826F5AE7375A98CFC562B581180DFBD6D4A414EEEF4EE5B02F05917559983EE3F760AA9D9335599831E3CF70AA9D9335599839EBC3C85D4EC99AACC41FFF3699FD70486175755535F74DF34F2C9090FEA9F5019EC40635EB48FD92C0A68141E35E097EDF21CFBC833E879F64BCDDF95EFF91B1F37E4BF06" />
+					<Bitmap Name="Aliases.Device.Process_smartbear_smartbearbrowser" Data="61717A697000000001000000361000007801BD96EF4F535718C7BFFB0FF6B22F17EE0B9694D7FE017BC1E6E2DE90E80B30595C4646E810E8182996DFFD814E20F24B452A12CA18D9B219CAAA160B6C3044C784085A290C6591A901B69625B8374BEECEF3B4F7D2D33ADA995E6FF2E939F79E3ECFE739E7DCDEDB773E38F426F838243EDF16BC15E70DEE8993F8B8E8E947282704A7D3F95A21A706B9F7B65630D679C270C8E3743861B15852FCD72F96C068C8EF6A76C1F659A95E8336FF89012B8C86FCEE6637EA6A2A185A07CDFFD3482D8C46F3BB1A6D20CACACA74FFFC680B8C465BFFB6D38D20CACBCB75FFF278178C46F3F7749C01515959A9FB5767FA61347B5B61B81C2E5CB9D4C958AD56DDBF313F02A3D9DB167E71FF8F0C7998AAAA2ADDFF74C907A3A1F9D3FD3FFAED30535D5DADFBB75702301A9EBF58FF9BD7AE32369B4DF747D6A760347CFF09FFCCD40DA6A6A646F70FF5D8417C196FF9BCFB1486B208F9E979333FF70363B7DB63FEED557E07D0788C70424BFD97A17DF7FFB5E45F5ABCCDD4D5D5A1B8B8F8B55254548495070B4C7D7D3DBF87B41A0A0B0BE1F178F0F79A1F2F5E44B282BA3589E1BE56CEB5737F14EE8A66500DEBE165343434E8EF41AD06F24743BE14774EFF71644A62EDEAE638BCBD6739DF76DC4F0EAAA1A9A949F7D3FF01AA81F6271A1A4BF19B7DE5482677E493946B3903C7A55875F3E6BEFF814FCCDFC10E87C3C13568FF43B496D627FAF07B2907CD27D95D1070C1D4988FE41A14EF8752ACFA7B30C1EF87BBD221CD59F36A2DD5175949DD7FB3BF021A0541375455457EDFA73035BF8BDC6F4AF43165F884EC7F3A81C1DEF8FE3FBC8E96747E311E095F9372F0FC0356980547E7DAD94D7EAEE172194CCEF790FB5D298F2B5F7F24C5AACFA63078A98DAFED840399F9576F4839D83F5905B340F3164C9FD1FBF903A286D387913B668172F56329567DFEE3BE7F3528FCCE03D79FD627BA362EE560FFF4E7300BC87F74A183FBD46AF5E40F9E84E9ECFB507CC552ACFA7C1ADEBE76BEB6B33699997F7D42CA41FEBC59DB4B3976AF4BAFC1D476048ABF448A55B766E1F59C8BF97F9DCEC0EFC4EEE3292907FBEF9C42DE7F70EC7E0FD740E34AA0548A5577E684BF23E67F3483166BBAF517FE8D192907FB7FB1232F03946092FF8F3BF05EEE8AF91FDF4AEF17F5457F9B4DF52FD4222F0394498B14ABFE390F6F7F77CCBF713B23FFEE93392907CDFF55512377E1BDD2C3F17F3D5B84C3B6FFCCD79E39892DEDCFEE939F5FD9975CA71A5914FEF308DD0D62F196FFC0DF1ED5C1FECD2CFAA3E4BF20F2BAD05EDA9AD6DF505B8B7FA221A8BBCB596049FC2E36F095B737AD37710F3ACF7D81EE8ED6AC70BEBBFD40F7BFA1A341B7" />
+					<Bitmap Name="Aliases.Device.Process_smartbear_smartbearbrowser.RootLayout" Data="61717A697000000001000000361000007801BD96EF4F535718C7BFFB0FF6B22F17EE0B9694D7FE017BC1E6E2DE90E80B30595C4646E810E8182996DFFD814E20F24B452A12CA18D9B219CAAA160B6C3044C784085A290C6591A901B69625B8374BEECEF3B4F7D2D33ADA995E6FF2E939F79E3ECFE739E7DCDEDB773E38F426F838243EDF16BC15E70DEE8993F8B8E8E947282704A7D3F95A21A706B9F7B65630D679C270C8E3743861B15852FCD72F96C068C8EF6A76C1F659A95E8336FF89012B8C86FCEE6637EA6A2A185A07CDFFD3482D8C46F3BB1A6D20CACACA74FFFC680B8C465BFFB6D38D20CACBCB75FFF278178C46F3F7749C01515959A9FB5767FA61347B5B61B81C2E5CB9D4C958AD56DDBF313F02A3D9DB167E71FF8F0C7998AAAA2ADDFF74C907A3A1F9D3FD3FFAED30535D5DADFBB75702301A9EBF58FF9BD7AE32369B4DF747D6A760347CFF09FFCCD40DA6A6A646F70FF5D8417C196FF9BCFB1486B208F9E979333FF70363B7DB63FEED557E07D0788C70424BFD97A17DF7FFB5E45F5ABCCDD4D5D5A1B8B8F8B55254548495070B4C7D7D3DBF87B41A0A0B0BE1F178F0F79A1F2F5E44B282BA3589E1BE56CEB5737F14EE8A66500DEBE165343434E8EF41AD06F24743BE14774EFF71644A62EDEAE638BCBD6739DF76DC4F0EAAA1A9A949F7D3FF01AA81F6271A1A4BF19B7DE5482677E493946B3903C7A55875F3E6BEFF814FCCDFC10E87C3C13568FF43B496D627FAF07B2907CD27D95D1070C1D4988FE41A14EF8752ACFA7B30C1EF87BBD221CD59F36A2DD5175949DD7FB3BF021A0541375455457EDFA73035BF8BDC6F4AF43165F884EC7F3A81C1DEF8FE3FBC8E96747E311E095F9372F0FC0356980547E7DAD94D7EAEE172194CCEF790FB5D298F2B5F7F24C5AACFA63078A98DAFED840399F9576F4839D83F5905B340F3164C9FD1FBF903A286D387913B668172F56329567DFEE3BE7F3528FCCE03D79FD627BA362EE560FFF4E7300BC87F74A183FBD46AF5E40F9E84E9ECFB507CC552ACFA7C1ADEBE76BEB6B33699997F7D42CA41FEBC59DB4B3976AF4BAFC1D476048ABF448A55B766E1F59C8BF97F9DCEC0EFC4EEE3292907FBEF9C42DE7F70EC7E0FD740E34AA0548A5577E684BF23E67F3483166BBAF517FE8D192907FB7FB1232F03946092FF8F3BF05EEE8AF91FDF4AEF17F5457F9B4DF52FD4222F0394498B14ABFE390F6F7F77CCBF713B23FFEE93392907CDFF55512377E1BDD2C3F17F3D5B84C3B6FFCCD79E39892DEDCFEE939F5FD9975CA71A5914FEF308DD0D62F196FFC0DF1ED5C1FECD2CFAA3E4BF20F2BAD05EDA9AD6DF505B8B7FA221A8BBCB596049FC2E36F095B737AD37710F3ACF7D81EE8ED6AC70BEBBFD40F7BFA1A341B7" />
+					<Bitmap Name="Aliases.Device.Process_smartbear_smartbearbrowser.RootLayout.Layout_NO_ID" Data="61717A697000000001000000361000007801BD96EF4F535718C7BFFB0FF6B22F17EE0B9694D7FE017BC1E6E2DE90E80B30595C4646E810E8182996DFFD814E20F24B452A12CA18D9B219CAAA160B6C3044C784085A290C6591A901B69625B8374BEECEF3B4F7D2D33ADA995E6FF2E939F79E3ECFE739E7DCDEDB773E38F426F838243EDF16BC15E70DEE8993F8B8E8E947282704A7D3F95A21A706B9F7B65630D679C270C8E3743861B15852FCD72F96C068C8EF6A76C1F659A95E8336FF89012B8C86FCEE6637EA6A2A185A07CDFFD3482D8C46F3BB1A6D20CACACA74FFFC680B8C465BFFB6D38D20CACBCB75FFF278178C46F3F7749C01515959A9FB5767FA61347B5B61B81C2E5CB9D4C958AD56DDBF313F02A3D9DB167E71FF8F0C7998AAAA2ADDFF74C907A3A1F9D3FD3FFAED30535D5DADFBB75702301A9EBF58FF9BD7AE32369B4DF747D6A760347CFF09FFCCD40DA6A6A646F70FF5D8417C196FF9BCFB1486B208F9E979333FF70363B7DB63FEED557E07D0788C70424BFD97A17DF7FFB5E45F5ABCCDD4D5D5A1B8B8F8B55254548495070B4C7D7D3DBF87B41A0A0B0BE1F178F0F79A1F2F5E44B282BA3589E1BE56CEB5737F14EE8A66500DEBE165343434E8EF41AD06F24743BE14774EFF71644A62EDEAE638BCBD6739DF76DC4F0EAAA1A9A949F7D3FF01AA81F6271A1A4BF19B7DE5482677E493946B3903C7A55875F3E6BEFF814FCCDFC10E87C3C13568FF43B496D627FAF07B2907CD27D95D1070C1D4988FE41A14EF8752ACFA7B30C1EF87BBD221CD59F36A2DD5175949DD7FB3BF021A0541375455457EDFA73035BF8BDC6F4AF43165F884EC7F3A81C1DEF8FE3FBC8E96747E311E095F9372F0FC0356980547E7DAD94D7EAEE172194CCEF790FB5D298F2B5F7F24C5AACFA63078A98DAFED840399F9576F4839D83F5905B340F3164C9FD1FBF903A286D387913B668172F56329567DFEE3BE7F3528FCCE03D79FD627BA362EE560FFF4E7300BC87F74A183FBD46AF5E40F9E84E9ECFB507CC552ACFA7C1ADEBE76BEB6B33699997F7D42CA41FEBC59DB4B3976AF4BAFC1D476048ABF448A55B766E1F59C8BF97F9DCEC0EFC4EEE3292907FBEF9C42DE7F70EC7E0FD740E34AA0548A5577E684BF23E67F3483166BBAF517FE8D192907FB7FB1232F03946092FF8F3BF05EEE8AF91FDF4AEF17F5457F9B4DF52FD4222F0394498B14ABFE390F6F7F77CCBF713B23FFEE93392907CDFF55512377E1BDD2C3F17F3D5B84C3B6FFCCD79E39892DEDCFEE939F5FD9975CA71A5914FEF308DD0D62F196FFC0DF1ED5C1FECD2CFAA3E4BF20F2BAD05EDA9AD6DF505B8B7FA221A8BBCB596049FC2E36F095B737AD37710F3ACF7D81EE8ED6AC70BEBBFD40F7BFA1A341B7" />
+					<Bitmap Name="Aliases.Device.Process_smartbear_smartbearbrowser.RootLayout.WebView_webView" Data="61717A6970000000010000003604000078019592DF4A1B4114877F421FA08FE045A885786BBCF7DE47F0C2100A452542902215496C352D9BD404A3561DA8D518B3899BA4545BAAB1EBAA259A1835E8DAD0A2A069454BA55D146FE3EE8C5989116407BE3973387C67983F0D8D9607A0C3A2CE8F551E5E53856A75A58EEB3A4BD85C441184731862E6BD0F8410D52C62F1730CF3A4CD10F9954938BB3A1118F0537F4DE881110E3202DC2F5CE8EAECA0FE7771044638DEFD029FE735FA5E3AA95FD8126084BFFB2B18191C80BF9FA3FED9CF248CA014D2987847404687543F8EEC528421AAB10C5ECD2B399425F0E120A682E3E0380E56AB15C33E3762B1C8BD90402FA25363F0706E442321FA865A8FB5F9102E2FFF516AC24FA0F12864A3515B7B32AC9E1327A1FCDEC6E8DB00EC763BF5B57FB0BE70E39B67DB5137D781D6B937304D3443CBBDD930ED9D1383508E77B0BD99D65DEA27A7F5FDCD490764A580DDFF47789A7805136F8337C7335F9A86722257F8E9AFACAE9DA176F5195AF6C661497543BEF885A6980B5E39CAFC651ECA69BED21767F4FD6B33CF51A23EEB42739EC09B1798FF4D80F2E747A52FC575DF7FF409B7914E36999F4AE0FC6CFF0EFF83EE97DEE1AE984B7DC4C26CB8ECEEB4FBDB482D222D25EE218EADAC54E65E017F4C1E2F" />
+					<Bitmap Name="Aliases.Device.Process_smartbear_smartbearbrowser.RootLayout.WebView_webView.Page_mnkbscokrmobilemainhtml" Data="61717A697000000001000000360400007801B592ED4F526118C6AFB6FE80FE843EF6B52F7EAC59EB536B2D67646BC6AAB5CC345DCB89CE888220C49AADCC310D089D404048E700EB430A2952930E3040E4555E1C21AE82D51FD0CDCB708EC6FAE2BD5DCFB9CF9EFDAEFB7A9E734E9D6B3B8C6AB5D17A8C74A4AE43384A1D557DBFF672B02BA7BC89906E0419970AE965E57F0FF3CDF420A41D44D4304C126087B3E267D48942C08E9C47D7D227A0EE43CC388AA4E521521FC4D86224487F9C4429ED45696B1DBF126EE439E69F1E01753FE2A63162C4C8D89F22E39023EFD622E79A45813294B37E94333E94525FF1DD6F6FF288E887ABF3AADCCA1B6456F4F02A7B4977905D33A39C0BD63CB23EECC6DCFBF8209D37657D44336B730B9C03ABD20B58935F24F1E09675607BDD56E72B393814C24B0D8FF0C210D2ACB49A39BB3C83885106EFAB5BE0A6FB48FDF836751B619D187F76E20D8FE2E66A83DFD00B90A633A76D32385F0F20B6F802418D00E1F907D8981722F4761409660ABFF3913D3EE6D9E30DF49D89F74CF7E025FF38922E3DA2EF24482C4E20697D8698498A62D0D9602B77B91BFFD2E02B4DCC22826EE80C54774FC02CE9426289EEDEA9C1F6E739E4BD2C8A7E078AF40FFCD87435DD5F85FFF49C0FF5C04968EEB5437BFF34E6C8CB3ED90B46711DACE21A18F9D59AC6F9303FB952419A4A35D80EFDD87918459D308B2F518ECBF4EC82E9310F0661071646CE6296F2B52A8388078BB41B36C50DD8276A6229C37B9AA91776B642F7EDB1323E6CB26EB02486FA83AABFCF5D2E5A" />
+					<Bitmap Name="Aliases.Device.Process_smartbear_smartbearbrowser.RootLayout.WebView_webView.Page_mnkbscokrmobilenewsviewdo" Data="61717A697000000001000000360400007801B592ED4F526118C6AFB6FE80FE843EF6B52F7EAC59EB536B2D67646BC6AAB5CC345DCB89CE888220C49AADCC310D089D404048E700EB430A2952930E3040E4555E1C21AE82D51FD0CDCB708EC6FAE2BD5DCFB9CF9EFDAEFB7A9E734E9D6B3B8C6AB5D17A8C74A4AE43384A1D557DBFF672B02BA7BC89906E0419970AE965E57F0FF3CDF420A41D44D4304C126087B3E267D48942C08E9C47D7D227A0EE43CC388AA4E521521FC4D86224487F9C4429ED45696B1DBF126EE439E69F1E01753FE2A63162C4C8D89F22E39023EFD622E79A45813294B37E94333E94525FF1DD6F6FF288E887ABF3AADCCA1B6456F4F02A7B4977905D33A39C0BD63CB23EECC6DCFBF8209D37657D44336B730B9C03ABD20B58935F24F1E09675607BDD56E72B393814C24B0D8FF0C210D2ACB49A39BB3C83885106EFAB5BE0A6FB48FDF836751B619D187F76E20D8FE2E66A83DFD00B90A633A76D32385F0F20B6F802418D00E1F907D8981722F4761409660ABFF3913D3EE6D9E30DF49D89F74CF7E025FF38922E3DA2EF24482C4E20697D8698498A62D0D9602B77B91BFFD2E02B4DCC22826EE80C54774FC02CE9426289EEDEA9C1F6E739E4BD2C8A7E078AF40FFCD87435DD5F85FFF49C0FF5C04968EEB5437BFF34E6C8CB3ED90B46711DACE21A18F9D59AC6F9303FB952419A4A35D80EFDD87918459D308B2F518ECBF4EC82E9310F0661071646CE6296F2B52A8388078BB41B36C50DD8276A6229C37B9AA91776B642F7EDB1323E6CB26EB02486FA83AABFCF5D2E5A" />
+				</NodeBitmaps>
+			</Extenders>
+		</Data>
+		<Children>
+			<Operation Type="{D993D251-65A9-4BED-A2EC-C2AC83739BAD}">
+				<Data GroupName="KBS News 페이지 이동" />
+				<Children>
+					<Operation Type="{66F32D5F-A5DB-420E-9CB4-3DB7CADE2692}">
+						<Data Description="Runs the &quot;SmartBearBrowser&quot; tested application." TestedApp="SmartBearBrowser">
+							<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+								<Parameter Name="Count" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+								<Parameter Name="IgnoreRunning" DefVarType="11" DefValueType="7" DefValueValue="False" VarType="11" ValueType="7" ValueValue="False" />
+								<Parameter Name="Timeout" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+							</Parameters>
+						</Data>
+					</Operation>
+					<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+						<Data Description="Simulates a touch on the View control at the specified position in control-relative coordinates. If no coordinates are specified, a touch is simulated in the center of the control." Action="Touch">
+							<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+								<Parameter Name="X" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+								<Parameter Name="Y" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+							</Parameters>
+							<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.Device.Process_smartbear_smartbearbrowser.RootLayout.Layout_NO_ID.EditText_txtUrl;" />
+						</Data>
+					</Operation>
+					<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+						<Data Description="Enters text in the edit control." Action="SetText">
+							<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+								<Parameter Name="Text" DefVarType="8" ParamType="{83D6F80C-4323-4034-92E3-FD2A65D2E6FC}" VariableType="2" VariableName="Main_URL" />
+							</Parameters>
+							<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.Device.Process_smartbear_smartbearbrowser.RootLayout.Layout_NO_ID.EditText_txtUrl;" />
+						</Data>
+					</Operation>
+					<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+						<Data Description="Performs a single touch on the specified button." Action="TouchButton">
+							<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.Device.Process_smartbear_smartbearbrowser.RootLayout.Layout_NO_ID.Button_Go;" />
+						</Data>
+					</Operation>
+				</Children>
+			</Operation>
+			<Operation Type="{6F20B0D8-E0CF-47FF-A68B-3E3672DD0CB0}">
+				<Data VariableType="2" VariableName="News_Title_comparison">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="NewValue" DefVarType="0" ParamType="{FC0DF733-E97F-46DD-8307-EA4DFF891298}" Expression="Aliases.Device.Process_smartbear_smartbearbrowser.RootLayout.WebView_webView.Page_mnkbscokrmobilemainhtml.panel.panel.section.link_8_.textnode_8_.contentText" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{D993D251-65A9-4BED-A2EC-C2AC83739BAD}">
+				<Data GroupName="뉴스기사 동영상 여부 확인" />
+				<Children>
+					<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+						<Data Description="Simulates a click on the View control at the specified position using control-relative coordinates. If no coordinates are specified, a click is simulated in the center of the control." Action="Click">
+							<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+								<Parameter Name="X" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+								<Parameter Name="Y" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+							</Parameters>
+							<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.Device.Process_smartbear_smartbearbrowser.RootLayout.WebView_webView.Page_mnkbscokrmobilemainhtml.panel.panel.section.link_8_.textnode_8_;" />
+						</Data>
+					</Operation>
+					<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+						<Data Description="Pauses the script execution until the specified Web page is downloaded or until the specified time limit elapses." Action="Wait">
+							<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+								<Parameter Name="WaitTime" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+							</Parameters>
+							<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.Device.Process_smartbear_smartbearbrowser.RootLayout.WebView_webView.Page_mnkbscokrmobilemainhtml;" />
+						</Data>
+					</Operation>
+					<Operation Type="{D993D251-65A9-4BED-A2EC-C2AC83739BAD}">
+						<Data GroupName="뉴스기사 스크랩/좋아요/공유하기 버튼 확인" />
+						<Children>
+							<Operation Type="{2F0A05A2-4ECD-47CE-A12B-9843A308F2DC}">
+								<Data Description="Checks whether the %p2 property of the %p1 object %p3 %p4.">
+									<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+										<Parameter Name="Object" DefVarType="12" ParamType="{FC0DF733-E97F-46DD-8307-EA4DFF891298}" Expression="Aliases.Device.Process_smartbear_smartbearbrowser.RootLayout.WebView_webView.Page_mnkbscokrmobilenewsviewdo.panel.panel.panel.article.panel2.panel.button6" />
+										<Parameter Name="Property" DefVarType="8" VarType="8" ValueType="6" ValueValue="textContent" />
+										<Parameter Name="Condition" DefVarType="3" VarType="3" ValueType="1" ValueValue="6" />
+										<Parameter Name="Value" DefVarType="12" VarType="8" ValueType="6" ValueValue="좋아요" />
+										<Parameter Name="CaseSensitive" DefVarType="11" DefValueType="7" DefValueValue="True" VarType="11" ValueType="7" ValueValue="False" />
+									</Parameters>
+								</Data>
+							</Operation>
+							<Operation Type="{2F0A05A2-4ECD-47CE-A12B-9843A308F2DC}">
+								<Data Description="Checks whether the %p2 property of the %p1 object %p3 %p4.">
+									<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+										<Parameter Name="Object" DefVarType="12" ParamType="{FC0DF733-E97F-46DD-8307-EA4DFF891298}" Expression="Aliases.Device.Process_smartbear_smartbearbrowser.RootLayout.WebView_webView.Page_mnkbscokrmobilenewsviewdo.panel.panel.panel.article.panel2.panel.link0" />
+										<Parameter Name="Property" DefVarType="8" VarType="8" ValueType="6" ValueValue="textContent" />
+										<Parameter Name="Condition" DefVarType="3" VarType="3" ValueType="1" ValueValue="6" />
+										<Parameter Name="Value" DefVarType="12" VarType="8" ValueType="6" ValueValue="메시지" />
+										<Parameter Name="CaseSensitive" DefVarType="11" DefValueType="7" DefValueValue="True" VarType="11" ValueType="7" ValueValue="False" />
+									</Parameters>
+								</Data>
+							</Operation>
+							<Operation Type="{2F0A05A2-4ECD-47CE-A12B-9843A308F2DC}">
+								<Data Description="Checks whether the %p2 property of the %p1 object %p3 %p4.">
+									<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+										<Parameter Name="Object" DefVarType="12" ParamType="{FC0DF733-E97F-46DD-8307-EA4DFF891298}" Expression="Aliases.Device.Process_smartbear_smartbearbrowser.RootLayout.WebView_webView.Page_mnkbscokrmobilenewsviewdo.panel.panel.panel.article.panel2.panel.button" />
+										<Parameter Name="Property" DefVarType="8" VarType="8" ValueType="6" ValueValue="textContent" />
+										<Parameter Name="Condition" DefVarType="3" VarType="3" ValueType="1" ValueValue="0" />
+										<Parameter Name="Value" DefVarType="12" VarType="8" ValueType="6" ValueValue="스크랩하기" />
+										<Parameter Name="CaseSensitive" DefVarType="11" DefValueType="7" DefValueValue="True" VarType="11" ValueType="7" ValueValue="True" />
+									</Parameters>
+								</Data>
+							</Operation>
+							<Operation Type="{2F0A05A2-4ECD-47CE-A12B-9843A308F2DC}">
+								<Data Description="Checks whether the %p2 property of the %p1 object %p3 %p4.">
+									<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+										<Parameter Name="Object" DefVarType="12" ParamType="{FC0DF733-E97F-46DD-8307-EA4DFF891298}" Expression="Aliases.Device.Process_smartbear_smartbearbrowser.RootLayout.WebView_webView.Page_mnkbscokrmobilenewsviewdo.panel.panel.panel.article.panel2.panel.link" />
+										<Parameter Name="Property" DefVarType="8" VarType="8" ValueType="6" ValueValue="textContent" />
+										<Parameter Name="Condition" DefVarType="3" VarType="3" ValueType="1" ValueValue="0" />
+										<Parameter Name="Value" DefVarType="12" VarType="8" ValueType="6" ValueValue="공유하기" />
+										<Parameter Name="CaseSensitive" DefVarType="11" DefValueType="7" DefValueValue="True" VarType="11" ValueType="7" ValueValue="True" />
+									</Parameters>
+								</Data>
+							</Operation>
+						</Children>
+					</Operation>
+					<Operation Type="{5B065688-A7F9-41DE-BA45-BF23B8116C41}">
+						<Data Comment="이미지 기사가 보이면 아래의 스크립트 수행" />
+					</Operation>
+					<Operation Type="{A41774FA-ACCE-483C-B514-F3AA3A8769B3}">
+						<Data CheckMode="{C0FB15D7-53C7-4B48-9884-40E3E994D35A}">
+							<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.Device.Process_smartbear_smartbearbrowser.RootLayout.WebView_webView.Page_mnkbscokrmobilenewsviewdo.panel.panel.panel.article.panel3.image;" />
+						</Data>
+						<Children>
+							<Operation Type="{CDD7459C-6C02-4A5C-B1A2-5BD844F1B61B}">
+								<Data Description="Checks whether the property value matches the specified condition. ">
+									<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+										<Parameter Name="Property" DefVarType="12" ParamType="{5EF65F78-D6E6-4C84-90CA-F464F32D7A1D}" Expression="Aliases.Device.Process_smartbear_smartbearbrowser.RootLayout.WebView_webView.Page_mnkbscokrmobilenewsviewdo.panel.panel.panel.article.panel.textnode_2.contentText" />
+										<Parameter Name="Condition" DefVarType="3" VarType="3" ValueType="1" ValueValue="0" />
+										<Parameter Name="Value" DefVarType="12" ParamType="{83D6F80C-4323-4034-92E3-FD2A65D2E6FC}" VariableType="2" VariableName="News_Title_comparison" />
+										<Parameter Name="CaseSensitive" DefVarType="11" DefValueType="7" DefValueValue="True" VarType="11" ValueType="7" ValueValue="True" />
+										<Parameter Name="MessageType" DefVarType="3" DefValueType="1" DefValueValue="2" VarType="3" ValueType="1" ValueValue="2" />
+									</Parameters>
+								</Data>
+							</Operation>
+							<Operation Type="{5B065688-A7F9-41DE-BA45-BF23B8116C41}">
+								<Data Comment="동영상 기사가 보이면 아래의 스크립트 수행" />
+							</Operation>
+						</Children>
+					</Operation>
+					<Operation Type="{A41774FA-ACCE-483C-B514-F3AA3A8769B3}">
+						<Data CheckMode="{C0FB15D7-53C7-4B48-9884-40E3E994D35A}">
+							<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.Device.Process_smartbear_smartbearbrowser.RootLayout.WebView_webView.Page_mnkbscokrmobilenewsviewdo.panel.panel.panel.article.panel3.link_;" />
+						</Data>
+						<Children>
+							<Operation Type="{CDD7459C-6C02-4A5C-B1A2-5BD844F1B61B}">
+								<Data Description="Checks whether the property value matches the specified condition. ">
+									<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+										<Parameter Name="Property" DefVarType="12" ParamType="{5EF65F78-D6E6-4C84-90CA-F464F32D7A1D}" Expression="Aliases.Device.Process_smartbear_smartbearbrowser.RootLayout.WebView_webView.Page_mnkbscokrmobilenewsviewdo.panel.panel.panel.article.panel.textnode_2.contentText" />
+										<Parameter Name="Condition" DefVarType="3" VarType="3" ValueType="1" ValueValue="0" />
+										<Parameter Name="Value" DefVarType="12" ParamType="{83D6F80C-4323-4034-92E3-FD2A65D2E6FC}" VariableType="2" VariableName="News_Title_comparison" />
+										<Parameter Name="CaseSensitive" DefVarType="11" DefValueType="7" DefValueValue="True" VarType="11" ValueType="7" ValueValue="True" />
+										<Parameter Name="MessageType" DefVarType="3" DefValueType="1" DefValueValue="2" VarType="3" ValueType="1" ValueValue="2" />
+									</Parameters>
+								</Data>
+							</Operation>
+							<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+								<Data Description="Simulates a click on the View control at the specified position using control-relative coordinates. If no coordinates are specified, a click is simulated in the center of the control." Action="Click">
+									<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+										<Parameter Name="X" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+										<Parameter Name="Y" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+									</Parameters>
+									<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.Device.Process_smartbear_smartbearbrowser.RootLayout.WebView_webView.Page_mnkbscokrmobilenewsviewdo.panel.panel.panel.article.panel3.link_;" />
+								</Data>
+							</Operation>
+						</Children>
+					</Operation>
+				</Children>
+			</Operation>
+			<Operation Type="{D993D251-65A9-4BED-A2EC-C2AC83739BAD}">
+				<Data GroupName="뉴스기사 Ai Pick 맞춤뉴스" />
+				<Children>
+					<Operation Type="{5B065688-A7F9-41DE-BA45-BF23B8116C41}">
+						<Data Comment="Ai pick 맞춤뉴스" />
+					</Operation>
+					<Operation Type="{2F0A05A2-4ECD-47CE-A12B-9843A308F2DC}">
+						<Data Description="Checks whether the %p2 property of the %p1 object %p3 %p4.">
+							<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+								<Parameter Name="Object" DefVarType="12" ParamType="{FC0DF733-E97F-46DD-8307-EA4DFF891298}" Expression="Aliases.Device.Process_smartbear_smartbearbrowser.RootLayout.WebView_webView.Page_mnkbscokrmobilenewsviewdo.panel.panel.panel.section2.textnodeAi_pick_" />
+								<Parameter Name="Property" DefVarType="8" VarType="8" ValueType="6" ValueValue="contentText" />
+								<Parameter Name="Condition" DefVarType="3" VarType="3" ValueType="1" ValueValue="0" />
+								<Parameter Name="Value" DefVarType="12" VarType="8" ValueType="6" ValueValue="Ai pick 맞춤 뉴스" />
+								<Parameter Name="CaseSensitive" DefVarType="11" DefValueType="7" DefValueValue="True" VarType="11" ValueType="7" ValueValue="True" />
+							</Parameters>
+						</Data>
+					</Operation>
+					<Operation Type="{6F20B0D8-E0CF-47FF-A68B-3E3672DD0CB0}">
+						<Data VariableType="2" VariableName="News_Title_comparison">
+							<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+								<Parameter Name="NewValue" DefVarType="0" ParamType="{5EF65F78-D6E6-4C84-90CA-F464F32D7A1D}" Expression="Aliases.Device.Process_smartbear_smartbearbrowser.RootLayout.WebView_webView.Page_mnkbscokrmobilenewsviewdo.panel.panel.panel.section2.panel.panel.panel.link_.textnode_.contentText" />
+							</Parameters>
+						</Data>
+					</Operation>
+					<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+						<Data Description="Simulates a click on the View control at the specified position using control-relative coordinates. If no coordinates are specified, a click is simulated in the center of the control." Action="Click">
+							<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+								<Parameter Name="X" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+								<Parameter Name="Y" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+							</Parameters>
+							<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.Device.Process_smartbear_smartbearbrowser.RootLayout.WebView_webView.Page_mnkbscokrmobilenewsviewdo.panel.panel.panel.section2.panel.panel.panel.link_;" />
+						</Data>
+					</Operation>
+					<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+						<Data Description="Pauses the script execution until the specified Web page is downloaded or until the specified time limit elapses." Action="Wait">
+							<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+								<Parameter Name="WaitTime" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+							</Parameters>
+							<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.Device.Process_smartbear_smartbearbrowser.RootLayout.WebView_webView.Page_mnkbscokrmobilenewsviewdo;" />
+						</Data>
+					</Operation>
+					<Operation Type="{2F0A05A2-4ECD-47CE-A12B-9843A308F2DC}">
+						<Data Description="Checks whether the %p2 property of the %p1 object %p3 %p4.">
+							<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+								<Parameter Name="Object" DefVarType="12" ParamType="{FC0DF733-E97F-46DD-8307-EA4DFF891298}" Expression="Aliases.Device.Process_smartbear_smartbearbrowser.RootLayout.WebView_webView.Page_mnkbscokrmobilenewsviewdo.panel.panel.panel.article.panel.panel.textnode" />
+								<Parameter Name="Property" DefVarType="8" VarType="8" ValueType="6" ValueValue="contentText" />
+								<Parameter Name="Condition" DefVarType="3" VarType="3" ValueType="1" ValueValue="6" />
+								<Parameter Name="Value" DefVarType="12" VarType="8" ValueType="6" ValueValue="입력" />
+								<Parameter Name="CaseSensitive" DefVarType="11" DefValueType="7" DefValueValue="True" VarType="11" ValueType="7" ValueValue="False" />
+							</Parameters>
+						</Data>
+					</Operation>
+					<Operation Type="{CDD7459C-6C02-4A5C-B1A2-5BD844F1B61B}">
+						<Data Description="Checks whether the property value matches the specified condition. ">
+							<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+								<Parameter Name="Property" DefVarType="12" ParamType="{5EF65F78-D6E6-4C84-90CA-F464F32D7A1D}" Expression="Aliases.Device.Process_smartbear_smartbearbrowser.RootLayout.WebView_webView.Page_mnkbscokrmobilenewsviewdo.panel.panel.panel.article.panel.textnode_2.textContent" />
+								<Parameter Name="Condition" DefVarType="3" VarType="3" ValueType="1" ValueValue="0" />
+								<Parameter Name="Value" DefVarType="12" ParamType="{83D6F80C-4323-4034-92E3-FD2A65D2E6FC}" VariableType="2" VariableName="News_Title_comparison" />
+								<Parameter Name="CaseSensitive" DefVarType="11" DefValueType="7" DefValueValue="True" VarType="11" ValueType="7" ValueValue="True" />
+								<Parameter Name="MessageType" DefVarType="3" DefValueType="1" DefValueValue="2" VarType="3" ValueType="1" ValueValue="2" />
+							</Parameters>
+						</Data>
+					</Operation>
+				</Children>
+			</Operation>
+			<Operation Type="{D993D251-65A9-4BED-A2EC-C2AC83739BAD}">
+				<Data GroupName="뉴스기사 오늘의 HOT클릭&#9;&#9;&#9;">
+					<CommonData Disabled="True" />
+				</Data>
+				<Children>
+					<Operation Type="{5B065688-A7F9-41DE-BA45-BF23B8116C41}">
+						<Data Comment="오늘의 HOT클릭">
+							<CommonData Disabled="True" />
+						</Data>
+					</Operation>
+					<Operation Type="{2F0A05A2-4ECD-47CE-A12B-9843A308F2DC}">
+						<Data Description="Checks whether the %p2 property of the %p1 object %p3 %p4.">
+							<CommonData Disabled="True" />
+							<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+								<Parameter Name="Object" DefVarType="12" ParamType="{FC0DF733-E97F-46DD-8307-EA4DFF891298}" Expression="Aliases.Device.Process_smartbear_smartbearbrowser.RootLayout.WebView_webView.Page_mnkbscokrmobilenewsviewdo.panel.panel.panel.section3.textnode_HOT" />
+								<Parameter Name="Property" DefVarType="8" VarType="8" ValueType="6" ValueValue="contentText" />
+								<Parameter Name="Condition" DefVarType="3" VarType="3" ValueType="1" ValueValue="0" />
+								<Parameter Name="Value" DefVarType="12" VarType="8" ValueType="6" ValueValue="오늘의 HOT클릭" />
+								<Parameter Name="CaseSensitive" DefVarType="11" DefValueType="7" DefValueValue="True" VarType="11" ValueType="7" ValueValue="True" />
+							</Parameters>
+						</Data>
+					</Operation>
+					<Operation Type="{6F20B0D8-E0CF-47FF-A68B-3E3672DD0CB0}">
+						<Data VariableType="2" VariableName="News_Title_comparison">
+							<CommonData Disabled="True" />
+							<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+								<Parameter Name="NewValue" DefVarType="0" ParamType="{5EF65F78-D6E6-4C84-90CA-F464F32D7A1D}" Expression="Aliases.Device.Process_smartbear_smartbearbrowser.RootLayout.WebView_webView.Page_mnkbscokrmobilenewsviewdo.panel.panel.panel.section3.panel.panel.panel.panel.link_.textnode_.contentText" />
+							</Parameters>
+						</Data>
+					</Operation>
+					<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+						<Data Description="Simulates a click on the View control at the specified position using control-relative coordinates. If no coordinates are specified, a click is simulated in the center of the control." Action="Click">
+							<CommonData Disabled="True" />
+							<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+								<Parameter Name="X" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+								<Parameter Name="Y" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+							</Parameters>
+							<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.Device.Process_smartbear_smartbearbrowser.RootLayout.WebView_webView.Page_mnkbscokrmobilenewsviewdo.panel.panel.panel.section3.panel.panel.panel.panel.link_;" />
+						</Data>
+					</Operation>
+					<Operation Type="{2F0A05A2-4ECD-47CE-A12B-9843A308F2DC}">
+						<Data Description="Checks whether the %p2 property of the %p1 object %p3 %p4.">
+							<CommonData Disabled="True" />
+							<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+								<Parameter Name="Object" DefVarType="12" ParamType="{FC0DF733-E97F-46DD-8307-EA4DFF891298}" Expression="Aliases.Device.Process_smartbear_smartbearbrowser.RootLayout.WebView_webView.Page_mnkbscokrmobilenewsviewdo.panel.panel.panel.article.panel.panel.textnode" />
+								<Parameter Name="Property" DefVarType="8" VarType="8" ValueType="6" ValueValue="contentText" />
+								<Parameter Name="Condition" DefVarType="3" VarType="3" ValueType="1" ValueValue="6" />
+								<Parameter Name="Value" DefVarType="12" VarType="8" ValueType="6" ValueValue="입력" />
+								<Parameter Name="CaseSensitive" DefVarType="11" DefValueType="7" DefValueValue="True" VarType="11" ValueType="7" ValueValue="False" />
+							</Parameters>
+						</Data>
+					</Operation>
+					<Operation Type="{CDD7459C-6C02-4A5C-B1A2-5BD844F1B61B}">
+						<Data Description="Checks whether the property value matches the specified condition. ">
+							<CommonData Disabled="True" />
+							<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+								<Parameter Name="Property" DefVarType="12" ParamType="{5EF65F78-D6E6-4C84-90CA-F464F32D7A1D}" Expression="Aliases.Device.Process_smartbear_smartbearbrowser.RootLayout.WebView_webView.Page_mnkbscokrmobilenewsviewdo.panel.panel.panel.article.panel.textnode_2.textContent" />
+								<Parameter Name="Condition" DefVarType="3" VarType="3" ValueType="1" ValueValue="0" />
+								<Parameter Name="Value" DefVarType="12" ParamType="{83D6F80C-4323-4034-92E3-FD2A65D2E6FC}" VariableType="2" VariableName="News_Title_comparison" />
+								<Parameter Name="CaseSensitive" DefVarType="11" DefValueType="7" DefValueValue="True" VarType="11" ValueType="7" ValueValue="True" />
+								<Parameter Name="MessageType" DefVarType="3" DefValueType="1" DefValueValue="2" VarType="3" ValueType="1" ValueValue="2" />
+							</Parameters>
+						</Data>
+					</Operation>
+				</Children>
+			</Operation>
+			<Operation Type="{D993D251-65A9-4BED-A2EC-C2AC83739BAD}">
+				<Data GroupName="뉴스기사 많이 본 뉴스">
+					<CommonData Disabled="True" />
+				</Data>
+				<Children>
+					<Operation Type="{5B065688-A7F9-41DE-BA45-BF23B8116C41}">
+						<Data Comment="많이 본 뉴스">
+							<CommonData Disabled="True" />
+						</Data>
+					</Operation>
+					<Operation Type="{2F0A05A2-4ECD-47CE-A12B-9843A308F2DC}">
+						<Data Description="Checks whether the %p2 property of the %p1 object %p3 %p4.">
+							<CommonData Disabled="True" />
+							<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+								<Parameter Name="Object" DefVarType="12" ParamType="{FC0DF733-E97F-46DD-8307-EA4DFF891298}" Expression="Aliases.Device.Process_smartbear_smartbearbrowser.RootLayout.WebView_webView.Page_mnkbscokrmobilenewsviewdo.panel.panel.panel.section4.textnode_" />
+								<Parameter Name="Property" DefVarType="8" VarType="8" ValueType="6" ValueValue="contentText" />
+								<Parameter Name="Condition" DefVarType="3" VarType="3" ValueType="1" ValueValue="0" />
+								<Parameter Name="Value" DefVarType="12" VarType="8" ValueType="6" ValueValue="많이 본 뉴스" />
+								<Parameter Name="CaseSensitive" DefVarType="11" DefValueType="7" DefValueValue="True" VarType="11" ValueType="7" ValueValue="True" />
+							</Parameters>
+						</Data>
+					</Operation>
+					<Operation Type="{6F20B0D8-E0CF-47FF-A68B-3E3672DD0CB0}">
+						<Data VariableType="2" VariableName="News_Title_comparison">
+							<CommonData Disabled="True" />
+							<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+								<Parameter Name="NewValue" DefVarType="0" ParamType="{5EF65F78-D6E6-4C84-90CA-F464F32D7A1D}" Expression="Aliases.Device.Process_smartbear_smartbearbrowser.RootLayout.WebView_webView.Page_mnkbscokrmobilenewsviewdo.panel.panel.panel.section4.panel.panel.link.textnode_.contentText" />
+							</Parameters>
+						</Data>
+					</Operation>
+					<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+						<Data Description="Simulates a click on the View control at the specified position using control-relative coordinates. If no coordinates are specified, a click is simulated in the center of the control." Action="Click">
+							<CommonData Disabled="True" />
+							<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+								<Parameter Name="X" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+								<Parameter Name="Y" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+							</Parameters>
+							<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.Device.Process_smartbear_smartbearbrowser.RootLayout.WebView_webView.Page_mnkbscokrmobilenewsviewdo.panel.panel.panel.section4.panel.panel.link;" />
+						</Data>
+					</Operation>
+					<Operation Type="{2F0A05A2-4ECD-47CE-A12B-9843A308F2DC}">
+						<Data Description="Checks whether the %p2 property of the %p1 object %p3 %p4.">
+							<CommonData Disabled="True" />
+							<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+								<Parameter Name="Object" DefVarType="12" ParamType="{FC0DF733-E97F-46DD-8307-EA4DFF891298}" Expression="Aliases.Device.Process_smartbear_smartbearbrowser.RootLayout.WebView_webView.Page_mnkbscokrmobilenewsviewdo.panel.panel.panel.article.panel.panel.textnode" />
+								<Parameter Name="Property" DefVarType="8" VarType="8" ValueType="6" ValueValue="contentText" />
+								<Parameter Name="Condition" DefVarType="3" VarType="3" ValueType="1" ValueValue="6" />
+								<Parameter Name="Value" DefVarType="12" VarType="8" ValueType="6" ValueValue="입력" />
+								<Parameter Name="CaseSensitive" DefVarType="11" DefValueType="7" DefValueValue="True" VarType="11" ValueType="7" ValueValue="False" />
+							</Parameters>
+						</Data>
+					</Operation>
+					<Operation Type="{CDD7459C-6C02-4A5C-B1A2-5BD844F1B61B}">
+						<Data Description="Checks whether the property value matches the specified condition. ">
+							<CommonData Disabled="True" />
+							<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+								<Parameter Name="Property" DefVarType="12" ParamType="{5EF65F78-D6E6-4C84-90CA-F464F32D7A1D}" Expression="Aliases.Device.Process_smartbear_smartbearbrowser.RootLayout.WebView_webView.Page_mnkbscokrmobilenewsviewdo.panel.panel.panel.article.panel.textnode_.textContent" />
+								<Parameter Name="Condition" DefVarType="3" VarType="3" ValueType="1" ValueValue="0" />
+								<Parameter Name="Value" DefVarType="12" ParamType="{83D6F80C-4323-4034-92E3-FD2A65D2E6FC}" VariableType="2" VariableName="News_Title_comparison" />
+								<Parameter Name="CaseSensitive" DefVarType="11" DefValueType="7" DefValueValue="True" VarType="11" ValueType="7" ValueValue="True" />
+								<Parameter Name="MessageType" DefVarType="3" DefValueType="1" DefValueValue="2" VarType="3" ValueType="1" ValueValue="2" />
+							</Parameters>
+						</Data>
+					</Operation>
+				</Children>
+			</Operation>
+			<Operation Type="{D993D251-65A9-4BED-A2EC-C2AC83739BAD}">
+				<Data GroupName="뉴스기사 기자정보">
+					<CommonData Disabled="True" />
+				</Data>
+				<Children>
+					<Operation Type="{5B065688-A7F9-41DE-BA45-BF23B8116C41}">
+						<Data Comment="기자 정보">
+							<CommonData Disabled="True" />
+						</Data>
+					</Operation>
+					<Operation Type="{2F0A05A2-4ECD-47CE-A12B-9843A308F2DC}">
+						<Data Description="Checks whether the %p2 property of the %p1 object %p3 %p4.">
+							<CommonData Disabled="True" />
+							<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+								<Parameter Name="Object" DefVarType="12" ParamType="{FC0DF733-E97F-46DD-8307-EA4DFF891298}" Expression="Aliases.Device.Process_smartbear_smartbearbrowser.RootLayout.WebView_webView.Page_mnkbscokrmobilenewsviewdo.panel.panel.panel.article.panel2.panel_news1kbscokr_.textnode_" />
+								<Parameter Name="Property" DefVarType="8" VarType="8" ValueType="6" ValueValue="contentText" />
+								<Parameter Name="Condition" DefVarType="3" VarType="3" ValueType="1" ValueValue="6" />
+								<Parameter Name="Value" DefVarType="12" VarType="8" ValueType="6" ValueValue="기자 " />
+								<Parameter Name="CaseSensitive" DefVarType="11" DefValueType="7" DefValueValue="True" VarType="11" ValueType="7" ValueValue="False" />
+							</Parameters>
+						</Data>
+					</Operation>
+					<Operation Type="{2F0A05A2-4ECD-47CE-A12B-9843A308F2DC}">
+						<Data Description="Checks whether the %p2 property of the %p1 object %p3 %p4.">
+							<CommonData Disabled="True" />
+							<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+								<Parameter Name="Object" DefVarType="12" ParamType="{FC0DF733-E97F-46DD-8307-EA4DFF891298}" Expression="Aliases.Device.Process_smartbear_smartbearbrowser.RootLayout.WebView_webView.Page_mnkbscokrmobilenewsviewdo.panel.panel.panel.article.panel2.panel_news1kbscokr_.linknews1kbscokr" />
+								<Parameter Name="Property" DefVarType="8" VarType="8" ValueType="6" ValueValue="contentText" />
+								<Parameter Name="Condition" DefVarType="3" VarType="3" ValueType="1" ValueValue="6" />
+								<Parameter Name="Value" DefVarType="12" VarType="8" ValueType="6" ValueValue="@kbs.co.kr" />
+								<Parameter Name="CaseSensitive" DefVarType="11" DefValueType="7" DefValueValue="True" VarType="11" ValueType="7" ValueValue="False" />
+							</Parameters>
+						</Data>
+					</Operation>
+					<Operation Type="{6F20B0D8-E0CF-47FF-A68B-3E3672DD0CB0}">
+						<Data VariableType="2" VariableName="Reporter_name">
+							<CommonData Disabled="True" />
+							<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+								<Parameter Name="NewValue" DefVarType="0" ParamType="{5EF65F78-D6E6-4C84-90CA-F464F32D7A1D}" Expression="Aliases.Device.Process_smartbear_smartbearbrowser.RootLayout.WebView_webView.Page_mnkbscokrmobilenewsviewdo.panel.panel.panel.article.panel2.panel_news1kbscokr_.textnode_.contentText" />
+							</Parameters>
+						</Data>
+					</Operation>
+					<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+						<Data Description="Simulates a click on the View control at the specified position using control-relative coordinates. If no coordinates are specified, a click is simulated in the center of the control." Action="Click">
+							<CommonData Disabled="True" />
+							<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+								<Parameter Name="X" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+								<Parameter Name="Y" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+							</Parameters>
+							<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.Device.Process_smartbear_smartbearbrowser.RootLayout.WebView_webView.Page_mnkbscokrmobilenewsviewdo.panel.panel.panel.article.panel2.panel_news1kbscokr_.link_;" />
+						</Data>
+					</Operation>
+					<Operation Type="{2F0A05A2-4ECD-47CE-A12B-9843A308F2DC}">
+						<Data Description="Checks whether the %p2 property of the %p1 object %p3 %p4.">
+							<CommonData Disabled="True" />
+							<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+								<Parameter Name="Object" DefVarType="12" ParamType="{FC0DF733-E97F-46DD-8307-EA4DFF891298}" Expression="Aliases.Device.Process_smartbear_smartbearbrowser.RootLayout.WebView_webView.Page_mnkbscokrmobilenewslistdo.panel.panel.panel.panel_K.textnodeK" />
+								<Parameter Name="Property" DefVarType="8" VarType="8" ValueType="6" ValueValue="contentText" />
+								<Parameter Name="Condition" DefVarType="3" VarType="3" ValueType="1" ValueValue="6" />
+								<Parameter Name="Value" DefVarType="12" VarType="8" ValueType="6" ValueValue="기사 모음" />
+								<Parameter Name="CaseSensitive" DefVarType="11" DefValueType="7" DefValueValue="True" VarType="11" ValueType="7" ValueValue="False" />
+							</Parameters>
+						</Data>
+					</Operation>
+					<Operation Type="{CDD7459C-6C02-4A5C-B1A2-5BD844F1B61B}">
+						<Data Description="Checks whether the property value matches the specified condition. ">
+							<CommonData Disabled="True" />
+							<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+								<Parameter Name="Property" DefVarType="12" ParamType="{5EF65F78-D6E6-4C84-90CA-F464F32D7A1D}" Expression="Aliases.Device.Process_smartbear_smartbearbrowser.RootLayout.WebView_webView.Page_mnkbscokrmobilenewslistdo.panel.panel.panel.panel_K.textnode_.contentText" />
+								<Parameter Name="Condition" DefVarType="3" VarType="3" ValueType="1" ValueValue="0" />
+								<Parameter Name="Value" DefVarType="12" ParamType="{83D6F80C-4323-4034-92E3-FD2A65D2E6FC}" VariableType="2" VariableName="Reporter_name" />
+								<Parameter Name="CaseSensitive" DefVarType="11" DefValueType="7" DefValueValue="True" VarType="11" ValueType="7" ValueValue="True" />
+								<Parameter Name="MessageType" DefVarType="3" DefValueType="1" DefValueValue="2" VarType="3" ValueType="1" ValueValue="2" />
+							</Parameters>
+						</Data>
+					</Operation>
+				</Children>
+			</Operation>
+			<Operation Type="{D993D251-65A9-4BED-A2EC-C2AC83739BAD}">
+				<Data GroupName="뉴스기사 댓글">
+					<CommonData Disabled="True" />
+				</Data>
+				<Children>
+					<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+						<Data Description="Simulates a click on the View control at the specified position using control-relative coordinates. If no coordinates are specified, a click is simulated in the center of the control." Action="Click">
+							<CommonData Disabled="True" />
+							<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+								<Parameter Name="X" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+								<Parameter Name="Y" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+							</Parameters>
+							<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.Device.Process_smartbear_smartbearbrowser.RootLayout.WebView_webView.Page_mnkbscokrmobilenewsviewdo.panel.panel.panel.article.panel2.panel.link0;" />
+						</Data>
+					</Operation>
+					<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+						<Data Description="Pauses the script execution until the specified Web page is downloaded or until the specified time limit elapses." Action="Wait">
+							<CommonData Disabled="True" />
+							<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+								<Parameter Name="WaitTime" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+							</Parameters>
+							<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.Device.Process_smartbear_smartbearbrowser.RootLayout.WebView_webView.Page_mnkbscokrmobilemainhtml;" />
+						</Data>
+					</Operation>
+					<Operation Type="{6A1B4CEE-4FB8-46E2-BFBD-403C84342301}">
+						<Data Description="Delays the test execution for the specified time period.">
+							<CommonData Disabled="True" />
+							<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+								<Parameter Name="ms" DefVarType="3" VarType="3" ValueType="1" ValueValue="5000" />
+								<Parameter Name="Str" DefVarType="8" DefValueType="6" DefValueValue="" VarType="8" ValueType="6" ValueValue="" />
+							</Parameters>
+						</Data>
+					</Operation>
+					<Operation Type="{0C2E7372-2A09-499E-A447-2907ABD7FE30}">
+						<Data Description="Check whether %p2 matches the text optically recognized in the image %p1.">
+							<CommonData Disabled="True" />
+							<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+								<Parameter Name="SearchArea" DefVarType="12" ParamType="{FC0DF733-E97F-46DD-8307-EA4DFF891298}" Expression="Aliases.Device.Process_smartbear_smartbearbrowser.RootLayout.WebView_webView.Page_mnkbscokrmobilenewsviewdo.panel.panel.panel.section.panel.frame" />
+								<Parameter Name="Text" DefVarType="8" VarType="8" ValueType="6" ValueValue="*등록*" />
+							</Parameters>
+						</Data>
+					</Operation>
+					<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+						<Data Description="Simulates dragging on a control from the specified point to the specified distance with a delay between touching the screen and dragging (the coordinates are relative to the control). " Action="Drag">
+							<CommonData Disabled="True" />
+							<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+								<Parameter Name="StartX" DefVarType="3" VarType="3" ValueType="1" ValueValue="100" />
+								<Parameter Name="StartY" DefVarType="3" VarType="3" ValueType="1" ValueValue="100" />
+								<Parameter Name="DistanceX" DefVarType="3" VarType="3" ValueType="1" ValueValue="0" />
+								<Parameter Name="DistanceY" DefVarType="3" VarType="3" ValueType="1" ValueValue="-1500" />
+								<Parameter Name="FromHoldDuration" DefVarType="3" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0" />
+							</Parameters>
+							<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.Device.Process_smartbear_smartbearbrowser.RootLayout.WebView_webView.Page_mnkbscokrmobilenewsviewdo.panel.panel.panel.section.panel.frame;" />
+						</Data>
+					</Operation>
+					<Operation Type="{0C2E7372-2A09-499E-A447-2907ABD7FE30}">
+						<Data Description="Check whether %p2 matches the text optically recognized in the image %p1.">
+							<CommonData Disabled="True" />
+							<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+								<Parameter Name="SearchArea" DefVarType="12" ParamType="{FC0DF733-E97F-46DD-8307-EA4DFF891298}" Expression="Aliases.Device.Process_smartbear_smartbearbrowser.RootLayout.WebView_webView.Page_mnkbscokrmobilenewsviewdo.panel.panel.panel.section.panel.frame" />
+								<Parameter Name="Text" DefVarType="8" VarType="8" ValueType="6" ValueValue="*댓글운영지침*" />
+							</Parameters>
+						</Data>
+					</Operation>
+					<Operation Type="{5156EB31-13EC-472C-B819-9EC8D4E9E546}">
+						<Data Description="Simulates a user action over the area that contains the recognized text." Action="Touch" TBlockIntType="2">
+							<CommonData Disabled="True" />
+							<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+								<Parameter Name="Selected Text" DefVarType="0" VarType="8" ValueType="6" ValueValue="댓글운영지침" />
+								<Parameter Name="Selected Preferences" DefVarType="0" DefValueType="1" DefValueValue="-10" VarType="3" ValueType="1" ValueValue="-10">
+									<Values IsEnum="True">
+										<Value Type="1" Value="-10" Text="spNone" />
+										<Value Type="1" Value="-11" Text="spNearestToCenter" />
+										<Value Type="1" Value="-12" Text="spLeftMost" />
+										<Value Type="1" Value="-13" Text="spRightMost" />
+										<Value Type="1" Value="-14" Text="spTopMost" />
+										<Value Type="1" Value="-15" Text="spBottomMost" />
+										<Value Type="1" Value="-16" Text="spLargest" />
+										<Value Type="1" Value="-17" Text="spSmallest" />
+									</Values>
+								</Parameter>
+								<Parameter Name="x" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+								<Parameter Name="y" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+							</Parameters>
+							<ObjectSyntax LangId="{E42909F2-4390-4F5D-94B8-FABF59BABFCE}" Code="Aliases.Device.Process_smartbear_smartbearbrowser.RootLayout.WebView_webView.Page_mnkbscokrmobilenewsviewdo.panel.panel.panel.section.panel.frame;" />
+						</Data>
+					</Operation>
+					<Operation Type="{2F0A05A2-4ECD-47CE-A12B-9843A308F2DC}">
+						<Data Description="Checks whether the %p2 property of the %p1 object %p3 %p4.">
+							<CommonData Disabled="True" />
+							<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+								<Parameter Name="Object" DefVarType="12" ParamType="{FC0DF733-E97F-46DD-8307-EA4DFF891298}" Expression="Aliases.Device.Process_smartbear_smartbearbrowser.RootLayout.WebView_webView.Page_mnkbscokrmobilenewsviewdo2.panel.panel.panel.panel.panel.panel.textnode_" />
+								<Parameter Name="Property" DefVarType="8" VarType="8" ValueType="6" ValueValue="contentText" />
+								<Parameter Name="Condition" DefVarType="3" VarType="3" ValueType="1" ValueValue="0" />
+								<Parameter Name="Value" DefVarType="12" VarType="8" ValueType="6" ValueValue="게시물 삭제 및 글쓰기 제한 대상(댓글포함)" />
+								<Parameter Name="CaseSensitive" DefVarType="11" DefValueType="7" DefValueValue="True" VarType="11" ValueType="7" ValueValue="True" />
+							</Parameters>
+						</Data>
+					</Operation>
+					<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+						<Data Description="Simulates a touch on the View control at the specified position in control-relative coordinates. If no coordinates are specified, a touch is simulated in the center of the control." Action="Touch">
+							<CommonData Disabled="True" />
+							<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+								<Parameter Name="X" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+								<Parameter Name="Y" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+							</Parameters>
+							<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.Device.Process_smartbear_smartbearbrowser.RootLayout.Layout_NO_ID.ImageButton_backBtn;" />
+						</Data>
+					</Operation>
+					<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+						<Data Description="Pauses the script execution until the specified Web page is downloaded or until the specified time limit elapses." Action="Wait">
+							<CommonData Disabled="True" />
+							<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+								<Parameter Name="WaitTime" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+							</Parameters>
+							<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.Device.Process_smartbear_smartbearbrowser.RootLayout.WebView_webView.Page_mnkbscokrmobilemainhtml;" />
+						</Data>
+					</Operation>
+					<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+						<Data Description="Simulates dragging on a control from the specified point to the specified distance with a delay between touching the screen and dragging (the coordinates are relative to the control). " Action="Drag">
+							<CommonData Disabled="True" />
+							<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+								<Parameter Name="StartX" DefVarType="3" VarType="3" ValueType="1" ValueValue="100" />
+								<Parameter Name="StartY" DefVarType="3" VarType="3" ValueType="1" ValueValue="100" />
+								<Parameter Name="DistanceX" DefVarType="3" VarType="3" ValueType="1" ValueValue="0" />
+								<Parameter Name="DistanceY" DefVarType="3" VarType="3" ValueType="1" ValueValue="-2000" />
+								<Parameter Name="FromHoldDuration" DefVarType="3" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0" />
+							</Parameters>
+							<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.Device.Process_smartbear_smartbearbrowser.RootLayout.WebView_webView.Page_mnkbscokrmobilenewsviewdo.panel.panel.panel.section.panel.frame;" />
+						</Data>
+					</Operation>
+					<Operation Type="{5156EB31-13EC-472C-B819-9EC8D4E9E546}">
+						<Data Description="Simulates a user action over the area that contains the recognized text." Action="Touch" TBlockIntType="2">
+							<CommonData Disabled="True" />
+							<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+								<Parameter Name="Selected Text" DefVarType="0" VarType="8" ValueType="6" ValueValue="LiveRe" />
+								<Parameter Name="Selected Preferences" DefVarType="0" DefValueType="1" DefValueValue="-10" ParamType="{2B146992-A675-4CF3-9B71-7EE4A1CA11B2}" Expression="spNone">
+									<Values IsEnum="True">
+										<Value Type="1" Value="-10" Text="spNone" />
+										<Value Type="1" Value="-11" Text="spNearestToCenter" />
+										<Value Type="1" Value="-12" Text="spLeftMost" />
+										<Value Type="1" Value="-13" Text="spRightMost" />
+										<Value Type="1" Value="-14" Text="spTopMost" />
+										<Value Type="1" Value="-15" Text="spBottomMost" />
+										<Value Type="1" Value="-16" Text="spLargest" />
+										<Value Type="1" Value="-17" Text="spSmallest" />
+									</Values>
+								</Parameter>
+								<Parameter Name="x" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+								<Parameter Name="y" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+							</Parameters>
+							<ObjectSyntax LangId="{E42909F2-4390-4F5D-94B8-FABF59BABFCE}" Code="Aliases.Device.Process_smartbear_smartbearbrowser.RootLayout.WebView_webView.Page_mnkbscokrmobilenewsviewdo.panel.panel.panel.section.panel.frame;" />
+						</Data>
+					</Operation>
+					<Operation Type="{2F0A05A2-4ECD-47CE-A12B-9843A308F2DC}">
+						<Data Description="Checks whether the %p2 property of the %p1 object %p3 %p4.">
+							<CommonData Disabled="True" />
+							<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+								<Parameter Name="Object" DefVarType="12" ParamType="{FC0DF733-E97F-46DD-8307-EA4DFF891298}" Expression="Aliases.Device.Process_smartbear_smartbearbrowser.RootLayout.WebView_webView.Page_mnkbscokrmobilenewsviewdo3.panel.panel.panel_SNS_.panel_SNS_.textnode" />
+								<Parameter Name="Property" DefVarType="8" VarType="8" ValueType="6" ValueValue="contentText" />
+								<Parameter Name="Condition" DefVarType="3" VarType="3" ValueType="1" ValueValue="0" />
+								<Parameter Name="Value" DefVarType="12" VarType="8" ValueType="6" ValueValue="라이브리" />
+								<Parameter Name="CaseSensitive" DefVarType="11" DefValueType="7" DefValueValue="True" VarType="11" ValueType="7" ValueValue="True" />
+							</Parameters>
+						</Data>
+					</Operation>
+					<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+						<Data Description="Simulates a touch on the View control at the specified position in control-relative coordinates. If no coordinates are specified, a touch is simulated in the center of the control." Action="Touch">
+							<CommonData Disabled="True" />
+							<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+								<Parameter Name="X" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+								<Parameter Name="Y" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+							</Parameters>
+							<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.Device.Process_smartbear_smartbearbrowser.RootLayout.Layout_NO_ID.ImageButton_backBtn;" />
+						</Data>
+					</Operation>
+				</Children>
+			</Operation>
+		</Children>
+	</TestData>
+	<Variables Version="3" Key="{23E1C278-5F0C-4360-BE5F-006BFF3E6B01}" />
+	<Parameters Key="{6DF4586F-22BB-4BC5-BFA6-D0556F398894}" />
+</Root>

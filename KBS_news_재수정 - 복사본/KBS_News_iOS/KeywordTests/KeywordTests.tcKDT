@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9576DAFD-0ADD-41A8-9897-C72F150AF6BB}" version="14.0">
+	<children>
+		<child name="E01_iOS_Front" key="{A2F546FB-9C0D-4018-BDD0-290E24E63B3C}" path="E01_iOS_Front.tcKDTest" />
+		<child name="E02_iOS_FOOTER_menu" key="{DC0AA409-08E6-4939-9084-9346D765E4AB}" path="E02_iOS_FOOTER_menu.tcKDTest" />
+		<child name="Scenario_test" key="{1161751F-586F-425E-A40E-7C22FA8C8D95}" path="Scenario_test.tcKDTest" />
+		<child name="E03_iOS_Expand_menu" key="{988A26CE-89B3-4EC1-8F80-BF1E866CFA8F}" path="E03_iOS_Expand_menu.tcKDTest" />
+		<child name="E04_iOS_News_DetailView" key="{E8DF50FB-313D-40E3-AFBD-B3BBC8779E82}" path="E04_iOS_News_DetailView.tcKDTest" />
+	</children>
+</Root>
